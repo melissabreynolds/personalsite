@@ -19,9 +19,6 @@ View and download my complete CV <a href="{{ site.baseurl }}/webcv.pdf">here</a>
 2019–22	Lecturer, History, Princeton University
 
 ## Selected Publications
-
-For a complete list of my publications, including public-facing scholarship, visit the <a href="{{ site.baseurl }}/publications">publications</a> page. 
-
 ### Book Manuscript
 
 _How To: Medicine, Science, and Renaissance Readers in an Everyday Information Revolution_ (in preparation)
@@ -35,8 +32,7 @@ _How To: Medicine, Science, and Renaissance Readers in an Everyday Information R
 ### Editions and Translations
 
 Member of transcription and translation team for Pamela Smith et al., eds., 
-_Secrets of Craft and Nature in Renaissance France: A Digital Critical Edition and English Translation of Bibliothèque nationale de France MS Fr. 640_, 
-<a href="https://edition640.makingandknowing.org">https://edition640.makingandknowing.org</a>.
+_Secrets of Craft and Nature in Renaissance France: A Digital Critical Edition and English Translation of Bibliothèque nationale de France MS Fr. 640_, <a href="https://edition640.makingandknowing.org">https://edition640.makingandknowing.org</a>.
 
-
+#### For a complete list of my publications
 
