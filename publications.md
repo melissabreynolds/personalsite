@@ -1,7 +1,7 @@
 ---
 layout: page
-title: PUBCIC
-permalink: /permalink/
+title: Publications
+permalink: /publications/
 ---
 
 ### Peer-Reviewed Articles
