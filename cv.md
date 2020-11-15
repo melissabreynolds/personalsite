@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-
+A full CV is viewable here. ({{ site.baseurl }}/pdfs/webcv.png)
 
 
 ### Contact me
