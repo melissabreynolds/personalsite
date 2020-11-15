@@ -78,7 +78,7 @@ Visit the <a href="{{ site.baseurl }}/courses">courses</a> page for course descr
 
 ### Princeton University (as Instructor of Record) 
 * A History of Words: Technologies of Communication from Cuneiform to Coding
-* Fertile Bodies: Reproduction from Antiquity to the Enlightenment 
+* Fertile Bodies: Reproduction from Antiquity to the Enlightenment
 * Interdisciplinary Approaches to Western Culture I
 
 ### Rutgers University (as Teaching Fellow)
