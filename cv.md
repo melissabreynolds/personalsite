@@ -73,5 +73,16 @@ Andrew W. Mellon Foundation
 
 2005 Phi Beta Kappa
 
+## Courses Taught
+Visit the <a href="{{ site.baseurl }}/courses">courses</a> page for course descriptions and sample syllabi.
+
+COURSES TAUGHT
+Princeton University (as Instructor of Record) AHistoryofWords:TechnologiesofCommunicationfromCuneiformtoCoding Fertile Bodies: Reproduction from Antiquity to the Enlightenment Interdisciplinary Approaches to Western Culture I
+Rutgers University (as Teaching Fellow)
+The Crusades
+European Development I
+The University of Alabama (as Teaching Assistant)
+Western Civilization since 1648 American Civilization to 1865 Western Civilization to 1648 American Civilization since 1865
+
 
 
