@@ -1,8 +1,8 @@
 I"'<style type="text/css">
     .image-right {
       display: block;
-      width: 235px;
-      height: 235px;
+      width: 200px;
+      height: 200px;
       margin-left: 10px;
       margin-right: auto;
       float: right;
@@ -35,7 +35,7 @@ My research has been supported by the American Council of Learned Societies, the
 Academy of America, the Folger Shakespeare Library, and the Rare Books School at the 
 University of Virginia.</p>
 
-<h1 id="contact">Contact</h1>
+<h3 id="contact">Contact</h3>
 
 <ul>
   <li>Email: <a href="mailto:melissa.reynolds@princeton.edu">melissa.reynolds [at] princeton.edu</a></li>
