@@ -9,7 +9,7 @@ permalink: /publications/
 “The ‘Sururgia’ of Nicholas Neesbett: Writing Medical Authority in Later Medieval England,” 
 forthcoming in the journal _Social History of Medicine_.
 
-<a href="{{ site.baseurl }}/jbsarticle.pdf">""'Here is a good boke to lerne’: Practical books, the coming of the press, 
+<a href="{{ site.baseurl }}/jbsarticle.pdf">"'Here is a good boke to lerne’: Practical books, the coming of the press, 
 and the search for knowledge, ca. 1400–1560,"</a> _Journal of British Studies_ 58, no. 2 
 (April 2019): 259–288. 
 To access and download the article, click 
