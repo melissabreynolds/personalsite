@@ -1,13 +1,4 @@
-I"'<style type="text/css">
-    .image-right {
-      display: block;
-      width: 225px;
-      height: 225px;
-      margin-left: 10px;
-      margin-right: auto;
-      float: right;
-    }
-    </style>
+I"'<p>Hi my name is Melissa.</p>
 
 <p>I am the Perkins-Cotsen Postdoctoral Fellow in the Society of Fellows in
 the Liberal Arts and a Lecturer in History at Princeton University. I received my Ph.D. 
@@ -24,7 +15,7 @@ with over 250 printed ‘how-to’ books to demonstrate that engagement
 with popular medical and scientific books transformed how ordinary English people saw 
 themselves as readers, writers, and consumers of knowledge.</p>
 
-<p><img src="https://avatars2.githubusercontent.com/u/69817007?s=460&amp;u=b1acb5c1629bad199696e6007e3c2919322bea79&amp;v=4" alt="Headshot" class="image-right" /> 
+<p><img src="/images/headshot.jpg#right" alt="Headshot" width="250px" /> 
 I’ve published scholarly articles in the <em>Journal of British Studies</em> and in <em>Social History of Medicine</em>. I’ve also written
 about a little known <a href="https://www.washingtonpost.com/outlook/2020/03/18/communication-failures-pandemic-can-be-catastrophic/">early modern epidemic</a> 
 and about lessons to be learned from <a href="https://www.washingtonpost.com/outlook/2019/05/09/key-lowering-americas-high-rates-maternal-mortality/">pre-modern reproductive medicine</a> in the <em>Washington Post</em>. 
