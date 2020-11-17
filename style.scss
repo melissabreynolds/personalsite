@@ -165,11 +165,11 @@ img[src*='#center'] {
 //
 
 .wrapper-masthead {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 .masthead {
-  padding: 20px 0;
+  padding: 10px 0;
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
@@ -177,7 +177,7 @@ img[src*='#center'] {
   }
 }
 
-.site-banner {
+.site-avatar {
   float: none;
   width: 650px;
   height: 150px;
