@@ -184,6 +184,7 @@ img[src*='#center'] {
   margin-left: 0px;
   
   @include mobile {
+    float: none;
     display: block;
     width: 325px;
     height: 75px;
