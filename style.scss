@@ -186,8 +186,7 @@ img[src*='#center'] {
   @include mobile {
     float: none;
     display: block;
-    width: 400px;
-    height: 75px;
+    width: 375px;
     margin-bottom: 50px 0;
   }
 
@@ -201,6 +200,7 @@ img[src*='#center'] {
 
   @include mobile {
     float: none;
+    margin-top: 50px;
     display: block;
     margin: 0 auto;
   }
