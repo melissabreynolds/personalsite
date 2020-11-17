@@ -109,10 +109,6 @@ strong, b {
 
 img {
   max-width: 100%;
-  
-  @include mobile {
-  max-width: 50%
-  }
 }
 
 img[src*='#left'] {
@@ -190,6 +186,7 @@ img[src*='#center'] {
   @include mobile {
     float: none;
     display: block;
+    width: 350px;
     margin-bottom: 50px 0;
   }
 
