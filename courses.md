@@ -11,7 +11,7 @@ To view the course syllabus, click <a href="{{ site.baseurl }}/fertilebodiessyll
 The ancient Greeks imagined a woman’s body ruled by her uterus, while medieval
 Christians believed in a womb touched by God. Renaissance anatomists hoped to uncover the
 ‘secrets’ of human generation through dissection, while nascent European states wrote
-new laws to encourage procreation and manage ‘illegitimate’ offspring. ![Women with opened uterus]({{ site.baseurl }}/images/fertilebodies.png#right){: width="175px"}
+new laws to encourage procreation and manage ‘illegitimate’ offspring. ![Woman with opened uterus]({{ site.baseurl }}/images/fertilebodies.png#right){: width="175px"}
 From ancient Greece to enlightenment France, a woman’s womb served as a site for the production of medical
 knowledge, the focus of religious practice, and the articulation of state power.
 In this course students traced the evolution of medical and cultural theories about women’s
