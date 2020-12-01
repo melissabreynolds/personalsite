@@ -6,6 +6,8 @@ permalink: /courses/
 
 ### Fertile Bodies: Reproduction from Antiquity to the Enlightenment
 
+To view the course syllabus, click <a href="{{ site.baseurl }}/fertilebodiessyll.pdf">here</a>.
+
 The ancient Greeks imagined a woman’s body ruled by her uterus, while medieval
 Christians believed in a womb touched by God. Renaissance anatomists hoped to uncover the
 ‘secrets’ of human generation through dissection, while nascent European states wrote
@@ -18,9 +20,13 @@ of structures of power, notions of difference, and concepts of purity that prove
 foundational to ‘western’ culture. Students read selections from Hippocrates' _Diseases
 of Women 1_, Galen's _On the Usefulness of the Parts of the Body_, Augustine's _Confessions_,
 _The Trotula_, _Aristotle's Masterpiece_, and William Harvey's _Disputations
-Touching the Generation of Animals_. To view the course syllabus, click <a href="{{ site.baseurl }}/fertilebodiessyll.pdf">here</a>.
+Touching the Generation of Animals_.
 
 ### A History of Words: Technologies of Communication from Cuneiform to Coding
+
+To view the course syllabus, click
+[here](https://docs.google.com/document/d/e/2PACX-1vRPvBDiCU6VjQxC-F1qKW_SY0HiT_WL08xS7Bpwx9WU_e2LLnCA1_uMjWnd3lPEw4nVjp6vrCIJW1ue/pub).
+To view the course website with student projects, click [here](https://hum-331-princeton.github.io).
 
 How do the methods, materials, and technologies of human communication shape religion,
 politics, popular culture, and the circulation of knowledge? Can we tie the invention of
@@ -41,6 +47,4 @@ of digital languages, interfaces, and platforms--has transformed how historians 
 archivists preserve and interact with the material evidence of communication in the past.
 In weekly “digital labs,” students explored cutting-edge digital archives to analyze the
 influence of the digital on the work of history, while also trying their hands at the
-digital tools that are making new kinds of historical research possible. To view the course syllabus, click
-[here](https://docs.google.com/document/d/e/2PACX-1vRPvBDiCU6VjQxC-F1qKW_SY0HiT_WL08xS7Bpwx9WU_e2LLnCA1_uMjWnd3lPEw4nVjp6vrCIJW1ue/pub).
-To view the course website with student projects, click [here](https://hum-331-princeton.github.io).
+digital tools that are making new kinds of historical research possible.
