@@ -20,16 +20,16 @@ View and download my complete CV <a href="{{ site.baseurl }}/webcv.pdf">here</a>
 For a complete list of my publications, including public-facing scholarship, visit the <a href="{{ site.baseurl }}/publications">publications</a> page. 
 
 ### Book Manuscript
-_How To Make an Information Revolution: Reading Medicine and Science in England_ (in preparation)
+_How To Make an Information Revolution: Reading Medicine and Science in England, 1400–1600_ (in preparation)
 
 ### Peer-Reviewed Articles
 “The ‘Sururgia’ of Nicholas Neesbett: Writing Medical Authority in Later Medieval England,” forthcoming in _Social History of Medicine_.
 
-“‘Here is a good boke to lerne’: Practical books, the coming of the press, and the search for knowledge, ca. 1400–1560,” _Journal of British Studies_ 58, no. 2 (April 2019): 259–288.
+“‘Here is a good boke to lerne’: Practical books, the coming of the press, and the search for knowledge, ca. 1400–1560,” [_Journal of British Studies_](https://www.cambridge.org/core/journals/journal-of-british-studies/article/here-is-a-good-boke-to-lerne-practical-books-the-coming-of-the-press-and-the-search-for-knowledge-ca-14001560/8217EBC4F6CE53F1084709587B7C2E12/share/a024150fe1501e59df5b45628147fdd3df550196) 58, no. 2 (April 2019): 259–288.
 
 ### Editions and Translations
 Pamela Smith et al., eds., 
-_Secrets of Craft and Nature in Renaissance France: A Digital Critical Edition and English Translation of Bibliothèque nationale de France MS Fr. 640_, 
+_Secrets of Craft and Nature in Renaissance France: A Digital Critical Edition and English Translation of Bibliothèque nationale de France MS Fr. 640_, 
 [https://edition640.makingandknowing.org,](https://edition640.makingandknowing.org) launched February 6, 2020.  
 
 ## Fellowships, Grants, and Awards
