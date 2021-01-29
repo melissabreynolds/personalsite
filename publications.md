@@ -9,15 +9,15 @@ permalink: /publications/
 “The ‘Sururgia’ of Nicholas Neesbett: Writing Medical Authority in Later Medieval England,” 
 forthcoming in the journal _Social History of Medicine_.
 
-<a href="{{ site.baseurl }}/jbsarticle.pdf">"'Here is a good boke to lerne’: Practical books, the coming of the press, 
-and the search for knowledge, ca. 1400–1560,"</a> _Journal of British Studies_ 58, no. 2 
+["'Here is a good boke to lerne’: Practical books, the coming of the press, 
+and the search for knowledge, ca. 1400–1560,"](https://www.cambridge.org/core/journals/journal-of-british-studies/article/here-is-a-good-boke-to-lerne-practical-books-the-coming-of-the-press-and-the-search-for-knowledge-ca-14001560/8217EBC4F6CE53F1084709587B7C2E12/share/a024150fe1501e59df5b45628147fdd3df550196) _Journal of British Studies_ 58, no. 2 
 (April 2019): 259–288.  
 	* _Honorable mention, 2020 Society of Fellows in Critical Bibliography Essay Prize_
 
 ### Editions and Translations
 
 Pamela Smith et al., eds., [_Secrets of Craft and Nature in Renaissance France: A Digital Critical Edition and English 
-Translation of Bibliothèque nationale de France MS Fr. 640_](https://edition640.makingandknowing.org), edition640.makingandknowing.org
+Translation of Bibliothèque nationale de France MS Fr. 640_](https://edition640.makingandknowing.org), edition640.makingandknowing.org
 (as four-year member of the translation and transcription team)  
 	* _Winner, Eugene S. Ferguson Prize, Society for the History of Technology_
 
