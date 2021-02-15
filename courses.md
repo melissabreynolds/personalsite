@@ -39,7 +39,7 @@ over the World Wide Web. Weekly units zoomed in on ‘revolutions’ within the 
 communication to highlight how ‘new’ technologies of communication often spur broader
 cultural and societal change.
 
-![Cuneiform tablet]({{ site.baseurl }}/images/cuneiform.jpg#left){: width="175px"}
+![Cuneiform tablet](https://github.com/melissabreynolds/melissabreynolds.github.io/blob/master/images/cuneiform.jpg?raw=true#left){: width="175px"}
 In addition to weekly thematic lectures and readings on the history of communication,
 students engaged with new digital methods of historical research and archival
 preservation. Students learned how our latest revolution in communication--the emergence
