@@ -26,8 +26,8 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
+  max-width: 1100px;
+  padding: 20px 20px;
   width: 100%;
 }
 
@@ -170,23 +170,18 @@ img[src*='#center'] {
 
 .masthead {
   padding: 10px 0;
-  border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
   }
 }
 
-.site-avatar {
-  float: none;
-  width: 650px;
-  height: 150px;
-  margin-left: 0px;
-  
+.site-banner {
+  margin: 0;
+
   @include mobile {
     float: none;
     display: block;
-    width: 350px;
   }
 
   img {
@@ -216,7 +211,7 @@ img[src*='#center'] {
 }
 
 .site-description {
-  margin: -5px 0 0 0;
+  margin: 0;
   color: $gray;
   font-family: $helvetica;
   font-weight: 300;
@@ -229,13 +224,14 @@ img[src*='#center'] {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-bottom: 10px; // @TODO: Vertically middle align
   font-family: $helvetica;
-  font-size: 18px;
+  font-weight: 300;
+  font-size: 24px;
 
   @include mobile {
     float: none;
-    margin-top: 9px;
+    margin-top: 10px;
     display: block;
     font-size: 16px;
   }
