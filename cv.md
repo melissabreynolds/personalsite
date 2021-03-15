@@ -56,7 +56,7 @@ _Secrets of Craft and Nature in Renaissance France: A Digital Critical Edition a
 2005	Phi Beta Kappa  
 
 ## Courses Taught
-Visit the <a href="{{ site.baseurl }}/courses">courses</a> page for course descriptions and sample syllabi.
+Visit the [courses](https://melissabreynolds.github.io/courses) page for course descriptions and sample syllabi.
 
 ### Princeton University (as Instructor of Record)
 A History of Words: Technologies of Communication from Cuneiform to Coding  
