@@ -11,11 +11,10 @@ material texts. In my research and teaching, I am particularly interested in
 tracing how elite or learned cultures of medical and scientific knowledge are conveyed
 to ‘ordinary’ people through non-elite media, and in turn, how access to this knowledge
 brought about cultural change. I am currently at work on my first book, based on my
-dissertation, titled _How To Make an Information Revolution: Reading Medicine and Science
+dissertation, titled _How To: Reading Medicine and Science
 in England, 1400–1600_. I compare over 150 vernacular medieval 'how-to' manuscripts
 with over 250 printed ‘how-to’ books to demonstrate that engagement
-with popular medical and scientific books transformed how ordinary English people saw
-themselves as readers, writers, and consumers of knowledge.
+with popular medical and scientific books transformed how ordinary English people understood the possibilities of knowledge itself.
 
 I've published scholarly articles in the _Journal of British Studies_ and in _Social History of Medicine_. I've also written
 about a little known [early modern epidemic](https://www.washingtonpost.com/outlook/2020/03/18/communication-failures-pandemic-can-be-catastrophic/)
