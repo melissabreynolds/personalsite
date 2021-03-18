@@ -20,7 +20,7 @@ To view my complete CV click [here](https://docs.google.com/document/d/e/2PACX-1
 For a complete list of my publications, including public-facing scholarship, visit the <a href="{{ site.baseurl }}/publications">publications</a> page.
 
 ### Book Manuscript
-_How To Make an Information Revolution: Reading Medicine and Science in England, 1400–1600_ (in preparation)
+_How To: Reading Medicine and Science in England, 1400–1600_ (in preparation)
 
 ### Peer-Reviewed Articles
 “The ‘Sururgia’ of Nicholas Neesbett: Writing Medical Authority in Later Medieval England,” forthcoming in _Social History of Medicine_.
