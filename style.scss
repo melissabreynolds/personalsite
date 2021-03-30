@@ -193,6 +193,10 @@ img[src*='#center'] {
 
 #hero {
   z-index: -1;
+
+  @include mobile {
+    visibility: hidden;
+  }
 }
 
 #fig-caption {
