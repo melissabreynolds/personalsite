@@ -1,7 +1,7 @@
 ---
 layout: page
-title: COURSES
-permalink: /courses/
+title: SYLLABI
+permalink: /syllabi/
 ---
 
 ### Fertile Bodies: Reproduction from Antiquity to the Enlightenment
