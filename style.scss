@@ -201,6 +201,10 @@ img[src*='#center'] {
   color: #ffffff;
   margin: -25px 0px;
   z-index: 3;
+
+  @include mobile {
+    visibility: hidden;
+  }
 }
 
 .site-info {
@@ -248,7 +252,7 @@ nav {
     float: none;
     margin-top: 10px;
     display: block;
-    font-size: 16px;
+    font-size: 12px;
   }
 
   a {
