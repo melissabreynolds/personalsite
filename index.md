@@ -34,3 +34,5 @@ Email: [melissa.reynolds(at)princeton.edu](mailto:melissa.reynolds@princeton.edu
 Twitter: [@melkatrey](http://www.twitter.com/melkatrey)  
 Academia: [princeton.academia.edu/melissareynolds](https://princeton.academia.edu/MelissaReynolds)  
 GitHub: [melissabreynolds](https://www.github.com/melissabreynolds)
+
+_Image credit: Oxford, [Bodleian Library MS Rawlinson D. 939](https://digital.bodleian.ox.ac.uk/objects/eca53671-3a29-46ef-acae-3aa2b3b48195/). Copyright of the Bodleian Libraries, University of Oxford. Creative Commons License CC-BY-NC 4.0._
