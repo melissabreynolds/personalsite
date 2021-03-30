@@ -212,7 +212,7 @@ img[src*='#center'] {
   @include mobile {
     float: none;
     display: block;
-    margin: 10px auto;
+    margin: 0px auto;
   }
 }
 
@@ -260,7 +260,7 @@ nav {
     @include mobile {
       padding: 5px auto;
       text-align: center;
-      font-size: 12px;
+      font-size: 14px;
     }
   }
 }
