@@ -6,7 +6,7 @@ permalink: /syllabi/
 
 ### Fertile Bodies: Reproduction from Antiquity to the Enlightenment
 
-To view the course syllabus, click <a href="{{ site.baseurl }}/fertilebodiessyll.pdf">here</a>.
+[Spring 2020 Course Syllabus]({{ site.baseurl }}/FertileBodiesSpr20.pdf)
 
 The ancient Greeks imagined a woman’s body ruled by her uterus, while medieval
 Christians believed in a womb touched by God. Renaissance anatomists hoped to uncover the
@@ -22,13 +22,12 @@ of Women 1_, Galen's _On the Usefulness of the Parts of the Body_, Augustine's _
 _The Trotula_, _Aristotle's Masterpiece_, and William Harvey's _Disputations
 Touching the Generation of Animals_.
 
+
 ### A History of Words: Technologies of Communication from Cuneiform to Coding
 
-To view the course syllabus, click
-[here](https://docs.google.com/document/d/e/2PACX-1vRPvBDiCU6VjQxC-F1qKW_SY0HiT_WL08xS7Bpwx9WU_e2LLnCA1_uMjWnd3lPEw4nVjp6vrCIJW1ue/pub).
-To view the course website with student projects, click [here](https://hum-331-princeton.github.io).
+[Spring 2021 Course Website](https://hum-331-princeton.github.io)
 
-How do the methods, materials, and technologies of human communication shape religion,
+In weekly lectures and discussions, we ask the methods, materials, and technologies of human communication shape religion,
 politics, popular culture, and the circulation of knowledge? Can we tie the invention of
 writing to the origins of cities? Would the ‘religions of the book’ have flourished in
 the Middle Ages without the invention of the codex? Is it true that the printing press
@@ -48,3 +47,5 @@ archivists preserve and interact with the material evidence of communication in 
 In weekly “digital labs,” students explored cutting-edge digital archives to analyze the
 influence of the digital on the work of history, while also trying their hands at the
 digital tools that are making new kinds of historical research possible.
+
+This digital humanities course, developed with a David A. Gardner '69 Magic Grant from the Humanities Council at Princeton University, combines a history of communication technologies with hands-on exploration of the communication technologies reshaping the discipline of history. Using GitHub, Jekyll, Markdown, and a variety of "digital tools" introduced throughout the semester, students create digital work that they share on our course site. 
