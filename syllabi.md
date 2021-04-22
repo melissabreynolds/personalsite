@@ -11,7 +11,7 @@ permalink: /syllabi/
 The ancient Greeks imagined a woman’s body ruled by her uterus, while medieval
 Christians believed in a womb touched by God. Renaissance anatomists hoped to uncover the
 ‘secrets’ of human generation through dissection, while nascent European states wrote
-new laws to encourage procreation and manage ‘illegitimate’ offspring. ![Woman with opened uterus]({{ site.baseurl }}/images/fertilebodies.png#right){: width="175px"}
+new laws to encourage procreation and manage ‘illegitimate’ offspring. ![Woman with opened uterus]({{ site.baseurl }}/images/fertilebodies.png){: width="200px" .right-image}
 From ancient Greece to enlightenment France, a woman’s womb served as a site for the production of medical
 knowledge, the focus of religious practice, and the articulation of state power.
 In this course students traced the evolution of medical and cultural theories about women’s
@@ -38,7 +38,7 @@ over the World Wide Web. Weekly units zoomed in on ‘revolutions’ within the 
 communication to highlight how ‘new’ technologies of communication often spur broader
 cultural and societal change.
 
-![Cuneiform tablet]( {{ source.baseurl }}/images/cuneiform.jpg#left){: width="175px"}
+![Cuneiform tablet]( {{ source.baseurl }}/images/cuneiform.jpg){: width="175px" .left-image}
 In addition to weekly thematic lectures and readings on the history of communication,
 students engaged with new digital methods of historical research and archival
 preservation. Students learned how our latest revolution in communication--the emergence
@@ -48,4 +48,4 @@ In weekly “digital labs,” students explored cutting-edge digital archives to
 influence of the digital on the work of history, while also trying their hands at the
 digital tools that are making new kinds of historical research possible.
 
-This digital humanities course, developed with a David A. Gardner '69 Magic Grant from the Humanities Council at Princeton University, combines a history of communication technologies with hands-on exploration of the communication technologies reshaping the discipline of history. Using GitHub, Jekyll, Markdown, and a variety of "digital tools" introduced throughout the semester, students create digital work that they share on our course site. 
+This digital humanities course, developed with a David A. Gardner '69 Magic Grant from the Humanities Council at Princeton University, combines a history of communication technologies with hands-on exploration of the communication technologies reshaping the discipline of history. Using GitHub, Jekyll, Markdown, and a variety of "digital tools" introduced throughout the semester, students create digital work that they share on our course site.
