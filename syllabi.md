@@ -25,9 +25,9 @@ Touching the Generation of Animals_.
 
 ### A History of Words: Technologies of Communication from Cuneiform to Coding
 
-[Spring 2021 Course Website](https://hum-331-princeton.github.io)
+Visit the [spring 2021 Course Website](https://hum-331-princeton.github.io) to read student work created using the digital tools taught over the course of the semester. You can also view the syllabus, course assignments, and tutorials there.
 
-In weekly lectures and discussions, we ask the methods, materials, and technologies of human communication shape religion,
+How do the methods, materials, and technologies of human communication shape religion,
 politics, popular culture, and the circulation of knowledge? Can we tie the invention of
 writing to the origins of cities? Would the ‘religions of the book’ have flourished in
 the Middle Ages without the invention of the codex? Is it true that the printing press
@@ -38,7 +38,7 @@ over the World Wide Web. Weekly units zoomed in on ‘revolutions’ within the 
 communication to highlight how ‘new’ technologies of communication often spur broader
 cultural and societal change.
 
-![Cuneiform tablet]( {{ source.baseurl }}/images/cuneiform.jpg){: width="175px" .left-image}
+![Cuneiform tablet]( {{ site.baseurl }}/images/cuneiform.jpg){: width="175px" .left-image}
 In addition to weekly thematic lectures and readings on the history of communication,
 students engaged with new digital methods of historical research and archival
 preservation. Students learned how our latest revolution in communication--the emergence
