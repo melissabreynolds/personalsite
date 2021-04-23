@@ -25,27 +25,6 @@ Touching the Generation of Animals_.
 
 ### A History of Words: Technologies of Communication from Cuneiform to Coding
 
-Visit the [spring 2021 Course Website](https://hum-331-princeton.github.io) to read student work created using the digital tools taught over the course of the semester. You can also view the syllabus, course assignments, and tutorials there.
+Visit the [Spring 2021 course website](https://hum-331-princeton.github.io) to read student work created using the digital tools taught over the course of the semester. You can also view the syllabus, course assignments, and tutorials there.
 
-How do the methods, materials, and technologies of human communication shape religion,
-politics, popular culture, and the circulation of knowledge? Can we tie the invention of
-writing to the origins of cities? Would the ‘religions of the book’ have flourished in
-the Middle Ages without the invention of the codex? Is it true that the printing press
-made the Reformation and the Scientific Revolution possible? And did newspapers really
-encourage the Age of Revolutions? Students tackled these questions as they traced the
-history of human communication from its origins in the ancient Near East to its diffusion
-over the World Wide Web. Weekly units zoomed in on ‘revolutions’ within the history of
-communication to highlight how ‘new’ technologies of communication often spur broader
-cultural and societal change.
-
-![Cuneiform tablet]( {{ site.baseurl }}/images/cuneiform.jpg){: width="175px" .left-image}
-In addition to weekly thematic lectures and readings on the history of communication,
-students engaged with new digital methods of historical research and archival
-preservation. Students learned how our latest revolution in communication--the emergence
-of digital languages, interfaces, and platforms--has transformed how historians and
-archivists preserve and interact with the material evidence of communication in the past.
-In weekly “digital labs,” students explored cutting-edge digital archives to analyze the
-influence of the digital on the work of history, while also trying their hands at the
-digital tools that are making new kinds of historical research possible.
-
-This digital humanities course, developed with a David A. Gardner '69 Magic Grant from the Humanities Council at Princeton University, combines a history of communication technologies with hands-on exploration of the communication technologies reshaping the discipline of history. Using GitHub, Jekyll, Markdown, and a variety of "digital tools" introduced throughout the semester, students create digital work that they share on our course site.
+![Cuneiform tablet]( {{ site.baseurl }}/images/cuneiform.jpg){: width="175px" .left-image} This digital humanities course, developed with a David A. Gardner '69 Magic Grant from the Humanities Council at Princeton University, combines a history of communication technologies with hands-on exploration of the communication technologies reshaping the discipline of history. Using GitHub, Jekyll, Markdown, and a variety of "digital tools" introduced throughout the semester, students select a primary source from Princeton University's Special Collections which they then research and present to readers in a final website that they build themselves.
