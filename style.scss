@@ -189,6 +189,7 @@ img {
 
   @include mobile {
     visibility: hidden;
+    padding: 0px 0px;
     margin: 0px auto -180px auto;
   }
 }
@@ -201,7 +202,7 @@ img {
 
   @include mobile {
     visibility: visible;
-    margin: 0px auto -160px auto;
+    margin: 15px auto -160px auto;
   }
 }
 
@@ -262,13 +263,17 @@ img {
 
 nav {
   float: right;
+  text-align: right;
   margin-bottom: 0px; // @TODO: Vertically middle align
   font-family: $Noto;
+  width: 100%;
+  display: table;
 
   @include mobile {
     float: none;
+    text-align: center;
     margin: 5px auto;
-    display: block;
+    display: inline-block;
   }
 
   a {

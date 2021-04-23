@@ -16,7 +16,7 @@ in England, 1400–1600_. I compare over 150 vernacular medieval 'how-to' manusc
 with over 250 printed ‘how-to’ books to demonstrate that engagement
 with popular medical and scientific books transformed how ordinary English people understood the possibilities of knowledge itself.
 
-I've published scholarly articles in the _Journal of British Studies_ and in _Social History of Medicine_. I've also written
+I've published or have scholarly articles forthcoming in the [_Journal of British Studies_](https://www.cambridge.org/core/journals/journal-of-british-studies/article/here-is-a-good-boke-to-lerne-practical-books-the-coming-of-the-press-and-the-search-for-knowledge-ca-14001560/8217EBC4F6CE53F1084709587B7C2E12/share/a024150fe1501e59df5b45628147fdd3df550196) and in _Social History of Medicine_. I've also written
 about a little known [early modern epidemic](https://www.washingtonpost.com/outlook/2020/03/18/communication-failures-pandemic-can-be-catastrophic/)
 and about lessons to be learned from [pre-modern reproductive medicine](https://www.washingtonpost.com/outlook/2019/05/09/key-lowering-americas-high-rates-maternal-mortality/) in the _Washington Post_.
 I am a longtime contributor and editorial team member for the scholarly blog, The Recipes Project,
