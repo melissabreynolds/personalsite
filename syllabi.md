@@ -25,6 +25,6 @@ Touching the Generation of Animals_.
 
 ### A History of Words: Technologies of Communication from Cuneiform to Coding
 
-Visit the [Spring 2021 course website](https://hum-331-princeton.github.io) to read student work created using the digital tools taught over the course of the semester. You can also view the syllabus, course assignments, and tutorials there.
+Visit the [Spring 2021 course website](https://hum-331-princeton.github.io) to read student work created using the digital tools taught over the course of the semester. You can also view the syllabus and course assignments with tutorials on digital tools [here](https://hum-331-princeton.github.io/course).
 
 ![Cuneiform tablet]( {{ site.baseurl }}/images/cuneiform.jpg){: width="175px" .left-image} This digital humanities course, developed with a David A. Gardner '69 Magic Grant from the Humanities Council at Princeton University, combines a history of communication technologies with hands-on exploration of the communication technologies reshaping the discipline of history. Using GitHub, Jekyll, Markdown, and a variety of "digital tools" introduced throughout the semester, students select a primary source from Princeton University's Special Collections which they then research and present to readers in a final website that they build themselves.
