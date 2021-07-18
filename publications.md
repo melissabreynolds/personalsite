@@ -3,6 +3,8 @@ layout: page
 title: PUBLICATIONS
 permalink: /publications/
 ---
+### Book Manuscript
+_How To: Reading Medicine and Science in England, 1400–1600_ 
 
 ### Peer-Reviewed Articles
 
