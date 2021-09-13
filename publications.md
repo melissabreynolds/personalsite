@@ -6,7 +6,7 @@ permalink: /publications/
 ### Book Manuscript in Progress
 _How To Read Like an Experimenter: Medicine, Science, and Practical Books in England, 1400–1600_
 
-When you feel sick, you might Google your symptoms. When you need to change a bike tire, maybe you search YouTube for a step-by-step video. A world of medical, scientific, and technical information is now just a few clicks away, and yet, never has a society been less sure how to handle so much knowledge. How do we determine what’s effective, what’s useful, and what’s true? Six hundred years ago, English people seeking medical advice or technical know-how didn’t have Google or YouTube, but they were facing their own information revolution, built on a similarly transformative information technology: the how-to book. Like us, they found themselves with new access to a world of information, and, like us, they wondered how to make sense of it all. How to Read Like an Experimenter: Medicine, Science, and Practical Books in England, 1400–1600, tells the story of how English readers learned to master the information at their fingertips. In two centuries of everyday interactions with ordinary books, the English learned to use their experience to assess the validity and utility of medical and scientific knowledge and to embrace new roles as purveyors of that knowledge in their own right. 
+When you feel sick, you might Google your symptoms. When you need to change a bike tire, maybe you search YouTube for a step-by-step video. A world of medical, scientific, and technical information is now just a few clicks away, and yet, never has a society been less sure how to handle so much knowledge. How do we determine what’s effective, what’s useful, and what’s true? Six hundred years ago, English people seeking medical advice or technical know-how didn’t have Google or YouTube, but they were facing their own information revolution, built on a similarly transformative information technology: the how-to book. Like us, they found themselves with new access to a world of information, and, like us, they wondered how to make sense of it all. How to Read Like an Experimenter: Medicine, Science, and Practical Books in England, 1400–1600, tells the story of how English readers learned to master the information at their fingertips. In two centuries of everyday interactions with ordinary books, the English learned to use their experience to assess the validity and utility of medical and scientific knowledge and to embrace new roles as purveyors of that knowledge in their own right.
 
 ### Peer-Reviewed Articles
 
@@ -30,6 +30,10 @@ Translation of Bibliothèque nationale de France MS Fr. 640_, [edition640.making
 Peter Lake and Michael Questier, _All Hail to the Archpriest: Confessional Conflict, Toleration, and the Politics of Publicity in Post-Reformation England_ (Oxford: Oxford University Press, 2019), [_The English Historical Review_](https://academic.oup.com/ehr/advance-article/doi/10.1093/ehr/ceaa358/6121676?guestAccessKey=c3b5d91f-8f79-420c-b42a-e10e70e9384b) 136, no. 577 (January 2021).
 
 Sharon Strocchia and Sara Ritchey, eds., _Gender, Health, and Healing, 1250–1550_ (Amsterdam: Amsterdam University Press, 2020), forthcoming in _Renaissance Quarterly_.
+
+### Work in Progress
+
+"Hoarding How-to Knowledge, or, The Space Between Reading and Doing," an invited essay for the journal _History of the Natural Sciences_ (in preparation)
 
 ### Public-Facing Scholarship
 

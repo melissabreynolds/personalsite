@@ -17,7 +17,7 @@ To view my complete CV click [here](https://docs.google.com/document/d/e/2PACX-1
 
 ## Selected Publications
 
-For a complete list of my publications, including public-facing scholarship, visit the <a href="{{ site.baseurl }}/publications">publications</a> page.
+For a complete list of my publications, including public-facing scholarship, visit the [publications]({{ site.baseurl }}/publications) page.
 
 ### Book Manuscript
 _How To: Reading Medicine and Science in England, 1400–1600_ (in preparation)

@@ -21,7 +21,7 @@ and about lessons to be learned from [pre-modern reproductive medicine](https://
 I am a longtime contributor and editorial team member for the scholarly blog, The Recipes Project,
 where I've written on [perpetual prognostications,](https://recipes.hypotheses.org/17522)
 [reproductive medical recipes,](https://recipes.hypotheses.org/15134) and [playful magic](https://recipes.hypotheses.org/14220) in medieval recipe books.
-My research has been supported by the American Council of Learned Societies, the Richard III Society and the Medieval
+My research has been supported by Princeton's University Committee on Research in the Humanities and Social Sciences, the American Council of Learned Societies, the Richard III Society and the Medieval
 Academy of America, the Folger Shakespeare Library, and the Rare Books School at the
 University of Virginia.
 
