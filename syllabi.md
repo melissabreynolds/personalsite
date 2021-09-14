@@ -6,6 +6,8 @@ permalink: /syllabi/
 
 ### Fertile Bodies: Reproduction from Antiquity to the Enlightenment
 
+[Spring 2022 Course Syllabus](https://docs.google.com/document/d/e/2PACX-1vQMZYRPQigOrTXJr4FS9vLfudOa07JKABkd3ODJ6oLzmJBd1pZmz6DK6CWyETvKBB91TNomjT0qgYje/pub)
+
 [Spring 2020 Course Syllabus]({{ site.baseurl }}/FertileBodiesSpr20.pdf)
 
 The ancient Greeks imagined a woman’s body ruled by her uterus, while medieval
