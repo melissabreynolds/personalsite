@@ -46,7 +46,7 @@ Sharon Strocchia and Sara Ritchey, eds., _Gender, Health, and Healing, 1250–15
 
 "The key to lowering America’s high rates of maternal mortality," [_The Washington Post_](https://www.washingtonpost.com/outlook/2019/05/09/key-lowering-americas-high-rates-maternal-mortality/), May 8, 2019.
 
-A series for _The Daily Princetonian_, as invited faculty opinion columnist, on the funding crisis in higher education and its effect students and adjuncts: [March 24](https://www.dailyprincetonian.com/article/2021/03/princetons-campus-is-coming-back-to-life-but-what-about-the-rest-of-americas-universities), [April 16](https://www.dailyprincetonian.com/article/2021/04/princeton-students-support-anewdeal4highered-higher-education), and [May 7, 2021](https://www.dailyprincetonian.com/article/2021/05/student-debt-crisis-americas-higher-ed-system-professors-tenure-adjunct-princeton)
+A series for _The Daily Princetonian_, as invited faculty opinion columnist, on the funding crisis in higher education and its effect on students and adjuncts: [March 24](https://www.dailyprincetonian.com/article/2021/03/princetons-campus-is-coming-back-to-life-but-what-about-the-rest-of-americas-universities), [April 16](https://www.dailyprincetonian.com/article/2021/04/princeton-students-support-anewdeal4highered-higher-education), and [May 7, 2021](https://www.dailyprincetonian.com/article/2021/05/student-debt-crisis-americas-higher-ed-system-professors-tenure-adjunct-princeton)
 
 ##### Scholarly Blog Posts
 "Perpetual Prognostications: Medieval Recipes for Living," [The Recipes Project: Food, Magic, Art, Magic, and Medicine](https://recipes.hypotheses.org/17522), October 1, 2020
