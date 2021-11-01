@@ -20,10 +20,10 @@ To view my complete CV click [here](https://docs.google.com/document/d/e/2PACX-1
 For a complete list of my publications, including public-facing scholarship, visit the [publications]({{ site.baseurl }}/publications) page.
 
 ### Book Manuscript
-_How To: Reading Medicine and Science in England, 1400–1600_ (in preparation)
+_Reading Practice: Natural Knowledge from Manuscript to Print_ (in preparation)
 
 ### Peer-Reviewed Articles
-“The ‘Sururgia’ of Nicholas Neesbett: Writing Medical Authority in Later Medieval England,” forthcoming in _Social History of Medicine_.
+“The ‘Sururgia’ of Nicholas Neesbett: Writing Medical Authority in Later Medieval England,” _Social History of Medicine_, published online 30 October 2021.
 
 “‘Here is a good boke to lerne’: Practical books, the coming of the press, and the search for knowledge, ca. 1400–1560,” _Journal of British Studies_ 58, no. 2 (April 2019): 259–288.
 
