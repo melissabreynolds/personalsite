@@ -4,13 +4,13 @@ title: PUBLICATIONS
 permalink: /publications/
 ---
 ### Book Manuscript in Progress
-_Reading Practice: Natural Knowledge from Manuscript to Print_
+_Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_
 
 When you feel sick, you might Google your symptoms. When you need to change a bike tire, maybe you search YouTube for a step-by-step video. A world of medical, scientific, and technical information is now just a few clicks away, and yet, never has a society been less sure how to handle so much knowledge. How do we determine what’s effective, what’s useful, and what’s true? Six hundred years ago, English people seeking medical advice or technical know-how didn’t have Google or YouTube, but they were facing their own information revolution, built on a similarly transformative information technology: the how-to book. Like us, they found themselves with new access to a world of information, and, like us, they wondered how to make sense of it all. How to Read Like an Experimenter: Medicine, Science, and Practical Books in England, 1400–1600, tells the story of how English readers learned to master the information at their fingertips. In two centuries of everyday interactions with ordinary books, the English learned to use their experience to assess the validity and utility of medical and scientific knowledge and to embrace new roles as purveyors of that knowledge in their own right.
 
 ### Peer-Reviewed Articles
 
-“The ‘Sururgia’ of Nicholas Neesbett: Writing Medical Authority in Later Medieval England,”
+“The _Sururgia_ of Nicholas Neesbett: Writing Medical Authority in Later Medieval England,”
 [_Social History of Medicine_](https://academic.oup.com/shm/advance-article/doi/10.1093/shm/hkaa099/6414565?guestAccessKey=db1ad51c-c6a4-4a92-8fbd-1cbc811da01d), published online 30 October 2021.
 
 "'Here is a good boke to lerne’: Practical books, the coming of the press,
@@ -37,7 +37,7 @@ Sharon Strocchia and Sara Ritchey, eds., _Gender, Health, and Healing, 1250–15
 
 ### Work in Progress
 
-"Hoarding How-to Knowledge, or, The Space Between Reading and Doing," an invited essay for the journal _History of the Natural Sciences_ (in preparation)
+"How to Cure a Horse, or, The Difference between the Experience of Knowledge and the Knowledge of Experience," an invited essay for the journal _History of the Natural Sciences_ (in preparation)
 
 ### Public-Facing Scholarship
 

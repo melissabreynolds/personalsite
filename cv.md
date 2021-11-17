@@ -20,7 +20,7 @@ To view my complete CV click [here](https://docs.google.com/document/d/e/2PACX-1
 For a complete list of my publications, including public-facing scholarship, visit the [publications]({{ site.baseurl }}/publications) page.
 
 ### Book Manuscript
-_Reading Practice: Natural Knowledge from Manuscript to Print_ (in preparation)
+_Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_ (in preparation)
 
 ### Peer-Reviewed Articles
 “The ‘Sururgia’ of Nicholas Neesbett: Writing Medical Authority in Later Medieval England,” _Social History of Medicine_, published online 30 October 2021.
