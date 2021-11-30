@@ -35,10 +35,6 @@ Peter Lake and Michael Questier, _All Hail to the Archpriest: Confessional Confl
 
 Sharon Strocchia and Sara Ritchey, eds., _Gender, Health, and Healing, 1250–1550_ (Amsterdam: Amsterdam University Press, 2020), forthcoming in _Renaissance Quarterly_.
 
-### Work in Progress
-
-"How to Cure a Horse, or, The Difference between the Experience of Knowledge and the Knowledge of Experience," an invited essay for the journal _History of the Natural Sciences_ (in preparation)
-
 ### Public-Facing Scholarship
 
 ##### Op-Eds
