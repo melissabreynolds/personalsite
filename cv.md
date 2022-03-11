@@ -23,14 +23,21 @@ For a complete list of my publications, including public-facing scholarship, vis
 _Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_ (in preparation)
 
 ### Peer-Reviewed Articles
-“The ‘Sururgia’ of Nicholas Neesbett: Writing Medical Authority in Later Medieval England,” _Social History of Medicine_, published online 30 October 2021.
+“The ‘Sururgia’ of Nicholas Neesbett: Writing Medical Authority in Later Medieval England,” _Social History of Medicine_, 35, no. 1 (February 2022): 144–169. Access the article [here](https://academic.oup.com/shm/article/35/1/144/6414565?guestAccessKey=05a89a2c-e8fd-498b-824e-7ce8a7b98e88).
 
-“‘Here is a good boke to lerne’: Practical books, the coming of the press, and the search for knowledge, ca. 1400–1560,” _Journal of British Studies_ 58, no. 2 (April 2019): 259–288.
+“‘Here is a good boke to lerne’: Practical books, the coming of the press, and the search for knowledge, ca. 1400–1560,” _Journal of British Studies_ 58, no. 2 (April 2019): 259–288. Access the article [here](https://www.cambridge.org/core/journals/journal-of-british-studies/article/here-is-a-good-boke-to-lerne-practical-books-the-coming-of-the-press-and-the-search-for-knowledge-ca-14001560/8217EBC4F6CE53F1084709587B7C2E12/share/a024150fe1501e59df5b45628147fdd3df550196).
 
 ### Editions and Translations
 Pamela Smith et al., eds.,
 _Secrets of Craft and Nature in Renaissance France: A Digital Critical Edition and English Translation of Bibliothèque nationale de France MS Fr. 640_,
 [https://edition640.makingandknowing.org,](https://edition640.makingandknowing.org) launched February 6, 2020.  
+
+### Invited Essays
+"How to Cure a Horse, or, the Difference Between the Knowledge of Experience and the Experience of Knowledge," forthcoming in the journal _Historical Studies in the Natural Sciences_
+
+### Works in Progress
+_Digital Editions_
+(under review) "Old Books, New Knowledge?" an initiative to publish digital critical editions of later medieval medical manuscripts owned and annotated by early modern readers; part of a larger grant proposal, "Crafting an Open Source Digital Publication Tool for the History of Science," submitted in collaboration with Pamela Smith (Columbia University) to the National Science Foundation
 
 ## Fellowships, Grants, and Awards
 ### External
