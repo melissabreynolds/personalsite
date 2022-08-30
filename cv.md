@@ -12,9 +12,9 @@ To view my complete CV click [here](https://docs.google.com/document/d/e/2PACX-1
 2005 BA, English, The University of Alabama, _summa cum laude_
 
 ## Academic Appointments
-2022-23 David Bartholomae Postdoctoral Fellow, Writing Program, Rutgers University
-2019–22 Perkins-Cotsen Postdoctoral Fellow, Society of Fellows, Princeton, University  
-2019–22 Lecturer, Department of History, Princeton University  
+/2022-23 David Bartholomae Postdoctoral Fellow, Writing Program, Rutgers University
+/2019–22 Perkins-Cotsen Postdoctoral Fellow, Society of Fellows, Princeton, University  
+/2019–22 Lecturer, Department of History, Princeton University  
 
 ## Selected Publications
 
