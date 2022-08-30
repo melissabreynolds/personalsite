@@ -34,14 +34,18 @@ _Secrets of Craft and Nature in Renaissance France: A Digital Critical Edition a
 [https://edition640.makingandknowing.org,](https://edition640.makingandknowing.org) launched February 6, 2020.  
 
 ### Invited Essays
-"How to Cure a Horse, or, the Difference Between the Knowledge of Experience and the Experience of Knowledge," forthcoming in the journal _Historical Studies in the Natural Sciences_
+"How to Cure a Horse, or, the Difference Between the Knowledge of Experience and the Experience of Knowledge," [_Historical Studies in the Natural Sciences_](/HSNS5204_03_Reynolds.pdf) 52, no. 4 (2022): 547–552.
 
 ### Works in Progress
+_Journal Forum_
+Co-editor (with Hannah Frydman, University of Washington) of a prospective forum of articles on "Reproductive Rights Beyond Roe" for the journal _Gender & History_
+
 _Digital Editions_
 (under review) "Old Books, New Knowledge?" an initiative to publish digital critical editions of later medieval medical manuscripts owned and annotated by early modern readers; part of a larger grant proposal, "Crafting an Open Source Digital Publication Tool for the History of Science," submitted in collaboration with Pamela Smith (Columbia University) to the National Science Foundation
 
 ## Fellowships, Grants, and Awards
 ### External
+2022  Co-collaborator on EditionCrafter, National Science Foundation Grant # 2218218
 2020	Honorable Mention, Society of Fellows in Critical Bibliography Annual Essay Prize  
 2018 	Dissertation Completion Fellowship, American Council of Learned Societies   
 2018	Grant-in-aid, Folger Shakespeare Library, Faculty Weekend Seminar  
