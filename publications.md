@@ -4,7 +4,7 @@ title: PUBLICATIONS
 permalink: /publications/
 ---
 ### Book Manuscript in Progress
-_Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_
+_Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_ (under advanced contract with the University of Chicago Press, now under review)
 
 When you feel sick, you might Google your symptoms. When you need to change a bike tire, maybe you search YouTube for a step-by-step video. A world of medical, scientific, and technical information is now just a few clicks away, and yet, never has a society been less sure how to handle so much knowledge. How do we determine what’s effective, what’s useful, and what’s true? Six hundred years ago, English people seeking medical advice or technical know-how didn’t have Google or YouTube, but they were facing their own information revolution, built on a similarly transformative information technology: the how-to book. Like us, they found themselves with new access to a world of information, and, like us, they wondered how to make sense of it all. _Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_, tells the story of how English readers learned to master the information at their fingertips. In two centuries of everyday interactions with ordinary books, the English learned to use their experience to assess the validity and utility of medical and scientific knowledge and to embrace new roles as purveyors of that knowledge in their own right.
 
@@ -45,6 +45,8 @@ Sharon Strocchia and Sara Ritchey, eds., _Gender, Health, and Healing, 1250–15
 "Communication failures in a pandemic can be catastrophic," [_The Washington Post_](https://www.washingtonpost.com/outlook/2020/03/18/communication-failures-pandemic-can-be-catastrophic/), March 18, 2020.
 
 "The key to lowering America’s high rates of maternal mortality," [_The Washington Post_](https://www.washingtonpost.com/outlook/2019/05/09/key-lowering-americas-high-rates-maternal-mortality/), May 8, 2019.
+
+"On the Absurdity of Deeply Rooted Tradition," [_The Daily Princetonian_](https://www.dailyprincetonian.com/article/2022/05/history-abortion-rooted-tradition-absurd-scholar), May 10, 2022
 
 A series for _The Daily Princetonian_, as invited faculty opinion columnist, on the funding crisis in higher education and its effect on students and adjuncts: [March 24](https://www.dailyprincetonian.com/article/2021/03/princetons-campus-is-coming-back-to-life-but-what-about-the-rest-of-americas-universities), [April 16](https://www.dailyprincetonian.com/article/2021/04/princeton-students-support-anewdeal4highered-higher-education), and [May 7, 2021](https://www.dailyprincetonian.com/article/2021/05/student-debt-crisis-americas-higher-ed-system-professors-tenure-adjunct-princeton)
 
