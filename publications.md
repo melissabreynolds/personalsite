@@ -36,7 +36,10 @@ Sharon Strocchia and Sara Ritchey, eds., [_Gender, Health, and Healing, 1250–1
 Peter Lake and Michael Questier, _All Hail to the Archpriest: Confessional Conflict, Toleration, and the Politics of Publicity in Post-Reformation England_ (Oxford: Oxford University Press, 2019), [_The English Historical Review_](https://academic.oup.com/ehr/advance-article/doi/10.1093/ehr/ceaa358/6121676?guestAccessKey=c3b5d91f-8f79-420c-b42a-e10e70e9384b) 136, no. 577 (January 2021).
 
 ### Works in Progress
+##### Journal Forum
+Co-editor (with Hannah Frydman, University of Washington) of a prospective forum of articles on "Reproductive Rights Beyond Roe" for the journal _Gender & History_
 
+##### Digital Editions
 "Old Books, New Science," an initiative to publish a digital edition of Bodleian MS Ashmole Add. B.246, a fifteenth-century manuscript owned by a sixteenth-century collector, Henry Dyngley, who later authored his own recipe collection. This project seeks to understand the generational transfer of medical and scientific knowledge through the collection, ammendation, and authorship of manuscript recipe books by digitizing the library of one prolific early modern collector. The initiative is funded by the National Science Foundation as part of a grant, “Crafting an Open Source Digital Publication Tool for the History of Science,” submitted by Pamela Smith (Columbia University). The multiple collaborators on this grant will test and implement EditionCrafter, an open source program for creating digital editions in the classroom.
 
 ### Public-Facing Scholarship
