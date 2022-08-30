@@ -29,6 +29,6 @@ University of Virginia.
 
 # Contact
 
-Email: [melissa.reynolds(at)princeton.edu](mailto:melissa.reynolds@princeton.edu)  
+Email: [melissa.reynolds(at)rutgers.edu](mailto:melissa.reynolds@rutgers.edu)  
 Twitter: [@melkatrey](http://www.twitter.com/melkatrey)  
 GitHub: [melissabreynolds](https://www.github.com/melissabreynolds)
