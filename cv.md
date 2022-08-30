@@ -12,9 +12,9 @@ To view my complete CV click [here](https://docs.google.com/document/d/e/2PACX-1
 2005 BA, English, The University of Alabama, _summa cum laude_
 
 ## Academic Appointments
-/2022-23 David Bartholomae Postdoctoral Fellow, Writing Program, Rutgers University
-/2019–22 Perkins-Cotsen Postdoctoral Fellow, Society of Fellows, Princeton, University  
-/2019–22 Lecturer, Department of History, Princeton University  
+2022-23 David Bartholomae Postdoctoral Fellow, Writing Program, Rutgers University  
+2019–22 Perkins-Cotsen Postdoctoral Fellow, Society of Fellows, Princeton, University  
+2019–22 Lecturer, Department of History, Princeton University  
 
 ## Selected Publications
 
@@ -45,7 +45,7 @@ _Digital Editions_
 
 ## Fellowships, Grants, and Awards
 ### External
-2022  Co-collaborator on EditionCrafter, National Science Foundation Grant # 2218218
+2022  Co-collaborator on EditionCrafter, National Science Foundation Grant # 2218218  
 2020	Honorable Mention, Society of Fellows in Critical Bibliography Annual Essay Prize  
 2018 	Dissertation Completion Fellowship, American Council of Learned Societies   
 2018	Grant-in-aid, Folger Shakespeare Library, Faculty Weekend Seminar  
