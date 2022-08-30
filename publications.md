@@ -25,7 +25,7 @@ Translation of Bibliothèque nationale de France MS Fr. 640_, [edition640.making
 (as four-year member of the translation and transcription team)  
 	* _Winner, Eugene S. Ferguson Prize, Society for the History of Technology_
 
-### Works in Progress
+### Invited Essays
 
 "How to Cure a Horse, or the Difference between the Knowledge of Experience and the Experience of Knowledge," forthcoming in the _Journal of the History of the Natural Sciences_, 52, no. 4 (2022): 547-553. 
 
@@ -34,6 +34,10 @@ Translation of Bibliothèque nationale de France MS Fr. 640_, [edition640.making
 Peter Lake and Michael Questier, _All Hail to the Archpriest: Confessional Conflict, Toleration, and the Politics of Publicity in Post-Reformation England_ (Oxford: Oxford University Press, 2019), [_The English Historical Review_](https://academic.oup.com/ehr/advance-article/doi/10.1093/ehr/ceaa358/6121676?guestAccessKey=c3b5d91f-8f79-420c-b42a-e10e70e9384b) 136, no. 577 (January 2021).
 
 Sharon Strocchia and Sara Ritchey, eds., _Gender, Health, and Healing, 1250–1550_ (Amsterdam: Amsterdam University Press, 2020), forthcoming in _Renaissance Quarterly_.
+
+### Works in Progress
+
+"Old Books, New Science," an initiative to publish a digital edition of Bodleian MS Ashmole Add. B.246, a fifteenth-century manuscript owned by a sixteenth-century collector, Henry Dyngley, who later authored his own recipe collection. This project seeks to understand the generational transfer of medical and scientific knowledge through the collection, ammendation, and authorship of manuscript recipe books by digitizing the library of one prolific early modern collector. The initiative is funded by the National Science Foundation as part of a grant, “Crafting an Open Source Digital Publication Tool for the History of Science,” submitted by Pamela Smith (Columbia University). The multiple collaborators on this grant will test and implement EditionCrafter, an open source program for creating digital editions in the classroom.
 
 ### Public-Facing Scholarship
 
