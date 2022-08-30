@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am the Perkins-Cotsen Postdoctoral Fellow in the Society of Fellows in
+I am currently the David Bartholomae Postdoctoral Fellow in the Writing Progeam at Rutgers University. From 2019-2022 I was the Perkins-Cotsen Postdoctoral Fellow in the Society of Fellows in
 the Liberal Arts and a Lecturer in History at Princeton University. I received my Ph.D.
 in History from Rutgers University, and a BA and MA from the University of Alabama. ![Headshot]({{ site.baseurl }}/images/headshot.jpg){: width="200px" .right-image} I am
 a cultural historian of medieval and early modern Europe with broad research interests in the
