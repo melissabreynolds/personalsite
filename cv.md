@@ -12,6 +12,7 @@ To view my complete CV click [here](https://docs.google.com/document/d/e/2PACX-1
 2005 BA, English, The University of Alabama, _summa cum laude_
 
 ## Academic Appointments
+2022-23 David Bartholomae Postdoctoral Fellow, Writing Program, Rutgers University
 2019–22 Perkins-Cotsen Postdoctoral Fellow, Society of Fellows, Princeton, University  
 2019–22 Lecturer, Department of History, Princeton University  
 
@@ -20,7 +21,7 @@ To view my complete CV click [here](https://docs.google.com/document/d/e/2PACX-1
 For a complete list of my publications, including public-facing scholarship, visit the [publications]({{ site.baseurl }}/publications) page.
 
 ### Book Manuscript
-_Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_ (in preparation)
+_Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_ (under advanced contract with the University of Chicago Press, now under review)
 
 ### Peer-Reviewed Articles
 “The ‘Sururgia’ of Nicholas Neesbett: Writing Medical Authority in Later Medieval England,” _Social History of Medicine_, 35, no. 1 (February 2022): 144–169. Access the article [here](https://academic.oup.com/shm/article/35/1/144/6414565?guestAccessKey=05a89a2c-e8fd-498b-824e-7ce8a7b98e88).
