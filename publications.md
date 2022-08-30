@@ -61,7 +61,7 @@ A series for _The Daily Princetonian_, as invited faculty opinion columnist, on 
 
 "A Late Medieval 'How To' Book," recorded for [90Second Narratives](https://www.buzzsprout.com/925213/8138773), March 15, 2021.
 
-"Communcations Failures from the Fifteenth Century are Still Happening Today," recorded for [Policy Punchline](https://www.policypunchline.com/episodes/2020/4/21/melissa-reynolds), April 21, 2020.
+"Communications Failures from the Fifteenth Century are Still Happening Today," recorded for [Policy Punchline](https://www.policypunchline.com/episodes/2020/4/21/melissa-reynolds), April 21, 2020.
 
 
 You can also find me tweeting on behalf of The Recipes Project at [@historecipes](https://twitter.com/historecipes).
