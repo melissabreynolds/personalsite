@@ -27,7 +27,7 @@ Translation of Bibliothèque nationale de France MS Fr. 640_, [edition640.making
 
 ### Invited Essays
 
-"How to Cure a Horse, or the Difference between the Knowledge of Experience and the Experience of Knowledge," forthcoming in the _Journal of the History of the Natural Sciences_, 52, no. 4 (2022): 547-553. 
+"How to Cure a Horse, or the Difference between the Knowledge of Experience and the Experience of Knowledge," forthcoming in the [_Journal of the History of the Natural Sciences_](/HSNS5204_03_Reynolds.pdf), 52, no. 4 (2022): 547-553. 
 
 ### Selected Book Reviews
 
