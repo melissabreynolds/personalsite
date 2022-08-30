@@ -2,15 +2,15 @@
 layout: default
 ---
 
-I am the David Bartholomae Postdoctoral Fellow in the Writing Progeam at Rutgers University. From 2019-2022, I was the Perkins-Cotsen Postdoctoral Fellow in the Society of Fellows in
-the Liberal Arts and a Lecturer in History at Princeton University. I received my Ph.D.
-in History from Rutgers University, and a BA and MA from the University of Alabama. ![Headshot]({{ site.baseurl }}/images/headshot.jpg){: width="200px" .right-image} I am
+I am
 a cultural historian of medieval and early modern Europe with broad research interests in the
 history of medicine and science, the history of gender and the body, and the history of
 material texts. In my research and teaching, I am particularly interested in
 tracing how elite or learned cultures of medical and scientific knowledge are conveyed
 to ‘ordinary’ people through non-elite media, and in turn, how access to this knowledge
-brought about cultural change.
+brought about cultural change. ![Headshot]({{ site.baseurl }}/images/headshot.jpg){: width="200px" .right-image} I am the David Bartholomae Postdoctoral Fellow in the Writing Progeam at Rutgers University. From 2019-2022, I was the Perkins-Cotsen Postdoctoral Fellow in the Society of Fellows in
+the Liberal Arts and a Lecturer in History at Princeton University. I received my Ph.D.
+in History from Rutgers University, and a BA and MA from the University of Alabama. 
 
 My first book, _Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_, is under advanced contract with the University of Chicago Press, and is currently under peer review. The book tells the story of how ordinary English readers embraced new roles as consumers, purveyors, and adjudicators of medical and scientific knowledge in everyday encounters with ordinary how-to books. From an earlier medieval culture that kept most medicine and science confined to monastic libraries or university lecture halls, how-to books emerged around the turn of the fifteenth century as the means by which artisans, merchants, landed farmers, or village priests were able to collect information useful to their daily lives. The treatises, recipes, and instructions that fill hundreds of these fifteenth-century manuscripts eventually served as models for printed how-to books, marketed to new generations of readers as novel and original when, in reality, they were anything but. Over two centuries of extraordinary growth in the circulation of medical and scientific knowledge, the English learned to be discerning readers, parsing new information and making value judgements about competing knowledge claims. Through analysis of nearly 200 fifteenth-century manuscripts and over 500 editions of printed how-to books, I show that it was these ordinary readers, just as much as famous experimenters and natural philosophers, who shaped a culture of intellectual exchange and inquiry befitting a scientific revolution.
 
