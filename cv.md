@@ -70,6 +70,9 @@ _Digital Editions_
 ## Courses Taught
 Visit the [syllabi]({{ site.baseurl }}/syllabi) page for course descriptions and sample syllabi.
 
+### Rutgers University (as Instructor of Record)
+Basic Composition
+
 ### Princeton University (as Instructor of Record)
 A History of Words: Technologies of Communication from Cuneiform to Coding  
 Fertile Bodies: Reproduction from Antiquity to the Enlightenment  
