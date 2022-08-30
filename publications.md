@@ -31,9 +31,9 @@ Translation of Bibliothèque nationale de France MS Fr. 640_, [edition640.making
 
 ### Selected Book Reviews
 
-Peter Lake and Michael Questier, _All Hail to the Archpriest: Confessional Conflict, Toleration, and the Politics of Publicity in Post-Reformation England_ (Oxford: Oxford University Press, 2019), [_The English Historical Review_](https://academic.oup.com/ehr/advance-article/doi/10.1093/ehr/ceaa358/6121676?guestAccessKey=c3b5d91f-8f79-420c-b42a-e10e70e9384b) 136, no. 577 (January 2021).
+Sharon Strocchia and Sara Ritchey, eds., [_Gender, Health, and Healing, 1250–1550_](https://doi.org/10.1017/rqx.2022.22) (Amsterdam: Amsterdam University Press, 2020), forthcoming in _Renaissance Quarterly_.
 
-Sharon Strocchia and Sara Ritchey, eds., _Gender, Health, and Healing, 1250–1550_ (Amsterdam: Amsterdam University Press, 2020), forthcoming in _Renaissance Quarterly_.
+Peter Lake and Michael Questier, _All Hail to the Archpriest: Confessional Conflict, Toleration, and the Politics of Publicity in Post-Reformation England_ (Oxford: Oxford University Press, 2019), [_The English Historical Review_](https://academic.oup.com/ehr/advance-article/doi/10.1093/ehr/ceaa358/6121676?guestAccessKey=c3b5d91f-8f79-420c-b42a-e10e70e9384b) 136, no. 577 (January 2021).
 
 ### Works in Progress
 
