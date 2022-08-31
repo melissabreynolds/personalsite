@@ -34,7 +34,7 @@ _Secrets of Craft and Nature in Renaissance France: A Digital Critical Edition a
 [https://edition640.makingandknowing.org,](https://edition640.makingandknowing.org) launched February 6, 2020.  
 
 ### Invited Essays
-"How to Cure a Horse, or, the Difference Between the Knowledge of Experience and the Experience of Knowledge," [_Historical Studies in the Natural Sciences_](/HSNS5204_03_Reynolds.pdf) 52, no. 4 (2022): 547–552.
+"How to Cure a Horse, or, the Difference Between the Knowledge of Experience and the Experience of Knowledge," _Historical Studies in the Natural Sciences_ 52, no. 4 (2022): 547–552. Access the essay [here](/HSNS5204_03_Reynolds.pdf).
 
 ### Works in Progress
 _Journal Forum_
