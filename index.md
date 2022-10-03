@@ -8,7 +8,7 @@ history of medicine and science, the history of gender and the body, and the his
 material texts. In my research and teaching, I am particularly interested in
 tracing how elite or learned cultures of medical and scientific knowledge are conveyed
 to ‘ordinary’ people through non-elite media, and in turn, how access to this knowledge
-brought about cultural change. ![Headshot]({{ site.baseurl }}/images/headshot.jpg){: width="200px" .right-image} I am the David Bartholomae Postdoctoral Fellow in the Writing Progeam at Rutgers University. From 2019-2022, I was the Perkins-Cotsen Postdoctoral Fellow in the Society of Fellows in
+brought about cultural change. ![Headshot]({{ site.baseurl }}/images/headshot.jpg){: width="200px" .right-image} I am currently the David Bartholomae Postdoctoral Fellow in the Writing Program at Rutgers University. From 2019-2022, I was the Perkins-Cotsen Postdoctoral Fellow in the Society of Fellows in
 the Liberal Arts and a Lecturer in History at Princeton University. I received my Ph.D.
 in History from Rutgers University, and a BA and MA from the University of Alabama. 
 
