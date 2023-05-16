@@ -21,30 +21,34 @@ To view my complete CV click [here](https://docs.google.com/document/d/e/2PACX-1
 For a complete list of my publications, including public-facing scholarship, visit the [publications]({{ site.baseurl }}/publications) page.
 
 ### Book Manuscript
-_Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_ (under advanced contract with the University of Chicago Press, now under review)
+_Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_ (Forthcoming from the University of Chicago Press, Summer 2024)
 
 ### Peer-Reviewed Articles
 “The ‘Sururgia’ of Nicholas Neesbett: Writing Medical Authority in Later Medieval England,” _Social History of Medicine_, 35, no. 1 (February 2022): 144–169. Access the article [here](https://academic.oup.com/shm/article/35/1/144/6414565?guestAccessKey=05a89a2c-e8fd-498b-824e-7ce8a7b98e88).
+* Winner, 2023 J. Worth Estes Prize, American Association for the History of Medicine
 
 “‘Here is a good boke to lerne’: Practical books, the coming of the press, and the search for knowledge, ca. 1400–1560,” _Journal of British Studies_ 58, no. 2 (April 2019): 259–288. Access the article [here](https://www.cambridge.org/core/journals/journal-of-british-studies/article/here-is-a-good-boke-to-lerne-practical-books-the-coming-of-the-press-and-the-search-for-knowledge-ca-14001560/8217EBC4F6CE53F1084709587B7C2E12/share/a024150fe1501e59df5b45628147fdd3df550196).
+* Honorable Mention, 2020 Essay Prize, Society of Fellows in Critical Bibliography, Rare Book School
 
 ### Editions and Translations
 Pamela Smith et al., eds.,
 _Secrets of Craft and Nature in Renaissance France: A Digital Critical Edition and English Translation of Bibliothèque nationale de France MS Fr. 640_,
-[https://edition640.makingandknowing.org,](https://edition640.makingandknowing.org) launched February 6, 2020.  
+[https://edition640.makingandknowing.org,](https://edition640.makingandknowing.org) launched February 6, 2020.
+* Winner, 2021 Eugene S. Ferguson Prize, Society for the History of Technology
 
 ### Invited Essays
 "How to Cure a Horse, or, the Difference Between the Knowledge of Experience and the Experience of Knowledge," _Historical Studies in the Natural Sciences_ 52, no. 4 (2022): 547–552. Access the essay [here](/HSNS5204_03_Reynolds.pdf).
 
 ### Works in Progress
 _Journal Forum_
-Co-editor (with Hannah Frydman, University of Washington) of a prospective forum of articles on "Reproductive Rights Beyond Roe" for the journal _Gender & History_
+Co-editor (with Hannah Frydman, University of Washington) of a prospective forum of articles on "Reproductive Rights Beyond Roe" for the journal _Gender & History_ (in preparation for submission June 2023)
 
 _Digital Editions_
 (under review) "Old Books, New Knowledge?" an initiative to publish digital critical editions of later medieval medical manuscripts owned and annotated by early modern readers; part of a larger grant proposal, "Crafting an Open Source Digital Publication Tool for the History of Science," submitted in collaboration with Pamela Smith (Columbia University) to the National Science Foundation
 
 ## Fellowships, Grants, and Awards
 ### External
+2023  J. Worth Estes Prize, American Association for the History of Medicine
 2022  Co-collaborator on EditionCrafter, National Science Foundation Grant # 2218218  
 2020	Honorable Mention, Society of Fellows in Critical Bibliography Annual Essay Prize  
 2018 	Dissertation Completion Fellowship, American Council of Learned Societies   
@@ -71,6 +75,8 @@ _Digital Editions_
 Visit the [syllabi]({{ site.baseurl }}/syllabi) page for course descriptions and sample syllabi.
 
 ### Rutgers University (as Instructor of Record)
+Writing for Publication (graduate seminar)
+Expository Writing
 Basic Composition
 
 ### Princeton University (as Instructor of Record)
