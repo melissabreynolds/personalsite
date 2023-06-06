@@ -116,11 +116,21 @@ img {
 .left-image {
     float: left;
     margin: 10px 20px;
+	
+@include mobile {
+	display: block;
+    margin: 0px auto;
+	}
 }
 
 .right-image {
     float: right;
     margin: 10px 20px;
+	
+@include mobile {
+	display: block;
+    margin: 0px auto;
+	}
 }
 
 .center-image {
