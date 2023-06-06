@@ -78,9 +78,7 @@ Visit the [syllabi]({{ site.baseurl }}/syllabi) page for course descriptions and
 
 ### Rutgers University (as Instructor of Record)
 Writing for Publication (graduate seminar)
-
 Expository Writing
-
 Basic Composition
 
 ### Princeton University (as Instructor of Record)
