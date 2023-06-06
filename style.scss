@@ -204,6 +204,17 @@ img {
   }
 }
 
+.mobile-banner {
+  visibility: hidden;
+  position: relative;
+  margin: -500px auto -500px auto;
+  width: 100%;
+
+  @include mobile {
+    visibility: visible;
+    margin: 15px auto -160px auto;
+  }
+}
 
 #hero {
   z-index: -1;
