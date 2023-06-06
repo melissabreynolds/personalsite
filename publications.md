@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: publications
 title: PUBLICATIONS
 permalink: /publications/
 ---
+# Publications
+
 ### Book Manuscript in Progress
 _Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_ (Forthcoming from the University of Chicago Press, 2023)
 
