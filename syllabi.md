@@ -3,7 +3,6 @@ layout: syllabus
 title: SYLLABI
 permalink: /syllabi/
 ---
-# Syllabi
 
 ### Fertile Bodies: Reproduction from Antiquity to the Enlightenment
 
