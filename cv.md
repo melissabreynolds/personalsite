@@ -26,6 +26,7 @@ _Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_ (F
 
 ### Peer-Reviewed Articles
 “The ‘Sururgia’ of Nicholas Neesbett: Writing Medical Authority in Later Medieval England,” _Social History of Medicine_, 35, no. 1 (February 2022): 144–169. Access the article [here](https://academic.oup.com/shm/article/35/1/144/6414565?guestAccessKey=05a89a2c-e8fd-498b-824e-7ce8a7b98e88).
+
 * Winner, 2023 J. Worth Estes Prize, American Association for the History of Medicine
 
 “‘Here is a good boke to lerne’: Practical books, the coming of the press, and the search for knowledge, ca. 1400–1560,” _Journal of British Studies_ 58, no. 2 (April 2019): 259–288. Access the article [here](https://www.cambridge.org/core/journals/journal-of-british-studies/article/here-is-a-good-boke-to-lerne-practical-books-the-coming-of-the-press-and-the-search-for-knowledge-ca-14001560/8217EBC4F6CE53F1084709587B7C2E12/share/a024150fe1501e59df5b45628147fdd3df550196).
@@ -77,7 +78,9 @@ Visit the [syllabi]({{ site.baseurl }}/syllabi) page for course descriptions and
 
 ### Rutgers University (as Instructor of Record)
 Writing for Publication (graduate seminar)
+
 Expository Writing
+
 Basic Composition
 
 ### Princeton University (as Instructor of Record)
