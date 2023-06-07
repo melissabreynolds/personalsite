@@ -198,7 +198,6 @@ img {
   margin: 0px auto;
   width: 100%;
   padding: 50px 0px 50px 0px;
-
 }
 
 #hero {
@@ -215,7 +214,7 @@ img {
   @include mobile {
   visibility: hidden;
   padding: 0px 0px;
-  margin: 0px auto;
+  margin: -20px auto;
   }
 }
 
