@@ -197,12 +197,6 @@ img {
   width: 100%;
   padding: 50px 0px 50px 0px;
 
-  @include mobile {
-    visibility: hidden;
-    padding: 0px 0px;
-    margin: 0px auto 150px auto;
-  }
-
 }
 
 #hero {
@@ -215,6 +209,12 @@ img {
   color: #ffffff;
   margin: -20px 0px;
   z-index: 3;
+
+  @include mobile {
+  visibility: hidden;
+  padding: 0px 0px;
+  margin: 0px auto;
+  }
 }
 
 .site-info {
