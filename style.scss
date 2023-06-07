@@ -202,18 +202,7 @@ img {
     padding: 0px 0px;
     margin: 0px auto 150px auto;
   }
-}
 
-.mobile-banner {
-  visibility: hidden;
-  position: relative;
-  margin: 0px auto -500px auto;
-  width: 100%;
-
-  @include mobile {
-    visibility: visible;
-    margin: 15px auto -160px auto;
-  }
 }
 
 #hero {
