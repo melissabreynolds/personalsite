@@ -118,7 +118,6 @@ img {
     margin: 10px 20px;
 	
 @include mobile {
-	float: none;
   display: block;
     margin: 5px 5px;
 	}
@@ -129,7 +128,6 @@ img {
     margin: 10px 20px;
 	
 @include mobile {
-	float: none;
   display: block;
     margin: 5px 5px;
 	}
