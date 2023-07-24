@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ### Book Manuscript in Progress
-_Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_ (Forthcoming from the University of Chicago Press, 2023)
+_Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_ (Forthcoming from the University of Chicago Press, 2024)
 
 _Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_ tells the story of how ordinary English people grew comfortable acting as adjudicators of natural knowledge through interactions with hundreds of manuscripts and printed books: almanacs, medical recipe collections, herbals, and prognostications. These were the books English people read from around the turn of the fifteenth century to the close of the sixteenth century when they wanted to attend to their health, manage the unpredictability of illness, or understand their place in the divinely-created universe. Before 1375 or so, this corpus of natural knowledge had largely been confined to monks or university clerics who could read the Latin in which most medieval medicine and science was written. To be sure, ordinary people outside the church tended wounds and watched the stars just as often as did learned monks, but their knowledge (though we would call it experiential or observational) was afforded very little status within medieval culture.Around the year 1400, however, manuscripts steadily got less expensive just as valued medical and scientific texts became available in Middle English. What resulted was a wholesale transformation in how the English laity accessed and experienced knowledge about the natural world. Over the course of the fifteenth century, the English created hundreds of manuscripts filled with texts that guided them through the practices of healing, tending crops, making medicines, or forecasting the weather. These “practical manuscripts,” as I call them, invited English readers into a very old and learned conversation. In these books, Hippocrates and Galen weren’t distant authorities whose word was law; they were trusted guides, whose advice could be excerpted, rearranged, recombined, and even altered when it suited a manuscript compiler or printer’s needs. English readers grew confident assessing and critiquing this ancient knowledge in the margins of fifteenth-century manuscript remedy collections.
 
@@ -34,7 +34,7 @@ Translation of Bibliothèque nationale de France MS Fr. 640_, [edition640.making
 
 ### Invited Essays
 
-"How to Cure a Horse, or the Difference between the Knowledge of Experience and the Experience of Knowledge," forthcoming in the [_Journal of the History of the Natural Sciences_](/HSNS5204_03_Reynolds.pdf), 52, no. 4 (2022): 547-553. 
+"How to Cure a Horse, or the Difference between the Knowledge of Experience and the Experience of Knowledge," [_Journal of the History of the Natural Sciences_](/HSNS5204_03_Reynolds.pdf), 52, no. 4 (2022): 547-553. 
 
 ### Selected Book Reviews
 
@@ -44,10 +44,10 @@ Peter Lake and Michael Questier, _All Hail to the Archpriest: Confessional Confl
 
 ### Works in Progress
 ##### Journal Forum
-Co-editor (with Hannah Frydman, University of Washington) of a prospective forum of articles on "Reproductive Rights Beyond Roe" for the journal _Gender & History_
+Co-editor (with Hannah Frydman, University of Washington) of a prospective forum of articles on "Reproductive Rights Beyond Roe" for the journal _Gender & History_ (under review)
 
 ##### Digital Editions
-"Old Books, New Science," an initiative to publish a digital edition of Bodleian MS Ashmole Add. B.246, a fifteenth-century manuscript owned by a sixteenth-century collector, Henry Dyngley, who later authored his own recipe collection. This project seeks to understand the generational transfer of medical and scientific knowledge through the collection, ammendation, and authorship of manuscript recipe books by digitizing the library of one prolific early modern collector. The initiative is funded by the National Science Foundation as part of a grant, “Crafting an Open Source Digital Publication Tool for the History of Science,” submitted by Pamela Smith (Columbia University). The multiple collaborators on this grant will test and implement EditionCrafter, an open source program for creating digital editions in the classroom.
+"Old Books, New Science," an initiative to publish a digital edition of Bodleian MS Ashmole Add. B.246, a fifteenth-century manuscript owned by a sixteenth-century collector, Henry Dyngley, who later authored his own recipe collection. This project seeks to understand the generational transfer of medical and scientific knowledge through the collection, ammendation, and authorship of manuscript recipe books by digitizing the library of one prolific early modern collector. The initiative is funded by the National Science Foundation as part of a grant, “Crafting an Open Source Digital Publication Tool for the History of Science,” headed by Pamela Smith (Columbia University). The multiple collaborators on this grant will test and implement EditionCrafter, an open source program for creating digital editions in the classroom.
 
 ### Public-Facing Scholarship
 

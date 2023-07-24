@@ -12,6 +12,8 @@ To view my complete CV click [here](https://docs.google.com/document/d/e/2PACX-1
 2005 BA, English, The University of Alabama, _summa cum laude_
 
 ## Academic Appointments
+2023-24 Mellon Postdoctoral Fellow, Wolf Humanities Center, University of Pennsylvania
+2023-24	Lecturer, History and Sociology of Science Department, University of Pennsylvania
 2022-23 David Bartholomae Postdoctoral Fellow, Writing Program, Rutgers University  
 2019–22 Perkins-Cotsen Postdoctoral Fellow, Society of Fellows, Princeton, University  
 2019–22 Lecturer, Department of History, Princeton University  
@@ -29,12 +31,14 @@ _Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_ (F
 * Winner, 2023 J. Worth Estes Prize, American Association for the History of Medicine
 
 “‘Here is a good boke to lerne’: Practical books, the coming of the press, and the search for knowledge, ca. 1400–1560,” _Journal of British Studies_ 58, no. 2 (April 2019): 259–288. Access the article [here](https://www.cambridge.org/core/journals/journal-of-british-studies/article/here-is-a-good-boke-to-lerne-practical-books-the-coming-of-the-press-and-the-search-for-knowledge-ca-14001560/8217EBC4F6CE53F1084709587B7C2E12/share/a024150fe1501e59df5b45628147fdd3df550196).
+
 * Honorable Mention, 2020 Essay Prize, Society of Fellows in Critical Bibliography, Rare Book School
 
 ### Editions and Translations
 Pamela Smith et al., eds.,
 _Secrets of Craft and Nature in Renaissance France: A Digital Critical Edition and English Translation of Bibliothèque nationale de France MS Fr. 640_,
 [https://edition640.makingandknowing.org,](https://edition640.makingandknowing.org) launched February 6, 2020.
+
 * Winner, 2021 Eugene S. Ferguson Prize, Society for the History of Technology
 
 ### Invited Essays
@@ -42,15 +46,15 @@ _Secrets of Craft and Nature in Renaissance France: A Digital Critical Edition a
 
 ### Works in Progress
 _Journal Forum_
-Co-editor (with Hannah Frydman, University of Washington) of a prospective forum of articles on "Reproductive Rights Beyond Roe" for the journal _Gender & History_ (in preparation for submission June 2023)
+Co-editor (with Hannah Frydman, University of Washington) of a prospective forum of articles on "Reproductive Rights Beyond Roe" for the journal _Gender & History_ (under review)
 
 _Digital Editions_
-(under review) "Old Books, New Knowledge?" an initiative to publish digital critical editions of later medieval medical manuscripts owned and annotated by early modern readers; part of a larger grant proposal, "Crafting an Open Source Digital Publication Tool for the History of Science," submitted in collaboration with Pamela Smith (Columbia University) to the National Science Foundation
+"Old Books, New Knowledge?" an initiative to publish digital critical editions of later medieval medical manuscripts owned and annotated by early modern readers; part of a larger digital humanities project to text-drive an open access platform for publishing digital critical editions known as EditionCrafter, headed by Pamela Smith of Columbia University, "Crafting an Open Source Digital Publication Tool for the History of Science," and funded by the National Science Foundation
 
 ## Fellowships, Grants, and Awards
 ### External
-2023  J. Worth Estes Prize, American Association for the History of Medicine
-2022  Co-collaborator on EditionCrafter, National Science Foundation Grant # 2218218  
+2023  	J. Worth Estes Prize, American Association for the History of Medicine
+2022  	Co-collaborator on EditionCrafter, National Science Foundation Grant # 2218218  
 2020	Honorable Mention, Society of Fellows in Critical Bibliography Annual Essay Prize  
 2018 	Dissertation Completion Fellowship, American Council of Learned Societies   
 2018	Grant-in-aid, Folger Shakespeare Library, Faculty Weekend Seminar  
