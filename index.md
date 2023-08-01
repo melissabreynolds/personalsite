@@ -48,4 +48,5 @@ University of Virginia.
 
 Email: [mbreyn[at]sas.upenn.edu](mailto:mbreyn@sas.upenn.edu)  
 Twitter: [@melkatrey](http://www.twitter.com/melkatrey)  
+Threads: [@melkatrey](https://www.threads.net/@melkatrey)
 GitHub: [melissabreynolds](https://www.github.com/melissabreynolds)

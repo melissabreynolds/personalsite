@@ -17,7 +17,7 @@ _Reading Practice_ argues that English readers learned to be discerning and sele
 ### Peer-Reviewed Articles
 
 “The _Sururgia_ of Nicholas Neesbett: Writing Medical Authority in Later Medieval England,”
-[_Social History of Medicine_](https://academic.oup.com/shm/article/35/1/144/6414565?guestAccessKey=05a89a2c-e8fd-498b-824e-7ce8a7b98e88), 35, no. 1 (February 2022): 144–169.
+[_Social History of Medicine_](https://academic.oup.com/shm/article/35/1/144/6414565?guestAccessKey=05a89a2c-e8fd-498b-824e-7ce8a7b98e88), 35, no. 1 (February 2022): 144–169.  
 	* _Winner, 2023 J. Worth Estes Prize, American Association for the History of Medicine_
 
 "'Here is a good boke to lerne’: Practical books, the coming of the press,
