@@ -13,7 +13,7 @@ After William Caxton introduced the printing press to England in 1476, English p
 
 _Reading Practice_ argues that English readers learned to be discerning and selective consumers of knowledge, gradually, in everyday interactions with run-of-the-mill books. When truly innovative, world-changing natural knowledge did begin to appear in Elizabethan bookshops—in books that revealed the remarkable diversity of plant species across the globe, in diagrams that offered a glimpse of the interior of the human body, or in simple illustrations that altered the shape of the universe—English readers were primed to train their analytical acumen on those practical books, too. In the everyday practices of reading, editing, amending, and even censoring practical books, ordinary English people grew into capable and confident judges of natural knowledge
 
-To learn more about the book, visit the [Digital Appendices](https://readingpractice.githib.io) to view the biblographic and codicological data that undergirds its argument.
+To learn more about the book, visit the [Digital Appendices](https://readingpractice.github.io) to view the biblographic and codicological data that undergirds its argument.
 
 ### Peer-Reviewed Articles
 
