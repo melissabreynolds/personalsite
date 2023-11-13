@@ -25,8 +25,10 @@ in reality, they were anything but. Over two centuries of extraordinary growth i
 knowledge, the English learned to be discerning readers, parsing new information and making value judgements about 
 competing knowledge claims. Through analysis of nearly 200 fifteenth-century manuscripts and over 500 editions of 
 printed how-to books, I show that it was these ordinary readers, just as much as famous experimenters and natural 
-philosophers, who shaped a culture of intellectual exchange and inquiry befitting a scientific revolution.
-
+philosophers, who shaped a culture of intellectual exchange and inquiry befitting a scientific revolution. To learn
+more about the book's argument, and to see some of the manuscript and printed sources that play a role in my
+narrative, you can watch [this talk](https://videocast.nih.gov/watch=48702) I gave as part of the National 
+Library of Medicine's History Talks series.
 
 I've published articles and essays in the [_Journal of British Studies_](https://www.cambridge.org/core/journals/journal-of-british-studies/article/here-is-a-good-boke-to-lerne-practical-books-the-coming-of-the-press-and-the-search-for-knowledge-ca-14001560/8217EBC4F6CE53F1084709587B7C2E12/share/a024150fe1501e59df5b45628147fdd3df550196), 
 the journal [_Social History of Medicine_](https://academic.oup.com/shm/advance-article/doi/10.1093/shm/hkaa099/6414565?guestAccessKey=db1ad51c-c6a4-4a92-8fbd-1cbc811da01d), and 
