@@ -1,1 +1,1 @@
-A personal website for Melissa Reynolds, David Bartholomae Postdoctoral Fellow, Rutgers University. Built using Jekyll Now by Barry Clark.
+A personal website for Melissa Reynolds, Assistant Professor of Early Modern European History, TCU. Built using Jekyll Now by Barry Clark.
