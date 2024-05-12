@@ -3,17 +3,9 @@ layout: publications
 title: PUBLICATIONS
 permalink: /publications/
 ---
-
-### Book Manuscript
-_Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_ (Forthcoming from the University of Chicago Press, 2024)
-
-_Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_ tells the story of how ordinary English people grew comfortable acting as adjudicators of natural knowledge through interactions with hundreds of manuscripts and printed books: almanacs, medical recipe collections, herbals, and prognostications. These were the books English people read from around the turn of the fifteenth century to the close of the sixteenth century when they wanted to attend to their health, manage the unpredictability of illness, or understand their place in the divinely-created universe. Before 1375 or so, this corpus of natural knowledge had largely been confined to monks or university clerics who could read the Latin in which most medieval medicine and science was written. To be sure, ordinary people outside the church tended wounds and watched the stars just as often as did learned monks, but their knowledge (though we would call it experiential or observational) was afforded very little status within medieval culture.Around the year 1400, however, manuscripts steadily got less expensive just as valued medical and scientific texts became available in Middle English. What resulted was a wholesale transformation in how the English laity accessed and experienced knowledge about the natural world. Over the course of the fifteenth century, the English created hundreds of manuscripts filled with texts that guided them through the practices of healing, tending crops, making medicines, or forecasting the weather. These “practical manuscripts,” as I call them, invited English readers into a very old and learned conversation. In these books, Hippocrates and Galen weren’t distant authorities whose word was law; they were trusted guides, whose advice could be excerpted, rearranged, recombined, and even altered when it suited a manuscript compiler or printer’s needs. English readers grew confident assessing and critiquing this ancient knowledge in the margins of fifteenth-century manuscript remedy collections.
-
-After William Caxton introduced the printing press to England in 1476, English printers eagerly mined fifteenth-century manuscript collections for popular medical recipes or herbal remedies that they would publish, over and over again, throughout the sixteenth century. Whereas printers in France or Germany or Italy published more Latin books than vernacular ones in the early decades of print, the opposite was the case in England. English printers’ preference for the vernacular—to include vernacular medicine and science—kept England on the periphery of learned European medical culture, but at the same time, it put non-elite readers at the center of debates about the body, health, and the natural world within England. In the sixteenth-century bookshops around St. Paul’s Cathedral, English readers made choices about which of the dozens of almanacs, recipe books, herbals, or prognostications to purchase and read. Here, too, they were assessing and evaluating knowledge claims: some of them ancient, some of them newly invented by savvy publishers hoping to sell more books. 
-
-_Reading Practice_ argues that English readers learned to be discerning and selective consumers of knowledge, gradually, in everyday interactions with run-of-the-mill books. When truly innovative, world-changing natural knowledge did begin to appear in Elizabethan bookshops—in books that revealed the remarkable diversity of plant species across the globe, in diagrams that offered a glimpse of the interior of the human body, or in simple illustrations that altered the shape of the universe—English readers were primed to train their analytical acumen on those practical books, too. In the everyday practices of reading, editing, amending, and even censoring practical books, ordinary English people grew into capable and confident judges of natural knowledge
-
-To learn more about the book, visit the [Digital Appendices](https://readingpractice.github.io) to view the biblographic and codicological data that undergirds its argument.
+[![Book cover image](https://press.uchicago.edu/dam/ucp/books/jacket/978/02/26/83/9780226834894.jpg){: width="270px" .right-image}](https://press.uchicago.edu/ucp/books/book/chicago/R/bo222256991.html)
+### Academic Monographs
+[_Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_](https://press.uchicago.edu/ucp/books/book/chicago/R/bo222256991.html) (Chicago: University of Chicago Press, 2024)
 
 ### Peer-Reviewed Articles
 
@@ -39,16 +31,29 @@ Translation of Bibliothèque nationale de France MS Fr. 640_, [edition640.making
 
 ### Selected Book Reviews
 
-Sharon Strocchia and Sara Ritchey, eds., [_Gender, Health, and Healing, 1250–1550_](https://doi.org/10.1017/rqx.2022.22) (Amsterdam: Amsterdam University Press, 2020), forthcoming in _Renaissance Quarterly_.
+Jennifer Borland, _Visualizing Household Health: Medieval Women, Art, and Knowledge in the_ Régime du corps (University Park, PA: Pennsylvania State University Press, 2022), [_Renaissance Quarterly_](https://www.cambridge.org/core/journals/renaissance-quarterly/article/abs/visualizing-household-health-medieval-women-art-and-knowledge-in-the-regime-du-corps-jennifer-borland-university-park-pennsylvania-state-university-press-2022-xvi-220-pp-11495/91FC5942CB731D492E8A716A4885C23A?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark) 76,  no. 4 (2023): 1503–5.
 
-Peter Lake and Michael Questier, _All Hail to the Archpriest: Confessional Conflict, Toleration, and the Politics of Publicity in Post-Reformation England_ (Oxford: Oxford University Press, 2019), [_The English Historical Review_](https://academic.oup.com/ehr/advance-article/doi/10.1093/ehr/ceaa358/6121676?guestAccessKey=c3b5d91f-8f79-420c-b42a-e10e70e9384b) 136, no. 577 (January 2021).
+Sharon Strocchia and Sara Ritchey, eds., _Gender, Health, and Healing, 1250–1550_ (Amsterdam: Amsterdam University Press, 2020), [_Renaissance Quarterly_](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/2C061F4DC44CE13715525DD3147DF35D/S0034433822000227a.pdf/gender_health_and_healing_12501550_sara_ritchey_and_sharon_strocchia_eds_premodern_health_disease_and_disability_3_amsterdam_amsterdam_university_press_2020_330_pp_109.pdf) 75, no. 1 (2022): 239–41.
+
+Peter Lake and Michael Questier, _All Hail to the Archpriest: Confessional Conflict, Toleration, and the Politics of Publicity in Post-Reformation England_ (Oxford: Oxford University Press, 2019), [_The English Historical Review_](https://academic.oup.com/ehr/advance-article/doi/10.1093/ehr/ceaa358/6121676?guestAccessKey=c3b5d91f-8f79-420c-b42a-e10e70e9384b) 136, no. 578 (February 2021): 191–93.
 
 ### Works in Progress
+
+##### Peer-reviewed articles
+"Of Plants and Providence: _Materia medica_ and Bodily Difference in a Global Resource Landscape," prepared for the special issue, "Resource Landscapes: Ecologies, Labor, and Investment in the Early Modern World" in _Renaissance Quarterly_, co-edited by Renée Raphael and Tina Asmussen (under review)
+
 ##### Journal Forum
 Co-editor (with Hannah Frydman, University of Washington) of a prospective forum of articles on "Reproductive Rights Beyond Roe" for the journal _Gender & History_ (under review)
 
 ##### Digital Editions
-"Old Books, New Science," an initiative to publish a digital edition of Bodleian MS Ashmole Add. B.246, a fifteenth-century manuscript owned by a sixteenth-century collector, Henry Dyngley, who later authored his own recipe collection. This project seeks to understand the generational transfer of medical and scientific knowledge through the collection, ammendation, and authorship of manuscript recipe books by digitizing the library of one prolific early modern collector. The initiative is funded by the National Science Foundation as part of a grant, “Crafting an Open Source Digital Publication Tool for the History of Science,” headed by Pamela Smith (Columbia University). The multiple collaborators on this grant will test and implement EditionCrafter, an open source program for creating digital editions in the classroom.
+[_Old Books, New Science_](https://cu-mkp.github.io/dyngleyfamily-editioncrafter-website/) is an initiative to digitally reconstruct the manuscript library of Henry Dyngley, a sixteenth-century English collector of Middle English medical manuscripts. 
+The project seeks to understand why early modern readers collected medieval medical and scientific knowledge in old manuscripts, how generations of readers engaged with these manuscripts over time, and what role these older books played in the development of new epistemologies associated with the scientific revolution.
+_Old Books, New Science_ is as one of several trial projects associated with EditionCrafter, a publication tool for digital critical editions under development (2022-2024) by the 
+[Making and Knowing Project](https://makingandknowing.org/) (M&K), [Performant Software Solutions](https://www.performantsoftware.com/), 
+and a number of case-study collaborators. EditionCrafter is designed to be an open-source, customizable 
+publishing tool that will allow users to deploy their own texts, data, and commentary as 
+low-maintenance digital critical editions. For more about this work, see the NSF award 
+announcement: [Crafting an Open Source Digital Publication Tool for the History of Science](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2218218&HistoricalAwards=false). 
 
 ### Public-Facing Scholarship
 
@@ -61,18 +66,19 @@ Co-editor (with Hannah Frydman, University of Washington) of a prospective forum
 
 A series for _The Daily Princetonian_, as invited faculty opinion columnist, on the funding crisis in higher education and its effect on students and adjuncts: [March 24](https://www.dailyprincetonian.com/article/2021/03/princetons-campus-is-coming-back-to-life-but-what-about-the-rest-of-americas-universities), [April 16](https://www.dailyprincetonian.com/article/2021/04/princeton-students-support-anewdeal4highered-higher-education), and [May 7, 2021](https://www.dailyprincetonian.com/article/2021/05/student-debt-crisis-americas-higher-ed-system-professors-tenure-adjunct-princeton)
 
-##### Scholarly Blog Posts
-"Perpetual Prognostications: Medieval Recipes for Living," [The Recipes Project: Food, Magic, Art, Magic, and Medicine](https://recipes.hypotheses.org/17522), October 1, 2020
+##### Digital Publications
+"Reading Remedy Books: Manuscripts and the Making of a National Medical Tradition,” for the National Library of Medicine’s [Circulating Now](https://circulatingnow.nlm.nih.gov/2023/10/26/reading-remedy-books-manuscripts-and-the-making-of-a-national-medical-tradition/), October 26, 2023
 
-"A Recipe for Reproductive Healthcare," [The Recipes Project: Food, Magic, Art, Magic, and Medicine](https://recipes.hypotheses.org/15134), June 27, 2019
+Editor, “Recipes for Rebirth,” Spring 2023 Issue of [The Recipes Project](https://recipes.hypotheses.org/spring-2023)
 
-"But does it work? Playful magic and the question of a recipe's purpose," [The Recipes Project: Food, Magic, Art, Magic, and Medicine](https://recipes.hypotheses.org/14220), January 24, 2019
+"Perpetual Prognostications: Medieval Recipes for Living," [The Recipes Project](https://recipes.hypotheses.org/17522), October 1, 2020
+
+"A Recipe for Reproductive Healthcare," [The Recipes Project](https://recipes.hypotheses.org/15134), June 27, 2019
+
+"But does it work? Playful magic and the question of a recipe's purpose," [The Recipes Project](https://recipes.hypotheses.org/14220), January 24, 2019
 
 ##### Podcast Presentations
 
 "A Late Medieval 'How To' Book," recorded for [90Second Narratives](https://www.buzzsprout.com/925213/8138773), March 15, 2021.
 
 "Communications Failures from the Fifteenth Century are Still Happening Today," recorded for [Policy Punchline](https://www.policypunchline.com/episodes/2020/4/21/melissa-reynolds), April 21, 2020.
-
-
-You can also find me tweeting on behalf of The Recipes Project at [@historecipes](https://twitter.com/historecipes).
