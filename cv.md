@@ -33,6 +33,10 @@ For a complete list of my publications, including public-facing scholarship, vis
 
 “‘Here is a good boke to lerne’: Practical books, the coming of the press, and the search for knowledge, ca. 1400–1560,” _Journal of British Studies_ 58, no. 2 (April 2019): 259–288. Access the article [here](https://www.cambridge.org/core/journals/journal-of-british-studies/article/here-is-a-good-boke-to-lerne-practical-books-the-coming-of-the-press-and-the-search-for-knowledge-ca-14001560/8217EBC4F6CE53F1084709587B7C2E12/share/a024150fe1501e59df5b45628147fdd3df550196).  
 	* Honorable Mention, 2020 Essay Prize, Society of Fellows in Critical Bibliography, Rare Book School
+### Guest Editor
+
+Co-editor (with Hannah Frydman) of a special forum of articles, “Reproductive Rights Beyond Roe,” _Gender & History__ 36, no. 2 (2024): 289–333. 
+(Contributors: Bibia Pavard, Brooke Lansing Mai, Hannah Stamler) Access the special forum [here](https://onlinelibrary.wiley.com/toc/14680424/2024/36/2).
 
 ### Editions and Translations
 Pamela Smith et al., eds.,
@@ -41,14 +45,14 @@ _Secrets of Craft and Nature in Renaissance France: A Digital Critical Edition a
 	* Winner, 2021 Eugene S. Ferguson Prize, Society for the History of Technology
 
 ### Invited Essays
+Co-author (with Hannah Frydman), “Introduction: Histories of Abortion Beyond Roe,” _Gender & History_ 36, no. 2 (Summer 2024): 289–294. Access the essay [here](http://doi.org/10.1111/1468-0424.12803).
+
 "How to Cure a Horse, or, the Difference Between the Knowledge of Experience and the Experience of Knowledge," _Historical Studies in the Natural Sciences_ 52, no. 4 (2022): 547–552. Access the essay [here](/HSNS5204_03_Reynolds.pdf).
 
 ### Works in Progress
 #### Peer-reviewed articles
-"Of Plants and Providence: _Materia medica_ and Bodily Difference in a Global Resource Landscape," prepared for the special issue, "Resource Landscapes: Ecologies, Labor, and Investment in the Early Modern World" in _Renaissance Quarterly_, co-edited by Renée Raphael and Tina Asmussen (under review)
+"Of Plants and Providence: _Materia medica_ and Bodily Difference in a Global Resource Landscape," prepared for the special issue, "Resource Landscapes: Ecologies, Labor, and Investment in the Early Modern World" in _Renaissance Quarterly_, co-edited by Renée Raphael and Tina Asmussen (revise and resubmit July 2024)
 
-#### Journal Forum
-Co-editor (with Hannah Frydman, University of Washington) of a prospective forum of articles on "Reproductive Rights Beyond Roe" for the journal _Gender & History_ (under review)
 
 #### Digital Editions
 [_Old Books, New Science_](https://cu-mkp.github.io/dyngleyfamily-editioncrafter-website/) is an initiative to digitally reconstruct the manuscript library of Henry Dyngley, a sixteenth-century English collector of Middle English medical manuscripts. 
@@ -91,6 +95,9 @@ announcement: [Crafting an Open Source Digital Publication Tool for the History 
 ## Conferences, Seminars, & Invited Talks
 <hr>
 ### Invited Research Talks and Presentations
+“The Making of an English Scientific Worldview,” University of Minnesota History of 
+Science, Technology, and Medicine Colloquium; September 27, 2024  
+
 “Reading Remedy Books: Medical Manuscripts and the Making of a National Medical 
 Tradition,” National Library of Medicine’s History Talks series, Bethesda, MD (online); 
 November 2, 2023  
@@ -134,6 +141,9 @@ Co-organizer, The State of the Margins: Thirty Years After “Gabriel Harvey and
 Co-organizer and Chair, Vernacular Knowledge and Learned Tradition in Early Modern England: Movement, Practice, Reception, History of Science Society; Atlanta, GA, November 3–6, 2016  
 
 ### Selected Conference Presentations
+Roundtable participant in panel on “Collaborative Futures: Tools for Collaboration from the 
+Making and Knowing Project,” History of Science Society Annual Meeting; Merida, Mexico, November 9, 2024  
+
 “Henry Dyngley’s Digital Library: How a New Open-Access Platform is Enabling the Digital Reconstruction of a Sixteenth-Century Manuscript Collection,” International Congress on Medieval Studies, May 9–11, 2024  
 
 Participant, roundtable on "Resources Landscapes in the Early Modern World," Renaissance Society of America Annual Meeting; Chicago, IL, March 21, 2024
@@ -178,6 +188,9 @@ Editorial Assistant, _Speculum: The Journal of the Medieval Academy of America_ 
 ## Courses Taught
 <hr>
 Visit the [syllabi](/syllabi) page for course descriptions and sample syllabi.  
+
+__Texas Christian University (as Instructor of Record)__
+Europe, 1348–1789
 
 __University of Pennsylvania (as Instructor of Record)__  
 Fertile Bodies: A Cultural History of Reproduction from Antiquity to the Enlightenment 

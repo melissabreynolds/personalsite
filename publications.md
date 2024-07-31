@@ -19,6 +19,11 @@ and the search for knowledge, ca. 1400–1560," [_Journal of British Studies_](h
 (April 2019): 259–288.  
 	* _Honorable mention, 2020 Society of Fellows in Critical Bibliography Essay Prize_
 
+## Guest Editor
+<hr>
+Co-editor (with Hannah Frydman) of a special forum of articles, “Reproductive Rights Beyond Roe,” [_Gender & History_](https://onlinelibrary.wiley.com/toc/14680424/2024/36/2) 36, no. 2 (2024): 289–333. 
+(Contributors: Bibia Pavard, Brooke Lansing Mai, Hannah Stamler)
+
 ## Editions and Translations
 <hr>
 Pamela Smith et al., eds., _Secrets of Craft and Nature in Renaissance France: A Digital Critical Edition and English
@@ -28,23 +33,24 @@ Translation of Bibliothèque nationale de France MS Fr. 640_, [edition640.making
 
 ## Invited Essays
 <hr>
+Co-author (with Hannah Frydman), “Introduction: Histories of Abortion Beyond Roe,” [_Gender & History_](http://doi.org/10.1111/1468-0424.12803) 36, no. 2 (Summer 2024): 289–294.
+
 "How to Cure a Horse, or the Difference between the Knowledge of Experience and the Experience of Knowledge," [_Journal of the History of the Natural Sciences_](/HSNS5204_03_Reynolds.pdf), 52, no. 4 (2022): 547-553. 
 
 ## Selected Book Reviews
 <hr>
-Jennifer Borland, _Visualizing Household Health: Medieval Women, Art, and Knowledge in the_ Régime du corps (University Park, PA: Pennsylvania State University Press, 2022), [_Renaissance Quarterly_](https://www.cambridge.org/core/journals/renaissance-quarterly/article/abs/visualizing-household-health-medieval-women-art-and-knowledge-in-the-regime-du-corps-jennifer-borland-university-park-pennsylvania-state-university-press-2022-xvi-220-pp-11495/91FC5942CB731D492E8A716A4885C23A?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark) 76,  no. 4 (2023): 1503–5.
+Review of James D. Fisher, The Enclosure of Knowledge: Books, Power, and Agrarian Capitalism in Britain, 1660–1800 (Cambridge, 2022), _The American Historical Review_ 129, no. 3 (September 2024): 300–301.
 
-Sharon Strocchia and Sara Ritchey, eds., _Gender, Health, and Healing, 1250–1550_ (Amsterdam: Amsterdam University Press, 2020), [_Renaissance Quarterly_](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/2C061F4DC44CE13715525DD3147DF35D/S0034433822000227a.pdf/gender_health_and_healing_12501550_sara_ritchey_and_sharon_strocchia_eds_premodern_health_disease_and_disability_3_amsterdam_amsterdam_university_press_2020_330_pp_109.pdf) 75, no. 1 (2022): 239–41.
+Review of Jennifer Borland, _Visualizing Household Health: Medieval Women, Art, and Knowledge in the_ Régime du corps (University Park, PA: Pennsylvania State University Press, 2022), [_Renaissance Quarterly_](https://www.cambridge.org/core/journals/renaissance-quarterly/article/abs/visualizing-household-health-medieval-women-art-and-knowledge-in-the-regime-du-corps-jennifer-borland-university-park-pennsylvania-state-university-press-2022-xvi-220-pp-11495/91FC5942CB731D492E8A716A4885C23A?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark) 76,  no. 4 (2023): 1503–5.
 
-Peter Lake and Michael Questier, _All Hail to the Archpriest: Confessional Conflict, Toleration, and the Politics of Publicity in Post-Reformation England_ (Oxford: Oxford University Press, 2019), [_The English Historical Review_](https://academic.oup.com/ehr/advance-article/doi/10.1093/ehr/ceaa358/6121676?guestAccessKey=c3b5d91f-8f79-420c-b42a-e10e70e9384b) 136, no. 578 (February 2021): 191–93.
+Review of Sharon Strocchia and Sara Ritchey, eds., _Gender, Health, and Healing, 1250–1550_ (Amsterdam: Amsterdam University Press, 2020), [_Renaissance Quarterly_](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/2C061F4DC44CE13715525DD3147DF35D/S0034433822000227a.pdf/gender_health_and_healing_12501550_sara_ritchey_and_sharon_strocchia_eds_premodern_health_disease_and_disability_3_amsterdam_amsterdam_university_press_2020_330_pp_109.pdf) 75, no. 1 (2022): 239–41.
+
+Review of Peter Lake and Michael Questier, _All Hail to the Archpriest: Confessional Conflict, Toleration, and the Politics of Publicity in Post-Reformation England_ (Oxford: Oxford University Press, 2019), [_The English Historical Review_](https://academic.oup.com/ehr/advance-article/doi/10.1093/ehr/ceaa358/6121676?guestAccessKey=c3b5d91f-8f79-420c-b42a-e10e70e9384b) 136, no. 578 (February 2021): 191–93.
 
 ## Works in Progress
 <hr>
 #### Peer-reviewed articles
 "Of Plants and Providence: _Materia medica_ and Bodily Difference in a Global Resource Landscape," prepared for the special issue, "Resource Landscapes: Ecologies, Labor, and Investment in the Early Modern World" in _Renaissance Quarterly_, co-edited by Renée Raphael and Tina Asmussen (under review)
-
-#### Journal Forum
-Co-editor (with Hannah Frydman, University of Washington) of a prospective forum of articles on "Reproductive Rights Beyond Roe" for the journal _Gender & History_ (under review)
 
 #### Digital Editions
 [_Old Books, New Science_](https://cu-mkp.github.io/dyngleyfamily-editioncrafter-website/) is an initiative to digitally reconstruct the manuscript library of Henry Dyngley, a sixteenth-century English collector of Middle English medical manuscripts. 
