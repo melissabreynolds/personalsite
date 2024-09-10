@@ -20,10 +20,8 @@ Perkins-Cotsen Postdoctoral Fellow, Society of Fellows; Lecturer, Department of 
 2011 MA, History, The University of Alabama    
 2005 BA, English, The University of Alabama, _summa cum laude_
 
-## Selected Publications
+## Publications
 <hr>
-For a complete list of my publications, including public-facing scholarship, visit the [publications](/publications) page.
-
 ### Academic Monographs
 [_Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_](https://press.uchicago.edu/ucp/books/book/chicago/R/bo222256991.html) (Chicago: University of Chicago Press, August 2024)
 
@@ -33,6 +31,7 @@ For a complete list of my publications, including public-facing scholarship, vis
 
 “‘Here is a good boke to lerne’: Practical books, the coming of the press, and the search for knowledge, ca. 1400–1560,” _Journal of British Studies_ 58, no. 2 (April 2019): 259–288. Access the article [here](https://www.cambridge.org/core/journals/journal-of-british-studies/article/here-is-a-good-boke-to-lerne-practical-books-the-coming-of-the-press-and-the-search-for-knowledge-ca-14001560/8217EBC4F6CE53F1084709587B7C2E12/share/a024150fe1501e59df5b45628147fdd3df550196).  
 	* Honorable Mention, 2020 Essay Prize, Society of Fellows in Critical Bibliography, Rare Book School
+	
 ### Guest Editor
 
 Co-editor (with Hannah Frydman) of a special forum of articles, “Reproductive Rights Beyond Roe,” _Gender & History__ 36, no. 2 (2024): 289–333. 
@@ -51,8 +50,7 @@ Co-author (with Hannah Frydman), “Introduction: Histories of Abortion Beyond R
 
 ### Works in Progress
 #### Peer-reviewed articles
-"Of Plants and Providence: _Materia medica_ and Bodily Difference in a Global Resource Landscape," prepared for the special issue, "Resource Landscapes: Ecologies, Labor, and Investment in the Early Modern World" in _Renaissance Quarterly_, co-edited by Renée Raphael and Tina Asmussen (revise and resubmit July 2024)
-
+"Of Plants and Providence: _Materia medica_ and Bodily Difference in a Global Resource Landscape," prepared for the special issue, "Resource Landscapes: Ecologies, Labor, and Investment in the Early Modern World" in _Renaissance Quarterly_, co-edited by Renée Raphael and Tina Asmussen (revise and resubmit July 2024).
 
 #### Digital Editions
 [_Old Books, New Science_](https://cu-mkp.github.io/dyngleyfamily-editioncrafter-website/) is an initiative to digitally reconstruct the manuscript library of Henry Dyngley, a sixteenth-century English collector of Middle English medical manuscripts. 
@@ -95,7 +93,7 @@ announcement: [Crafting an Open Source Digital Publication Tool for the History 
 ## Conferences, Seminars, & Invited Talks
 <hr>
 ### Invited Research Talks and Presentations
-“The Making of an English Scientific Worldview,” University of Minnesota History of 
+“‘Englishing’ Natural Knowledge: Antiquarianism and Exceptionalism in Elizabethan Science,” University of Minnesota History of 
 Science, Technology, and Medicine Colloquium; September 27, 2024  
 
 “Reading Remedy Books: Medical Manuscripts and the Making of a National Medical 
@@ -190,7 +188,7 @@ Editorial Assistant, _Speculum: The Journal of the Medieval Academy of America_ 
 Visit the [syllabi](/syllabi) page for course descriptions and sample syllabi.  
 
 __Texas Christian University (as Instructor of Record)__
-Europe, 1348–1789
+The World Expanded: Europe, 1348–1789
 
 __University of Pennsylvania (as Instructor of Record)__  
 Fertile Bodies: A Cultural History of Reproduction from Antiquity to the Enlightenment 
