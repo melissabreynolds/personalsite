@@ -80,7 +80,11 @@ As an educator and a historian, I'm always looking for outlets that will allow m
 my research about the past and connect that research to contemporary questions or problems. Below, you'll find 
 links to op-eds, blog posts, and podcasts all about my research, and sometimes about the relationship between premodern history and contemporary politics.
 
-#### "Interview with Sarah Bramao-Ramos about __Reading Practice__," [New Books Network](https://newbooksnetwork.com/reading-practice), January 17, 2025
+#### "Interview with Sarah Bramao-Ramos about _Reading Practice_," [New Books Network](https://newbooksnetwork.com/reading-practice), January 17, 2025
+
+#### Co-editor, "Images As/And Recipes," Autumn 2024 Issue of [The Recipes Project](https://recipes.hypotheses.org/autumn-2024)
+
+#### "The Page 99 Test: Reading Practice," [The Page 99 Test](http://page99test.blogspot.com/2024/09/melissa-reynoldss-reading-practice.html), September 18, 2024
 
 #### "Medicine, Magic, and Literacy in Early Modern England," [_Chasing Leviathan_](https://youtube.com/@chasingleviathan?si=gKkajgW0_k8JXAs3), September 8, 2023
 
