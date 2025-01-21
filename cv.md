@@ -188,7 +188,7 @@ Editorial Assistant, _Speculum: The Journal of the Medieval Academy of America_ 
 Visit the [syllabi](/syllabi) page for course descriptions and sample syllabi.  
 
 __Texas Christian University (as Instructor of Record)__  
-The World Expanded: Europe, 1348–1789
+The World Expanded: Europe, 1348–1789  
 History of Science: Scientific Revolutions
 
 __University of Pennsylvania (as Instructor of Record)__  
