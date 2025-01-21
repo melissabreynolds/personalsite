@@ -200,9 +200,9 @@ Expository Writing
 Basic Composition  
 
 __Princeton University (as Instructor of Record)__  
-A History of Words: Technologies of Communication from Cuneiform to Coding  (Spr 21)
-Fertile Bodies: Reproduction from Antiquity to the Enlightenment  (Spr 20, 22)
-Interdisciplinary Approaches to Western Culture I  (Fa 19, 20)
+A History of Words: Technologies of Communication from Cuneiform to Coding  
+Fertile Bodies: Reproduction from Antiquity to the Enlightenment   
+Interdisciplinary Approaches to Western Culture I   
 
 __Rutgers University (as Teaching Fellow)__  
 The Crusades  
