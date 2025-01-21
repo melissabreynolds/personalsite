@@ -23,14 +23,14 @@ who has searched Dr. Google to diagnose a rash or watched a YouTube video to lea
 mend a shirt or cook a meal. It's also a great read for book nerds!
 
 If you'd like to learn more about the book, you can listen to [this interview](https://newbooksnetwork.com/reading-practice) I did with Sarah
-Bramao-Ramos of New Books Network, all about the research, arguments, and ideas that went into __Reading Practice.__
+Bramao-Ramos of New Books Network, all about the research, arguments, and ideas that went into _Reading Practice._
 
-For a bit more detailed (and academic) preview of the book, you could watch [this talk](https://videocast.nih.gov/watch=48702) I gave for
+For a more academic preview of the book, you could watch [this talk](https://videocast.nih.gov/watch=48702) I gave for
 the National Library of Medicine's "History Talks" series in November 2023, with the added bonus that you'll get to see images of a few of the manuscripts I study.
 
 Or, you might listen to
 this episode of _Chasing Leviathan_, ["Medicine, Magic, and Literacy in Early Modern England"](https://youtube.com/@chasingleviathan?si=gKkajgW0_k8JXAs3), 
-recorded on September 8, 2024, for a general discussion of the book with a non-academic reader. 
+recorded on September 8, 2024, to hear me talk about the book with someone not ensconced in the ivory tower. 
 
 Finally, data enthusiasts or 
 manuscript nerds may also wish to browse the website I built to house the bibliographical data behind the book: [_A Digital Companion to Reading Practice_](https://readingpractice.github.io).
