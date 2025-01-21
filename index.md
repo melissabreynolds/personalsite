@@ -25,7 +25,6 @@ within English culture, attending especially to the effects of the printing pres
 toward nature and the human body. 
 
 
-
 Reynolds has published articles and essays in the [_Journal of British Studies_](https://www.cambridge.org/core/journals/journal-of-british-studies/article/here-is-a-good-boke-to-lerne-practical-books-the-coming-of-the-press-and-the-search-for-knowledge-ca-14001560/8217EBC4F6CE53F1084709587B7C2E12/share/a024150fe1501e59df5b45628147fdd3df550196), 
 [_Social History of Medicine_](https://academic.oup.com/shm/advance-article/doi/10.1093/shm/hkaa099/6414565?guestAccessKey=db1ad51c-c6a4-4a92-8fbd-1cbc811da01d), [_Gender & History_](http://doi.org/10.1111/1468-0424.12803), and [_Historical Studies in the Natural Sciences_](/HSNS5204_03_Reynolds.pdf). 
 She has also written

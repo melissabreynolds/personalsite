@@ -22,11 +22,17 @@ the stories it tells of readers and their books more than 500 years ago may appe
 who has searched Dr. Google to diagnose a rash or watched a YouTube video to learn how to 
 mend a shirt or cook a meal. It's also a great read for book nerds!
 
-If you'd like to learn more about the book, watch [this talk](https://videocast.nih.gov/watch=48702) I gave for
-the National Library of Medicine's "History Talks" series in November 2023, describing the book's 
-argument and showing off a few of the manuscripts I study, or listen to
+If you'd like to learn more about the book, you can listen to [this interview](https://newbooksnetwork.com/reading-practice) I did with Sarah
+Bramao-Ramos of New Books Network, all about the research, arguments, and ideas that went into __Reading Practice.__
+
+For a bit more detailed (and academic) preview of the book, you could watch [this talk](https://videocast.nih.gov/watch=48702) I gave for
+the National Library of Medicine's "History Talks" series in November 2023, with the added bonus that you'll get to see images of a few of the manuscripts I study.
+
+Or, you might listen to
 this episode of _Chasing Leviathan_, ["Medicine, Magic, and Literacy in Early Modern England"](https://youtube.com/@chasingleviathan?si=gKkajgW0_k8JXAs3), 
-recorded on September 8, 2024, for a general discussion of the book. Data enthusiasts or 
+recorded on September 8, 2024, for a general discussion of the book with a non-academic reader. 
+
+Finally, data enthusiasts or 
 manuscript nerds may also wish to browse the website I built to house the bibliographical data behind the book: [_A Digital Companion to Reading Practice_](https://readingpractice.github.io).
 
 ## A Cool Manuscript in Digital Facsimile
@@ -72,7 +78,9 @@ few pages of one of Dyngley's manuscripts, Trinity College Cambridge MS O.8.35, 
 <hr>
 As an educator and a historian, I'm always looking for outlets that will allow me to share 
 my research about the past and connect that research to contemporary questions or problems. Below, you'll find 
-links to op-eds, blog posts, and podcasts wherein I discuss and 
+links to op-eds, blog posts, and podcasts all about my research, and sometimes about the relationship between premodern history and contemporary politics.
+
+#### "Interview with Sarah Bramao-Ramos about __Reading Practice__," [New Books Network](https://newbooksnetwork.com/reading-practice), January 17, 2025
 
 #### "Medicine, Magic, and Literacy in Early Modern England," [_Chasing Leviathan_](https://youtube.com/@chasingleviathan?si=gKkajgW0_k8JXAs3), September 8, 2023
 
