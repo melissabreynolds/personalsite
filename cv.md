@@ -26,6 +26,8 @@ Perkins-Cotsen Postdoctoral Fellow, Society of Fellows; Lecturer, Department of 
 [_Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_](https://press.uchicago.edu/ucp/books/book/chicago/R/bo222256991.html) (Chicago: University of Chicago Press, August 2024)
 
 ### Peer-Reviewed Articles
+“Of Plants and Providence: Assessing Drugs, Difference, and Divine Will in Timothy Bright’s The sufficiencie of English medicines (1580),” forthcoming in _Renaissance Quarterly_  
+
 “The ‘Sururgia’ of Nicholas Neesbett: Writing Medical Authority in Later Medieval England,” _Social History of Medicine_, 35, no. 1 (February 2022): 144–169. Access the article [here](https://academic.oup.com/shm/article/35/1/144/6414565?guestAccessKey=05a89a2c-e8fd-498b-824e-7ce8a7b98e88).  
 	* Winner, 2023 J. Worth Estes Prize, American Association for the History of Medicine
 
@@ -65,6 +67,7 @@ announcement: [Crafting an Open Source Digital Publication Tool for the History 
 ## Fellowships, Grants, and Awards
 <hr>
 ### External
+2025	Short-term Fellowship, Folger Shakespeare Library  
 2024	Paul Oskar Kristeller Fellowship, Renaissance Society of America  
 2023  	J. Worth Estes Prize, American Association for the History of Medicine  
 2022  	Co-collaborator on EditionCrafter, National Science Foundation Grant # 2218218  
@@ -93,6 +96,10 @@ announcement: [Crafting an Open Source Digital Publication Tool for the History 
 ## Conferences, Seminars, & Invited Talks
 <hr>
 ### Invited Research Talks and Presentations
+"Bodies, Soul, and Environment: Assessing Drugs and Difference in Sixteenth-Century English Medicine," an invited presentation
+at the Medicine, Slavery, and Race in the Atlantic World conference celebrating the close of the Medicine
+and the Making of Race Project, led by Dr. Hannah Murphy, King's College London; May 15–18, 2025  
+
 “‘Englishing’ Natural Knowledge: Antiquarianism and Exceptionalism in Elizabethan Science,” University of Minnesota History of 
 Science, Technology, and Medicine Colloquium; September 27, 2024  
 
@@ -139,7 +146,11 @@ Co-organizer, The State of the Margins: Thirty Years After “Gabriel Harvey and
 Co-organizer and Chair, Vernacular Knowledge and Learned Tradition in Early Modern England: Movement, Practice, Reception, History of Science Society; Atlanta, GA, November 3–6, 2016  
 
 ### Selected Conference Presentations
-Roundtable participant in panel on “Collaborative Futures: Tools for Collaboration from the 
+“A Protestant Philosophy? Medicine, the Body, and the Environment in Sixteenth-Century English and German Thought,” Renaissance Society of America Annual Meeting  
+
+Roundtable participant, Roundtable participant, “In and Out of Context: The Varieties of Contextual Reading in Early Modern Europe,” Renaissance Society of America Annual Meeting  
+
+Roundtable participant, “Collaborative Futures: Tools for Collaboration from the 
 Making and Knowing Project,” History of Science Society Annual Meeting; Merida, Mexico, November 9, 2024  
 
 “Henry Dyngley’s Digital Library: How a New Open-Access Platform is Enabling the Digital Reconstruction of a Sixteenth-Century Manuscript Collection,” International Congress on Medieval Studies, May 9–11, 2024  
@@ -189,7 +200,9 @@ Visit the [syllabi](/syllabi) page for course descriptions and sample syllabi.
 
 __Texas Christian University (as Instructor of Record)__  
 The World Expanded: Europe, 1348–1789  
-History of Science: Scientific Revolutions
+History of Science: Scientific Revolutions  
+Technologies of History from Cuneiform to Coding  
+History of Science (graduate seminar)
 
 __University of Pennsylvania (as Instructor of Record)__  
 Fertile Bodies: A Cultural History of Reproduction from Antiquity to the Enlightenment 

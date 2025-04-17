@@ -25,8 +25,15 @@ of Women 1_, Galen's _On the Usefulness of the Parts of the Body_, Augustine's _
 _The Trotula_, _Aristotle's Masterpiece_, and William Harvey's _Disputations
 Touching the Generation of Animals_.
 
+### History of Science: Scientific Revolutions
 
-### A History of Words: Technologies of Communication from Cuneiform to Coding
+What is science, anyway? Is it a kind of knowledge? A methodology? A set of beliefs? For hundreds of years, well before the word “science” became synonymous with the experimental method or laboratories, humans investigated the natural world and sought to understand why it worked the way it did. But the brightest minds of the ancient, medieval, and Renaissance eras didn’t call themselves “scientists” (though the root of our modern word science does come from an ancient word: scientia, meaning “wisdom” in Latin). Ancient thinkers like Plato or Aristotle didn’t separate their inquiries into the natural world from their inquiries into ethics or morality, and medieval writers were very eager to think about theology right alongside astronomy, medicine, and botany.  
+Between 1500 and 1800, however, a new philosophy and methodology for interrogating the natural world developed in western Europe. This methodology, based in empiricism, observation, reason, and experimentation, was notably different from the intellectual work done by poets or artists or theologians. Over time, this way of investigating the natural world became associated with “objectivity” and demonstrable “facts,” the concepts that have given science a monopoly on truth in our contemporary world. In some popular versions of this story, science triumphed over superstition, to include the superstition of religious belief.  
+This course investigates the origins of science as a way of knowing and asks how this body of knowledge gained widespread cultural authority. Though it features big names like Andreas Vesalius, Galileo Galilei, and Isaac Newton, it also centers scientists working in artisanal workshops or household kitchens. And though we’ll remain focused on “Western” science as it developed in Europe, we’ll see that this body of knowledge emerged through interactions with goods, ideas, and peoples from across the wider world.  
+
+Check back in Fall of 2025 for links to episodes of students' podcast episodes, debunking myths about the relationship between religion and science in early modern Europe. They'll be featured in season 4 of the TCU History department's FrogCast!
+
+### Technologies of History from Cuneiform to Coding
 
 Visit the [Spring 2021 course website](https://hum-331-princeton.github.io) to read student work or view the syllabus and course assignments with tutorials [here](https://hum-331-princeton.github.io/course).
 
