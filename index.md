@@ -46,6 +46,5 @@ University of Virginia.
 # Contact
 
 Email: [m.reynolds1(at)tcu.edu](mailto:m.reynolds1@tcu.edu)  
-Twitter: [@melkatrey](http://www.twitter.com/melkatrey)  
-Threads: [@melkatrey](https://www.threads.net/@melkatrey)  
+Bluesky: [@melkatrey.bsky.social](https://bsky.app/profile/melkatrey.bsky.social)  
 GitHub: [melissabreynolds](https://www.github.com/melissabreynolds)
