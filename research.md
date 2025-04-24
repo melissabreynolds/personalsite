@@ -28,12 +28,43 @@ Bramao-Ramos of New Books Network, all about the research, arguments, and ideas 
 For a more academic preview of the book, you could watch [this talk](https://videocast.nih.gov/watch=48702) I gave for
 the National Library of Medicine's "History Talks" series in November 2023, with the added bonus that you'll get to see images of a few of the manuscripts I study.
 
-Or, you might listen to
-this episode of _Chasing Leviathan_, ["Medicine, Magic, and Literacy in Early Modern England"](https://youtube.com/@chasingleviathan?si=gKkajgW0_k8JXAs3), 
-recorded on September 8, 2024, to hear me talk about the book with someone not ensconced in the ivory tower. 
+Or, you could read a series of blog posts by [Nikiana Dinenis](https://recipes.hypotheses.org/24844), [Grace Murray](https://recipes.hypotheses.org/24886), and [Caleb Prus](https://recipes.hypotheses.org/24901), published in the [Winter 2025 issue](https://recipes.hypotheses/org/winter-2025) of _The Recipes Project_,
+reflecting on the book's contributions to the fields of the history of reading, of publishing, and of medicine and medical disinformation.
 
 Finally, data enthusiasts or 
 manuscript nerds may also wish to browse the website I built to house the bibliographical data behind the book: [_A Digital Companion to Reading Practice_](https://readingpractice.github.io).
+
+## Op-Eds, Blog Posts, and Podcast Interviews
+<hr>
+As an educator and a historian, I'm always looking for outlets that will allow me to share 
+my research about the past and connect that research to contemporary questions or problems. Below, you'll find 
+links to op-eds, blog posts, and podcasts all about my research, and sometimes about the relationship between premodern history and contemporary politics.
+
+#### "Interview with Sarah Bramao-Ramos about _Reading Practice_," [New Books Network](https://newbooksnetwork.com/reading-practice), January 17, 2025
+
+#### Co-editor, "Images As/And Recipes," Autumn 2024 Issue of [The Recipes Project](https://recipes.hypotheses.org/autumn-2024)
+
+#### "The Page 99 Test: Reading Practice," [The Page 99 Test](http://page99test.blogspot.com/2024/09/melissa-reynoldss-reading-practice.html), September 18, 2024
+
+#### "Medicine, Magic, and Literacy in Early Modern England," [_Chasing Leviathan_](https://youtube.com/@chasingleviathan?si=gKkajgW0_k8JXAs3), September 8, 2023
+
+#### "Reading Remedy Books: Manuscripts and the Making of a National Medical Tradition,” for the National Library of Medicine’s [Circulating Now](https://circulatingnow.nlm.nih.gov/2023/10/26/reading-remedy-books-manuscripts-and-the-making-of-a-national-medical-tradition/), October 26, 2023
+
+#### Editor, “Recipes for Rebirth,” Spring 2023 Issue of [The Recipes Project](https://recipes.hypotheses.org/spring-2023)
+
+#### "On the Absurdity of Deeply Rooted Tradition," [_The Daily Princetonian_](https://www.dailyprincetonian.com/article/2022/05/history-abortion-rooted-tradition-absurd-scholar), May 10, 2022
+
+#### "A Late Medieval 'How To' Book," recorded for [90Second Narratives](https://www.buzzsprout.com/925213/8138773), March 15, 2021
+
+#### "Perpetual Prognostications: Medieval Recipes for Living," [The Recipes Project](https://recipes.hypotheses.org/17522), October 1, 2020
+
+#### "Communications Failures from the Fifteenth Century are Still Happening Today," recorded for [Policy Punchline](https://www.policypunchline.com/episodes/2020/4/21/melissa-reynolds), April 21, 2020
+
+#### "A Recipe for Reproductive Healthcare," [The Recipes Project](https://recipes.hypotheses.org/15134), June 27, 2019
+
+#### "The key to lowering America’s high rates of maternal mortality," [_The Washington Post_](https://www.washingtonpost.com/outlook/2019/05/09/key-lowering-americas-high-rates-maternal-mortality/), May 8, 2019
+
+#### "But does it work? Playful magic and the question of a recipe's purpose," [The Recipes Project](https://recipes.hypotheses.org/14220), January 24, 2019
 
 ## A Cool Manuscript in Digital Facsimile
 <hr>
@@ -73,36 +104,4 @@ The project seeks to understand why early modern readers collected medieval medi
 engaged with these manuscripts over time, and what role these older books played in the development of new epistemologies associated with the scientific revolution.
 _Old Books, New Science_ is very much  work-in-progress, though interested readers will be able to see transcriptions of the first
 few pages of one of Dyngley's manuscripts, Trinity College Cambridge MS O.8.35, at the project site.
-
-## Op-Eds, Blog Posts, and Podcast Interviews
-<hr>
-As an educator and a historian, I'm always looking for outlets that will allow me to share 
-my research about the past and connect that research to contemporary questions or problems. Below, you'll find 
-links to op-eds, blog posts, and podcasts all about my research, and sometimes about the relationship between premodern history and contemporary politics.
-
-#### "Interview with Sarah Bramao-Ramos about _Reading Practice_," [New Books Network](https://newbooksnetwork.com/reading-practice), January 17, 2025
-
-#### Co-editor, "Images As/And Recipes," Autumn 2024 Issue of [The Recipes Project](https://recipes.hypotheses.org/autumn-2024)
-
-#### "The Page 99 Test: Reading Practice," [The Page 99 Test](http://page99test.blogspot.com/2024/09/melissa-reynoldss-reading-practice.html), September 18, 2024
-
-#### "Medicine, Magic, and Literacy in Early Modern England," [_Chasing Leviathan_](https://youtube.com/@chasingleviathan?si=gKkajgW0_k8JXAs3), September 8, 2023
-
-#### "Reading Remedy Books: Manuscripts and the Making of a National Medical Tradition,” for the National Library of Medicine’s [Circulating Now](https://circulatingnow.nlm.nih.gov/2023/10/26/reading-remedy-books-manuscripts-and-the-making-of-a-national-medical-tradition/), October 26, 2023
-
-#### Editor, “Recipes for Rebirth,” Spring 2023 Issue of [The Recipes Project](https://recipes.hypotheses.org/spring-2023)
-
-#### "On the Absurdity of Deeply Rooted Tradition," [_The Daily Princetonian_](https://www.dailyprincetonian.com/article/2022/05/history-abortion-rooted-tradition-absurd-scholar), May 10, 2022
-
-#### "A Late Medieval 'How To' Book," recorded for [90Second Narratives](https://www.buzzsprout.com/925213/8138773), March 15, 2021
-
-#### "Perpetual Prognostications: Medieval Recipes for Living," [The Recipes Project](https://recipes.hypotheses.org/17522), October 1, 2020
-
-#### "Communications Failures from the Fifteenth Century are Still Happening Today," recorded for [Policy Punchline](https://www.policypunchline.com/episodes/2020/4/21/melissa-reynolds), April 21, 2020
-
-#### "A Recipe for Reproductive Healthcare," [The Recipes Project](https://recipes.hypotheses.org/15134), June 27, 2019
-
-#### "The key to lowering America’s high rates of maternal mortality," [_The Washington Post_](https://www.washingtonpost.com/outlook/2019/05/09/key-lowering-americas-high-rates-maternal-mortality/), May 8, 2019
-
-#### "But does it work? Playful magic and the question of a recipe's purpose," [The Recipes Project](https://recipes.hypotheses.org/14220), January 24, 2019
 

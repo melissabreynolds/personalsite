@@ -26,7 +26,7 @@ Perkins-Cotsen Postdoctoral Fellow, Society of Fellows; Lecturer, Department of 
 [_Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_](https://press.uchicago.edu/ucp/books/book/chicago/R/bo222256991.html) (Chicago: University of Chicago Press, August 2024)
 
 ### Peer-Reviewed Articles
-“Of Plants and Providence: Assessing Drugs, Difference, and Divine Will in Timothy Bright’s The sufficiencie of English medicines (1580),” forthcoming in _Renaissance Quarterly_  
+“Of Plants and Providence: Assessing Drugs, Difference, and Divine Will in Timothy Bright’s _The sufficiencie of English medicines_ (1580),” forthcoming in _Renaissance Quarterly_  
 
 “The ‘Sururgia’ of Nicholas Neesbett: Writing Medical Authority in Later Medieval England,” _Social History of Medicine_, 35, no. 1 (February 2022): 144–169. Access the article [here](https://academic.oup.com/shm/article/35/1/144/6414565?guestAccessKey=05a89a2c-e8fd-498b-824e-7ce8a7b98e88).  
 	* Winner, 2023 J. Worth Estes Prize, American Association for the History of Medicine
@@ -36,7 +36,7 @@ Perkins-Cotsen Postdoctoral Fellow, Society of Fellows; Lecturer, Department of 
 	
 ### Guest Editor
 
-Co-editor (with Hannah Frydman) of a special forum of articles, “Reproductive Rights Beyond Roe,” _Gender & History__ 36, no. 2 (2024): 289–333. 
+Co-editor (with Hannah Frydman) of a special forum of articles, “Reproductive Rights Beyond Roe,” _Gender & History_ 36, no. 2 (2024): 289–333. 
 (Contributors: Bibia Pavard, Brooke Lansing Mai, Hannah Stamler) Access the special forum [here](https://onlinelibrary.wiley.com/toc/14680424/2024/36/2).
 
 ### Editions and Translations
@@ -96,8 +96,7 @@ announcement: [Crafting an Open Source Digital Publication Tool for the History 
 ## Conferences, Seminars, & Invited Talks
 <hr>
 ### Invited Research Talks and Presentations
-"Bodies, Soul, and Environment: Assessing Drugs and Difference in Sixteenth-Century English Medicine," an invited presentation
-at the Medicine, Slavery, and Race in the Atlantic World conference celebrating the close of the Medicine
+"Bodies, Soul, and Environment: Assessing Drugs and Difference in Sixteenth-Century English Medicine," Medicine, Slavery, and Race in the Atlantic World, a conference celebrating the close of the Medicine
 and the Making of Race Project, led by Dr. Hannah Murphy, King's College London; May 15–18, 2025  
 
 “‘Englishing’ Natural Knowledge: Antiquarianism and Exceptionalism in Elizabethan Science,” University of Minnesota History of 
