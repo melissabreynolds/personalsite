@@ -7,11 +7,8 @@ permalink: /cv/
 ## Academic Appointments
 <hr>
 Assistant Professor of Early Modern European History, Texas Christian University (2024– )  
-
 Mellon Postdoctoral Fellow, Wolf Humanities Center; Lecturer, History and Sociology of Science Department, University of Pennsylvania (2023–24)  
-
 David Bartholomae Postdoctoral Fellow, Writing Program, Rutgers University (2022–23)  
-
 Perkins-Cotsen Postdoctoral Fellow, Society of Fellows; Lecturer, Department of History, Princeton University (2019–22)  
 
 ## Education
@@ -51,18 +48,12 @@ Co-author (with Hannah Frydman), “Introduction: Histories of Abortion Beyond R
 "How to Cure a Horse, or, the Difference Between the Knowledge of Experience and the Experience of Knowledge," _Historical Studies in the Natural Sciences_ 52, no. 4 (2022): 547–552. Access the essay [here](/HSNS5204_03_Reynolds.pdf).
 
 ### Works in Progress
-#### Peer-reviewed articles
-"Of Plants and Providence: _Materia medica_ and Bodily Difference in a Global Resource Landscape," prepared for the special issue, "Resource Landscapes: Ecologies, Labor, and Investment in the Early Modern World" in _Renaissance Quarterly_, co-edited by Renée Raphael and Tina Asmussen (revise and resubmit July 2024).
+#### Peer-reviewed chapters
+"Media Change," a chapter for the __Handbook for How-To Studies__ (Brill), edited by Stefan Laube (Humboldt University) and Laurence Grove (Glasgow)
 
 #### Digital Editions
-[_Old Books, New Science_](https://cu-mkp.github.io/dyngleyfamily-editioncrafter-website/) is an initiative to digitally reconstruct the manuscript library of Henry Dyngley, a sixteenth-century English collector of Middle English medical manuscripts. 
-The project seeks to understand why early modern readers collected medieval medical and scientific knowledge in old manuscripts, how generations of readers engaged with these manuscripts over time, and what role these older books played in the development of new epistemologies associated with the scientific revolution.
-_Old Books, New Science_ is as one of several trial projects associated with EditionCrafter, a publication tool for digital critical editions under development (2022-2024) by the 
-[Making and Knowing Project](https://makingandknowing.org/) (M&K), [Performant Software Solutions](https://www.performantsoftware.com/), 
-and a number of case-study collaborators. EditionCrafter is designed to be an open-source, customizable 
-publishing tool that will allow users to deploy their own texts, data, and commentary as 
-low-maintenance digital critical editions. For more about this work, see the NSF award 
-announcement: [Crafting an Open Source Digital Publication Tool for the History of Science](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2218218&HistoricalAwards=false).
+[_Old Books, New Science_](https://technologies-of-history.github.io/dyngley-edition/) is an initiative to digitally reconstruct the manuscript library of Henry Dyngley, a sixteenth-century English collector of Middle English medical manuscripts in collaboration with students in TCU's Technologies of History course. The project seeks to understand why early modern readers collected medieval medical and scientific knowledge in old manuscripts, how generations of readers engaged with these manuscripts over time, and what role these older books played in the development of new epistemologies associated with the scientific revolution.
+_Old Books, New Science_ is as one of several trial projects associated with EditionCrafter, a publication tool for digital critical editions under development (2022-2024) by the [Making and Knowing Project](https://makingandknowing.org/) (M&K), [Performant Software Solutions](https://www.performantsoftware.com/), and a number of case-study collaborators.
  
 ## Fellowships, Grants, and Awards
 <hr>
@@ -197,34 +188,24 @@ Editorial Assistant, _Speculum: The Journal of the Medieval Academy of America_ 
 <hr>
 Visit the [syllabi](/syllabi) page for course descriptions and sample syllabi.  
 
-__Texas Christian University (as Instructor of Record)__  
+__Texas Christian University__  
 The World Expanded: Europe, 1348–1789  
 History of Science: Scientific Revolutions  
 Technologies of History from Cuneiform to Coding  
 History of Science (graduate seminar)
 
-__University of Pennsylvania (as Instructor of Record)__  
+__University of Pennsylvania__  
 Fertile Bodies: A Cultural History of Reproduction from Antiquity to the Enlightenment 
 
-__Rutgers University (as Instructor of Record)__  
+__Rutgers University__  
 Writing for Publication (graduate seminar)  
 Expository Writing  
 Basic Composition  
 
-__Princeton University (as Instructor of Record)__  
+__Princeton University__  
 A History of Words: Technologies of Communication from Cuneiform to Coding  
 Fertile Bodies: Reproduction from Antiquity to the Enlightenment   
 Interdisciplinary Approaches to Western Culture I   
-
-__Rutgers University (as Teaching Fellow)__  
-The Crusades  
-European Development I  
-
-__The University of Alabama (as Teaching Assistant)__  
-Western Civilization since 1648  
-American Civilization to 1865   
-Western Civilization to 1648   
-American Civilization since 1865
 
 ## Languages
 <hr>
