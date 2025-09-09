@@ -7,9 +7,10 @@ history of medicine and science, the history of gender and the body, and the his
 material texts. In her research and teaching, she is particularly interested in
 tracing how elite or learned cultures of medical and scientific knowledge are conveyed
 to ‘ordinary’ people through non-elite media, and in turn, how access to this knowledge
-brought about cultural change. She is Assistant Professor of early modern European history
-at Texas Christian University. Previously, she was a Mellon postdoctoral fellow in the Wolf Humanities
-Center and a Lecturer in History and Sociology of Science at the University of Pennsylvania, 
+brought about cultural change.  
+
+Reynolds is Assistant Professor of early modern European history
+at Texas Christian University. Previously, she was a Mellon postdoctoral fellow in the Wolf Humanities Center and a Lecturer in History and Sociology of Science at the University of Pennsylvania, 
 and the Perkins-Cotsen Postdoctoral Fellow in the Society of Fellows in
 the Liberal Arts and a Lecturer in History at Princeton University. She received her Ph.D.
 in History from Rutgers University, and a BA and MA from the University of Alabama. ![Headshot](/images/headshot.jpg){: width="200px" .right-image}
