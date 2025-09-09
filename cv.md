@@ -49,7 +49,7 @@ Co-author (with Hannah Frydman), “Introduction: Histories of Abortion Beyond R
 
 ### Works in Progress
 #### Peer-reviewed chapters
-"Media Change," a chapter for the __Handbook for How-To Studies__ (Brill), edited by Stefan Laube (Humboldt University) and Laurence Grove (Glasgow)
+"Media Change," a chapter for the _Handbook for How-To Studies_ (Brill), edited by Stefan Laube (Humboldt University) and Laurence Grove (Glasgow)
 
 #### Digital Editions
 [_Old Books, New Science_](https://technologies-of-history.github.io/dyngley-edition/) is an initiative to digitally reconstruct the manuscript library of Henry Dyngley, a sixteenth-century English collector of Middle English medical manuscripts in collaboration with students in TCU's Technologies of History course. The project seeks to understand why early modern readers collected medieval medical and scientific knowledge in old manuscripts, how generations of readers engaged with these manuscripts over time, and what role these older books played in the development of new epistemologies associated with the scientific revolution.
