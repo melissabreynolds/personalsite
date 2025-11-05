@@ -21,6 +21,7 @@ Perkins-Cotsen Postdoctoral Fellow, Society of Fellows; Lecturer, Department of 
 <hr>
 ### Academic Monographs
 [_Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_](https://press.uchicago.edu/ucp/books/book/chicago/R/bo222256991.html) (Chicago: University of Chicago Press, August 2024)
+	* Winner, 2025 John Ben Snow Prize from the North American Conference on British Studies for best book in any field of British Studies, pre-1800
 
 ### Peer-Reviewed Articles
 “Of Plants and Providence: Assessing Drugs, Difference, and Divine Will in Timothy Bright’s _The sufficiencie of English medicines_ (1580),” forthcoming in _Renaissance Quarterly_  
@@ -30,9 +31,13 @@ Perkins-Cotsen Postdoctoral Fellow, Society of Fellows; Lecturer, Department of 
 
 “‘Here is a good boke to lerne’: Practical books, the coming of the press, and the search for knowledge, ca. 1400–1560,” _Journal of British Studies_ 58, no. 2 (April 2019): 259–288. Access the article [here](https://www.cambridge.org/core/journals/journal-of-british-studies/article/here-is-a-good-boke-to-lerne-practical-books-the-coming-of-the-press-and-the-search-for-knowledge-ca-14001560/8217EBC4F6CE53F1084709587B7C2E12/share/a024150fe1501e59df5b45628147fdd3df550196).  
 	* Honorable Mention, 2020 Essay Prize, Society of Fellows in Critical Bibliography, Rare Book School
-	
-### Guest Editor
 
+### Editorially Reviewed Articles and Essays
+Co-author (with Hannah Frydman), “Introduction: Histories of Abortion Beyond Roe,” _Gender & History_ 36, no. 2 (Summer 2024): 289–294. Access the essay [here](http://doi.org/10.1111/1468-0424.12803).
+
+"How to Cure a Horse, or, the Difference Between the Knowledge of Experience and the Experience of Knowledge," _Historical Studies in the Natural Sciences_ 52, no. 4 (2022): 547–552. Access the essay [here](/HSNS5204_03_Reynolds.pdf).
+
+### Edited Collections and Special Issues
 Co-editor (with Hannah Frydman) of a special forum of articles, “Reproductive Rights Beyond Roe,” _Gender & History_ 36, no. 2 (2024): 289–333. 
 (Contributors: Bibia Pavard, Brooke Lansing Mai, Hannah Stamler) Access the special forum [here](https://onlinelibrary.wiley.com/toc/14680424/2024/36/2).
 
@@ -41,11 +46,6 @@ Pamela Smith et al., eds.,
 _Secrets of Craft and Nature in Renaissance France: A Digital Critical Edition and English Translation of Bibliothèque nationale de France MS Fr. 640_,
 [https://edition640.makingandknowing.org,](https://edition640.makingandknowing.org) launched February 6, 2020.  
 	* Winner, 2021 Eugene S. Ferguson Prize, Society for the History of Technology
-
-### Invited Essays
-Co-author (with Hannah Frydman), “Introduction: Histories of Abortion Beyond Roe,” _Gender & History_ 36, no. 2 (Summer 2024): 289–294. Access the essay [here](http://doi.org/10.1111/1468-0424.12803).
-
-"How to Cure a Horse, or, the Difference Between the Knowledge of Experience and the Experience of Knowledge," _Historical Studies in the Natural Sciences_ 52, no. 4 (2022): 547–552. Access the essay [here](/HSNS5204_03_Reynolds.pdf).
 
 ### Works in Progress
 #### Peer-reviewed chapters
@@ -57,7 +57,9 @@ _Old Books, New Science_ is as one of several trial projects associated with Edi
  
 ## Fellowships, Grants, and Awards
 <hr>
+
 ### External
+2025	John Ben Snow Prize, North American Conference on British Studies
 2025	Short-term Fellowship, Folger Shakespeare Library  
 2024	Paul Oskar Kristeller Fellowship, Renaissance Society of America  
 2023  	J. Worth Estes Prize, American Association for the History of Medicine  
@@ -86,7 +88,10 @@ _Old Books, New Science_ is as one of several trial projects associated with Edi
 
 ## Conferences, Seminars, & Invited Talks
 <hr>
+
 ### Invited Research Talks and Presentations
+"Manuscript Medicine and the Making of an English Past," an invited talk and workshop at the Early Modern Studies Institute, Huntington Library, San Marino, CA; March 27, 2026
+
 "Bodies, Soul, and Environment: Assessing Drugs and Difference in Sixteenth-Century English Medicine," Medicine, Slavery, and Race in the Atlantic World, a conference celebrating the close of the Medicine
 and the Making of Race Project, led by Dr. Hannah Murphy, King's College London; May 15–18, 2025  
 
