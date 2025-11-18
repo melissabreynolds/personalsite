@@ -20,7 +20,7 @@ Perkins-Cotsen Postdoctoral Fellow, Society of Fellows; Lecturer, Department of 
 ## Publications
 <hr>
 ### Academic Monographs
-[_Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_](https://press.uchicago.edu/ucp/books/book/chicago/R/bo222256991.html) (Chicago: University of Chicago Press, August 2024)
+[_Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_](https://press.uchicago.edu/ucp/books/book/chicago/R/bo222256991.html) (Chicago: University of Chicago Press, August 2024)  
 	* Winner, 2025 John Ben Snow Prize from the North American Conference on British Studies for best book in any field of British Studies, pre-1800
 
 ### Peer-Reviewed Articles
@@ -59,7 +59,7 @@ _Old Books, New Science_ is as one of several trial projects associated with Edi
 <hr>
 
 ### External
-2025	John Ben Snow Prize, North American Conference on British Studies
+2025	John Ben Snow Prize, North American Conference on British Studies  
 2025	Short-term Fellowship, Folger Shakespeare Library  
 2024	Paul Oskar Kristeller Fellowship, Renaissance Society of America  
 2023  	J. Worth Estes Prize, American Association for the History of Medicine  
@@ -134,6 +134,12 @@ Early Modern England,” Committee on the Study of Books and Media, Princeton Un
 Textuality, Materiality, and Reading Practices Working Group, Princeton University, February 6, 2020  
 
 ### Conference Sessions Organized
+Organizer, “Power, Politics, Patronage: Funding Renaissance Medicine and Science,” Annual Meeting of the Renaissance Society of America; San Francisco, CA, February 20, 2025
+
+Co-organizer, "Medicine and Science in the Early Modern Pacific I and II," Annual Meeting of the Renaissance Society of America; San Francisco, CA, February 20, 2025
+
+Co-organizer, “Mind, Labor, and Movement: Metaphors in Histories and Futures of Communications Technologies,” Roundtable at the History of Science Society Annual Meeting; New Orleans, LA, 14 November 2025
+
 Organizer, Beyond the ‘Stigma of Print’: Cultivating Women’s Scientific and Medical Expertise in Manuscript; Sponsored by the Society for the Study of Early Modern Women and Gender; Annual Meeting of the American Historical Association, New Orleans, LA, January 6–9 (postponed to online format, 21 February 2022)  
 
 Co-organizer, The State of the Margins: Thirty Years After “Gabriel Harvey and His Livy,” Annual Meeting of the Renaissance Society of America, Philadelphia, PA, April 2–4, 2021 [Originally scheduled for RSA 2020 but rolled over to virtual RSA 2021 due to Covid-19]  
@@ -141,16 +147,20 @@ Co-organizer, The State of the Margins: Thirty Years After “Gabriel Harvey and
 Co-organizer and Chair, Vernacular Knowledge and Learned Tradition in Early Modern England: Movement, Practice, Reception, History of Science Society; Atlanta, GA, November 3–6, 2016  
 
 ### Selected Conference Presentations
-“A Protestant Philosophy? Medicine, the Body, and the Environment in Sixteenth-Century English and German Thought,” Renaissance Society of America Annual Meeting  
+“Between Politics and Piracy: Trading Metals, Minerals, and Exotic Materia Medica in Early Modern Europe,” Renaissance Society of America Annual Meeting
 
-Roundtable participant, Roundtable participant, “In and Out of Context: The Varieties of Contextual Reading in Early Modern Europe,” Renaissance Society of America Annual Meeting  
+Invited presenter, "Generation as Metaphor: Bodies, Environment, and the Individual in Late Medieval and Early Modern European Medicine," History of Science Society Annual Meeting; New Orleans, LA, November 15, 2025
 
-Roundtable participant, “Collaborative Futures: Tools for Collaboration from the 
+Invited presenter, “A Protestant Philosophy? Medicine, the Body, and the Environment in Sixteenth-Century English and German Thought,” Renaissance Society of America Annual Meeting; Boston, MA, March 20, 2025 
+
+Invited participant, Roundtable on “In and Out of Context: The Varieties of Contextual Reading in Early Modern Europe,” Renaissance Society of America Annual Meeting; Boston, MA, March 21, 2025
+
+Invited participant, Roundtable on “Collaborative Futures: Tools for Collaboration from the 
 Making and Knowing Project,” History of Science Society Annual Meeting; Merida, Mexico, November 9, 2024  
 
-“Henry Dyngley’s Digital Library: How a New Open-Access Platform is Enabling the Digital Reconstruction of a Sixteenth-Century Manuscript Collection,” International Congress on Medieval Studies, May 9–11, 2024  
+“Henry Dyngley’s Digital Library: How a New Open-Access Platform is Enabling the Digital Reconstruction of a Sixteenth-Century Manuscript Collection,” International Congress on Medieval Studies (virtual), May 9–11, 2024  
 
-Participant, roundtable on "Resources Landscapes in the Early Modern World," Renaissance Society of America Annual Meeting; Chicago, IL, March 21, 2024
+Invited participant, Roundtable on "Resources Landscapes in the Early Modern World," Renaissance Society of America Annual Meeting; Chicago, IL, March 21, 2024
 
 “Print and the ‘Englishing’ of Medical Knowledge,” Renaissance Society of America Annual Meeting; Chicago, IL, March 22, 2024  
 

@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+	background-color: $white;
   font: 18px/1.4 $Noto;
   font-weight: 300;
   color: $gray;
@@ -73,6 +73,7 @@ p {
 a {
   color: $blue;
   text-decoration: none;
+  font-weight: 900;
 	cursor: pointer;
   &:hover, &:active {
     color: $blue;
@@ -161,31 +162,9 @@ img {
   background: $lightGray;
 }
 
-// Nicolas Gallagher's micro clearfix hack
-// http://nicolasgallagher.com/micro-clearfix-hack/
-.clearfix:before,
-.clearfix:after {
-    content: " ";
-    display: table;
-}
-
-.clearfix:after {
-    clear: both;
-}
-
-/*********************/
-/* LAYOUT / SECTIONS */
-/*********************/
-
-//
-// .masthead
-//
-
 .wrapper-masthead {
   position: fixed;
-  background-color: $darkerGray;
-  margin: 0px auto;
-  padding: 15px 0px 10px 0px;
+  background-color: $black;
   width: 100%;
   z-index: 10;
 
@@ -198,7 +177,6 @@ img {
   position: relative;
   margin: 0px auto;
   width: 100%;
-  padding: 50px 0px 50px 0px;
 }
 
 #hero {
@@ -263,9 +241,10 @@ img {
 }
 
 nav {
-  float: right;
-  text-align: right;
-  margin-bottom: 0px; // @TODO: Vertically middle align
+  float: none;
+  text-align: center;
+  margin-top: 20px; // @TODO: Vertically middle align
+  padding: 0px 0px 20px 0px;
   font-family: $Noto;
   width: 100%;
   display: table;
@@ -278,16 +257,15 @@ nav {
   }
 
   a {
-    margin-left: 20px;
-    text-decoration: none;
+    margin-left: 30px;
     color: $white;
-    text-align: right;
     font-weight: 300;
     letter-spacing: 0px;
     font-size: 24px;
      &:hover, &:active {
     color: $blue;
     text-decoration: none;
+    font-weight: 900;
   }
 
     @include mobile {
@@ -335,14 +313,13 @@ nav {
 }
 
 .wrapper-footer {
-  margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $black;
+  color: $white;
 }
 
 footer {
-  padding: 20px 0;
+  margin: 50px 0px 0px 0px;
+  padding: 20px 0px 100px 0px;
   font-size: 12px;
   text-align: center;
 }

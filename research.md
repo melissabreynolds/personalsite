@@ -13,14 +13,14 @@ with us today as we navigate an ever-changing information economy and a changing
 is an attempt to remedy the problem of access. Here you'll find presentations, podcasts, and websites where I describe my research for interested
 readers and thinkers outside academia. 
 
-[![Book cover image](https://press.uchicago.edu/dam/ucp/books/jacket/978/02/26/83/9780226834894.jpg){: width="270px" .right-image}](https://press.uchicago.edu/ucp/books/book/chicago/R/bo222256991.html)
 ## My Book
 <hr>
 My first book,[_Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_](https://press.uchicago.edu/ucp/books/book/chicago/R/bo222256991.html) (Chicago: University of Chicago Press, 2024),
 is available in paperback from the University of Chicago Press. Though it is an academic monograph,
 the stories it tells of readers and their books more than 500 years ago may appeal to anyone
 who has searched Dr. Google to diagnose a rash or watched a YouTube video to learn how to 
-mend a shirt or cook a meal. It's also a great read for book nerds!
+mend a shirt or cook a meal. It's also a great read for book nerds! 
+[![Book cover image](https://press.uchicago.edu/dam/ucp/books/jacket/978/02/26/83/9780226834894.jpg){: width="270px" .right-image}](https://press.uchicago.edu/ucp/books/book/chicago/R/bo222256991.html)
 
 If you'd like to learn more about the book, you can listen to [this interview](https://newbooksnetwork.com/reading-practice) I did with Sarah
 Bramao-Ramos of New Books Network, all about the research, arguments, and ideas that went into _Reading Practice._
@@ -40,35 +40,35 @@ As an educator and a historian, I'm always looking for outlets that will allow m
 my research about the past and connect that research to contemporary questions or problems. Below, you'll find 
 links to op-eds, blog posts, and podcasts all about my research, and sometimes about the relationship between premodern history and contemporary politics.
 
-#### "Interview with Sarah Bramao-Ramos about _Reading Practice_," [New Books Network](https://newbooksnetwork.com/reading-practice), January 17, 2025
+**"Interview with Sarah Bramao-Ramos about _Reading Practice_,"** [New Books Network](https://newbooksnetwork.com/reading-practice), January 17, 2025
 
-#### Co-editor, "Images As/And Recipes," Autumn 2024 Issue of [The Recipes Project](https://recipes.hypotheses.org/autumn-2024)
+**Co-editor, "Images As/And Recipes,"** Autumn 2024 Issue of [The Recipes Project](https://recipes.hypotheses.org/autumn-2024)
 
-#### "The Page 99 Test: Reading Practice," [The Page 99 Test](http://page99test.blogspot.com/2024/09/melissa-reynoldss-reading-practice.html), September 18, 2024
+**"The Page 99 Test: Reading Practice,"** [The Page 99 Test](http://page99test.blogspot.com/2024/09/melissa-reynoldss-reading-practice.html), September 18, 2024
 
-#### "Medicine, Magic, and Literacy in Early Modern England," [_Chasing Leviathan_](https://youtube.com/@chasingleviathan?si=gKkajgW0_k8JXAs3), September 8, 2023
+**"Medicine, Magic, and Literacy in Early Modern England,"** [_Chasing Leviathan_](https://youtube.com/@chasingleviathan?si=gKkajgW0_k8JXAs3), September 8, 2023
 
-#### "Reading Remedy Books: Manuscripts and the Making of a National Medical Tradition,” for the National Library of Medicine’s [Circulating Now](https://circulatingnow.nlm.nih.gov/2023/10/26/reading-remedy-books-manuscripts-and-the-making-of-a-national-medical-tradition/), October 26, 2023
+**"Reading Remedy Books: Manuscripts and the Making of a National Medical Tradition,”** for the National Library of Medicine’s [Circulating Now](https://circulatingnow.nlm.nih.gov/2023/10/26/reading-remedy-books-manuscripts-and-the-making-of-a-national-medical-tradition/), October 26, 2023
 
-#### Editor, “Recipes for Rebirth,” Spring 2023 Issue of [The Recipes Project](https://recipes.hypotheses.org/spring-2023)
+**Editor, “Recipes for Rebirth,”** Spring 2023 Issue of [The Recipes Project](https://recipes.hypotheses.org/spring-2023)
 
-#### "On the Absurdity of Deeply Rooted Tradition," [_The Daily Princetonian_](https://www.dailyprincetonian.com/article/2022/05/history-abortion-rooted-tradition-absurd-scholar), May 10, 2022
+**"On the Absurdity of Deeply Rooted Tradition,"** [_The Daily Princetonian_](https://www.dailyprincetonian.com/article/2022/05/history-abortion-rooted-tradition-absurd-scholar), May 10, 2022
 
-#### "A Late Medieval 'How To' Book," recorded for [90Second Narratives](https://www.buzzsprout.com/925213/8138773), March 15, 2021
+**"A Late Medieval 'How To' Book,"** recorded for [90Second Narratives](https://www.buzzsprout.com/925213/8138773), March 15, 2021
 
-#### "Perpetual Prognostications: Medieval Recipes for Living," [The Recipes Project](https://recipes.hypotheses.org/17522), October 1, 2020
+**"Perpetual Prognostications: Medieval Recipes for Living,"** [The Recipes Project](https://recipes.hypotheses.org/17522), October 1, 2020
 
-#### "Communications Failures from the Fifteenth Century are Still Happening Today," recorded for [Policy Punchline](https://www.policypunchline.com/episodes/2020/4/21/melissa-reynolds), April 21, 2020
+**"Communications Failures from the Fifteenth Century are Still Happening Today,"** recorded for [Policy Punchline](https://www.policypunchline.com/episodes/2020/4/21/melissa-reynolds), April 21, 2020
 
-#### "A Recipe for Reproductive Healthcare," [The Recipes Project](https://recipes.hypotheses.org/15134), June 27, 2019
+**"A Recipe for Reproductive Healthcare,"** [The Recipes Project](https://recipes.hypotheses.org/15134), June 27, 2019
 
-#### "The key to lowering America’s high rates of maternal mortality," [_The Washington Post_](https://www.washingtonpost.com/outlook/2019/05/09/key-lowering-americas-high-rates-maternal-mortality/), May 8, 2019
+**"The key to lowering America’s high rates of maternal mortality,"** [_The Washington Post_](https://www.washingtonpost.com/outlook/2019/05/09/key-lowering-americas-high-rates-maternal-mortality/), May 8, 2019
 
-#### "But does it work? Playful magic and the question of a recipe's purpose," [The Recipes Project](https://recipes.hypotheses.org/14220), January 24, 2019
+**"But does it work? Playful magic and the question of a recipe's purpose,"** [The Recipes Project](https://recipes.hypotheses.org/14220), January 24, 2019
 
 ## A Cool Manuscript in Digital Facsimile
 <hr>
-[![Secrets of Craft and Nature Image](/images/makingandknowing.jpg){: width="600px" .left-image}](https://edition640.makingandknowing.org) From 2015–2018, I was a member of the translation and transcription team for the _Making and Knowing Projcet_, led by
+[![Secrets of Craft and Nature Image](/images/makingandknowing.jpg){: width="600px" .left-image}](https://edition640.makingandknowing.org) From 2015–2018, I was a member of the translation and transcription team for the [_Making and Knowing Project_](https://makingandknowing.org), led by
 Professor Pamela Smith of Columbia University. Professor Smith had the brilliant idea to bring together
 graduate students in the history of art and history of science to work collaboratively on a critical edition of 
 Bibliothèque nationale de France MS Fr. 640, a late sixteenth-century manuscript filled with all variety of
@@ -80,8 +80,8 @@ graduate students who worked in labs at Columbia University over several semeste
 within the manuscript, in the process learning about the relationship between "making and knowing" about nature
 in early modern France.
 
-The completed edition, Pamela Smith et al., eds., _Secrets of Craft and Nature in Renaissance France: A Digital Critical Edition and English
-Translation of Bibliothèque nationale de France MS Fr. 640_, is freely accessible at [edition640.makingandknowing.org](https://edition640.makingandknowing.org). 
+The completed edition, Pamela Smith et al., eds., [_Secrets of Craft and Nature in Renaissance France: A Digital Critical Edition and English
+Translation of Bibliothèque nationale de France MS Fr. 640_](https://edition640.makingandknowing.org), is open access and freely available to students and teachers alike. 
 Users of the site will be able to view high-resolution images of the original manuscript alongside our translations 
 and transcriptions, but even cooler, they'll be able to watch videos and read essays describing students' attempts to
 try their hands at sixteenth-century techniques for metal casting, taxidermy, artistic reproductions, and other very cool craft
@@ -98,7 +98,7 @@ publishing tool that will allow users to deploy their own texts, data, and comme
 low-maintenance digital critical editions. For more about this work, see the NSF award 
 announcement: [Crafting an Open Source Digital Publication Tool for the History of Science](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2218218&HistoricalAwards=false). 
 
-As one of the collaborators on this project, I have begun work on [_Old Books, New Science_](https://cu-mkp.github.io/dyngleyfamily-editioncrafter-website/),
+As one of the collaborators on this project, I have begun work on [_Old Books, New Science_](https://technologies-of-history.github.io/dyngley-edition/),
 an initiative to digitally reconstruct the manuscript library of Henry Dyngley, a sixteenth-century English collector of Middle English medical manuscripts. 
 The project seeks to understand why early modern readers collected medieval medical and scientific knowledge in old manuscripts, how generations of readers 
 engaged with these manuscripts over time, and what role these older books played in the development of new epistemologies associated with the scientific revolution.
