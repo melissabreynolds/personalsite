@@ -21,7 +21,7 @@ Perkins-Cotsen Postdoctoral Fellow, Society of Fellows; Lecturer, Department of 
 <hr>
 ### Academic Monographs
 [_Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_](https://press.uchicago.edu/ucp/books/book/chicago/R/bo222256991.html) (Chicago: University of Chicago Press, August 2024)  
-	* Winner, 2025 John Ben Snow Prize from the North American Conference on British Studies for best book in any field of British Studies, pre-1800
+	* Winner, 2025 John Ben Snow Prize from the North American Conference on British Studies for best book in British Studies, pre-1800
 
 ### Peer-Reviewed Articles
 “Of Plants and Providence: Assessing Drugs, Difference, and Divine Will in Timothy Bright’s _The sufficiencie of English medicines_ (1580),” forthcoming in _Renaissance Quarterly_  
@@ -71,26 +71,22 @@ _Old Books, New Science_ is as one of several trial projects associated with Edi
 2016	Grant-in-aid, Folger Shakespeare Library, Researching the Archive Seminar  
 2015	Director’s Scholarship, Rare Book School, The University of Virginia  
 
-### Princeton
-2020	‘New Project in the Humanities’ David A. Gardner ’69 Magic Project grant      
-2020	Research Grant, University Committee on Research in the Humanities and Social Sciences  
-
-### Rutgers
+### Internal
 2024	Clark-McClintock-Gershenson Subvention Award, Rutgers History Department  
+2020	‘New Project in the Humanities’ David A. Gardner ’69 Magic Project grant        
+2020	Research Grant, University Committee on Research in the Humanities and Social Sciences  
 2018	Mellon Dissertation Completion Fellowship, School of Arts & Sciences (Declined)  
 2017	Special Study Award for Digital Humanities, Graduate School  
 2016	Mellon Summer Dissertation Research Grant, School of Arts & Sciences  
 2016	Rutgers Teaching Assistant Professional Development Fund Research Grants  
-
-### The University of Alabama
 2012	Albert Burton Moore Memorial Award for Outstanding Graduate Work in History  
-2005	Phi Beta Kappa 
+2005	Phi Beta Kappa  
 
 ## Conferences, Seminars, & Invited Talks
 <hr>
 
 ### Invited Research Talks and Presentations
-"Manuscript Medicine and the Making of an English Past," an invited talk and workshop at the Early Modern Studies Institute, Huntington Library, San Marino, CA; March 27, 2026
+"Making their Mark: Manuscripts and Medical Authority in Later Medieval and Early Modern England," an invited talk and workshop at the Early Modern Studies Institute, Huntington Library, San Marino, CA; March 27, 2026
 
 "Bodies, Soul, and Environment: Assessing Drugs and Difference in Sixteenth-Century English Medicine," Medicine, Slavery, and Race in the Atlantic World, a conference celebrating the close of the Medicine
 and the Making of Race Project, led by Dr. Hannah Murphy, King's College London; May 15–18, 2025  
@@ -134,9 +130,9 @@ Early Modern England,” Committee on the Study of Books and Media, Princeton Un
 Textuality, Materiality, and Reading Practices Working Group, Princeton University, February 6, 2020  
 
 ### Conference Sessions Organized
-Organizer, “Power, Politics, Patronage: Funding Renaissance Medicine and Science,” Annual Meeting of the Renaissance Society of America; San Francisco, CA, February 20, 2025
+Organizer, “Power, Politics, Patronage: Funding Renaissance Medicine and Science,” Annual Meeting of the Renaissance Society of America; San Francisco, CA, February 2026
 
-Co-organizer, "Medicine and Science in the Early Modern Pacific I and II," Annual Meeting of the Renaissance Society of America; San Francisco, CA, February 20, 2025
+Co-organizer, "Medicine and Science in the Early Modern Pacific I and II," Annual Meeting of the Renaissance Society of America; San Francisco, CA, February 2026
 
 Co-organizer, “Mind, Labor, and Movement: Metaphors in Histories and Futures of Communications Technologies,” Roundtable at the History of Science Society Annual Meeting; New Orleans, LA, 14 November 2025
 
@@ -147,7 +143,7 @@ Co-organizer, The State of the Margins: Thirty Years After “Gabriel Harvey and
 Co-organizer and Chair, Vernacular Knowledge and Learned Tradition in Early Modern England: Movement, Practice, Reception, History of Science Society; Atlanta, GA, November 3–6, 2016  
 
 ### Selected Conference Presentations
-“Between Politics and Piracy: Trading Metals, Minerals, and Exotic Materia Medica in Early Modern Europe,” Renaissance Society of America Annual Meeting
+“Between Politics and Piracy: Trading Metals, Minerals, and Exotic Materia Medica in Early Modern Europe,” Renaissance Society of America Annual Meeting; San Francisco, CA, February 2026
 
 Invited presenter, "Generation as Metaphor: Bodies, Environment, and the Individual in Late Medieval and Early Modern European Medicine," History of Science Society Annual Meeting; New Orleans, LA, November 15, 2025
 
