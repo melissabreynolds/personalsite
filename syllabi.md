@@ -37,12 +37,10 @@ Check back in Fall of 2025 for links to episodes of students' podcast episodes, 
 
 ## Technologies of History from Cuneiform to Coding
 <hr>
-![Cuneiform tablet](/images/cuneiform.jpg){: width="175px" .left-image} This digital humanities course was first developed in 2021 with a David A. Gardner '69 Magic Grant from the Humanities Council at Princeton University. You can view the [Spring 2021 course website](https://hum-331-princeton.github.io) to read Princeton students' work or view the syllabus and course assignments with tutorials [here](https://hum-331-princeton.github.io/course).
+![Cuneiform tablet](/images/cuneiform.jpg){: width="175px" .left-image} This digital humanities course was first developed in 2021 with a David A. Gardner '69 Magic Grant from the Humanities Council at Princeton University. You can view the [Spring 2021 course website](https://hum-331-princeton.github.io) to read Princeton students' work.
 
 Now taught at TCU, "Technologies of History" asks how the ways that humans communicate—via inscription, graffito, letter, or Tweet—have the power to affect society and make history. We explore the history of communications technologies from the invention of writing to the printing press to social media, and each week, we pair these topics with analysis of a cutting-edge digital archive or project. 
-Students then learn how to use the “digital tools” reflected in these projects, building the skills necessary to produce their own works of digital historical scholarship.  
+Students then learn how to use the “digital tools” reflected in these projects, building the skills necessary to produce their own works of digital historical scholarship. You can view the Spring 2026 syllabus [here](https://technologies-of-history.github.io/course) or check out student work produced in the course on our [blog](https://technologies-of-history.github.io/spring-2026).
 
 The course thus has two interconnected aims: to introduce students to the history of communications technology from the ancient Near East to the modern U.S. and to interrogate how contemporary digital communications technologies shape our study of the creation, circulation, and transmission of historical knowledge. Close engagement with digital archives allows students to view and appreciate the material texts of the past, but it also forces students to analyze how digital archives make historical arguments through the representation and presentation of sources. 
 Students learn about the limitations of digital archives, both as representations of material objects and as ephemeral—and often fragile—sources in their own right, while also developing the digital skills to create their own works of historical scholarship for publication.  
-
-Check back in Spring 2026 for links to the course website where you can check out TCU students' work with these digital tools.
