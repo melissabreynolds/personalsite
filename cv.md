@@ -24,7 +24,7 @@ Perkins-Cotsen Postdoctoral Fellow, Society of Fellows; Lecturer, Department of 
 	* Winner, 2025 John Ben Snow Prize from the North American Conference on British Studies for best book in British Studies, pre-1800
 
 ### Peer-Reviewed Articles
-“Of Plants and Providence: Assessing Drugs, Difference, and Divine Will in Timothy Bright’s _The sufficiencie of English medicines_ (1580),” forthcoming in _Renaissance Quarterly_  
+“Of Plants and Providence: Assessing Drugs, Difference, and Divine Will in Timothy Bright’s _The sufficiencie of English medicines_ (1580),” _Renaissance Quarterly_ , 78, no. 4 (Winter 2025): 1027-1058. Access the article [here](https://doi.org/10.1017/rqx.2025.10307).  
 
 “The ‘Sururgia’ of Nicholas Neesbett: Writing Medical Authority in Later Medieval England,” _Social History of Medicine_, 35, no. 1 (February 2022): 144–169. Access the article [here](https://academic.oup.com/shm/article/35/1/144/6414565?guestAccessKey=05a89a2c-e8fd-498b-824e-7ce8a7b98e88).  
 	* Winner, 2023 J. Worth Estes Prize, American Association for the History of Medicine
@@ -86,7 +86,7 @@ _Old Books, New Science_ is as one of several trial projects associated with Edi
 <hr>
 
 ### Invited Research Talks and Presentations
-"Making their Mark: Manuscripts and Medical Authority in Later Medieval and Early Modern England," an invited talk and workshop at the Early Modern Studies Institute, Huntington Library, San Marino, CA; March 27, 2026
+"Making their Mark: Manuscripts and Medical Authority in Later Medieval and Early Modern England," an invited talk and workshop at the Early Modern Studies Institute, Huntington Library, San Marino, CA; April 3, 2026
 
 "Bodies, Soul, and Environment: Assessing Drugs and Difference in Sixteenth-Century English Medicine," Medicine, Slavery, and Race in the Atlantic World, a conference celebrating the close of the Medicine
 and the Making of Race Project, led by Dr. Hannah Murphy, King's College London; May 15–18, 2025  
