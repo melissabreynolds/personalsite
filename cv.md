@@ -21,7 +21,8 @@ Perkins-Cotsen Postdoctoral Fellow, Society of Fellows; Lecturer, Department of 
 <hr>
 ### Academic Monographs
 [_Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_](https://press.uchicago.edu/ucp/books/book/chicago/R/bo222256991.html) (Chicago: University of Chicago Press, August 2024)  
-	* Winner, 2025 John Ben Snow Prize from the North American Conference on British Studies for best book in British Studies, pre-1800
+	* Winner, 2025 John Ben Snow Prize, North American Conference on British Studies   
+	* Shortlist, 2026 William H. Welch Medal, American Association for the History of Medicine
 
 ### Peer-Reviewed Articles
 “Of Plants and Providence: Assessing Drugs, Difference, and Divine Will in Timothy Bright’s _The sufficiencie of English medicines_ (1580),” _Renaissance Quarterly_ , 78, no. 4 (Winter 2025): 1027-1058. Access the article [here](https://doi.org/10.1017/rqx.2025.10307).  
