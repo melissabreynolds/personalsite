@@ -91,17 +91,15 @@ techniques captured in BnF MS fr.640.
 ## A Manuscript Edition in Progress
 <hr>
 Inspired by the success of _Secrets of Craft and Nature_, Professor Smith received a National Science Foundation Grant (#2218218) to
-create a publication tool for digital critical editions. This tool, the software EditionCrafter, is currently under development (2022-2024) by the 
-[Making and Knowing Project](https://makingandknowing.org/) (M&K), [Performant Software Solutions](https://www.performantsoftware.com/), 
-and a number of case-study collaborators. EditionCrafter is designed to be an open-source, customizable 
-publishing tool that will allow users to deploy their own texts, data, and commentary as 
-low-maintenance digital critical editions. For more about this work, see the NSF award 
+create a publication tool for digital critical editions. This tool, the software [EditionCrafter](https://editioncrafter.org), developed by [Performant Software Solutions](https://www.performantsoftware.com/), is now freely available to work with as a CLI, in GitHub CodeSpaces, or in a React App. For more about this work, see the NSF award 
 announcement: [Crafting an Open Source Digital Publication Tool for the History of Science](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2218218&HistoricalAwards=false). 
 
-As one of the collaborators on this project, I have begun work on [_Old Books, New Science_](https://technologies-of-history.github.io/dyngley-edition/),
+As one of the original collaborators on this project, I have begun work on [_Old Books, New Science_](https://technologies-of-history.github.io/dyngley-edition/),
 an initiative to digitally reconstruct the manuscript library of Henry Dyngley, a sixteenth-century English collector of Middle English medical manuscripts. 
 The project seeks to understand why early modern readers collected medieval medical and scientific knowledge in old manuscripts, how generations of readers 
 engaged with these manuscripts over time, and what role these older books played in the development of new epistemologies associated with the scientific revolution.
 _Old Books, New Science_ is very much  work-in-progress, though interested readers will be able to see transcriptions of the first
-few pages of one of Dyngley's manuscripts, Trinity College Cambridge MS O.8.35, at the project site.
+few pages of one of Dyngley's manuscripts, Trinity College Cambridge MS O.8.35, at the project site. 
+
+TCU students in my [Technologies of History](https://technologies-of-history.github.io/course/digitaltools3) course will be working on transcriptions to contribute to this crowd-sourced edition of a Middle English medical manuscript, so check back again in late spring 2026 to see more folios added to the edition!
 

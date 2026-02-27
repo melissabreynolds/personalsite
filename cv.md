@@ -6,15 +6,20 @@ permalink: /cv/
 
 ## Academic Appointments
 <hr>
-Assistant Professor of Early Modern European History, Texas Christian University (2024– )  
-Mellon Postdoctoral Fellow, Wolf Humanities Center; Lecturer, History and Sociology of Science Department, University of Pennsylvania (2023–24)  
-David Bartholomae Postdoctoral Fellow, Writing Program, Rutgers University (2022–23)  
-Perkins-Cotsen Postdoctoral Fellow, Society of Fellows; Lecturer, Department of History, Princeton University (2019–22)  
+Assistant Professor of Early Modern European History, Texas Christian University (2024 – )
+
+Mellon Postdoctoral Fellow, Wolf Humanities Center; Instructor, History and Sociology of Science Department, University of Pennsylvania (2023 – 24)
+
+David Bartholomae Postdoctoral Fellow, Writing Program, Rutgers University (2022 – 23)
+
+Perkins-Cotsen Postdoctoral Fellow, Society of Fellows; Lecturer, Department of History, Princeton University (2019 – 22)
 
 ## Education
 <hr>
-2019 PhD, History, Rutgers University   
-2011 MA, History, The University of Alabama    
+2019 PhD, History, Rutgers University
+
+2011 MA, History, The University of Alabama
+
 2005 BA, English, The University of Alabama, _summa cum laude_
 
 ## Publications
@@ -60,6 +65,7 @@ _Old Books, New Science_ is as one of several trial projects associated with Edi
 <hr>
 
 ### External
+2026	Shortlist, William H. Welch Medal, American Association for the History of Medicine  
 2025	John Ben Snow Prize, North American Conference on British Studies  
 2025	Short-term Fellowship, Folger Shakespeare Library  
 2024	Paul Oskar Kristeller Fellowship, Renaissance Society of America  
