@@ -98,8 +98,6 @@ As one of the original collaborators on this project, I have begun work on [_Old
 an initiative to digitally reconstruct the manuscript library of Henry Dyngley, a sixteenth-century English collector of Middle English medical manuscripts. 
 The project seeks to understand why early modern readers collected medieval medical and scientific knowledge in old manuscripts, how generations of readers 
 engaged with these manuscripts over time, and what role these older books played in the development of new epistemologies associated with the scientific revolution.
-_Old Books, New Science_ is very much  work-in-progress, though interested readers will be able to see transcriptions of the first
-few pages of one of Dyngley's manuscripts, Trinity College Cambridge MS O.8.35, at the project site. 
 
-TCU students in my [Technologies of History](https://technologies-of-history.github.io/course/digitaltools3) course will be working on transcriptions to contribute to this crowd-sourced edition of a Middle English medical manuscript, so check back again in late spring 2026 to see more folios added to the edition!
+TCU students in my Spring 2026 [Technologies of History](https://technologies-of-history.github.io/course/digitaltools3) course contributed transcriptions to the project, which remains a work in progress!
 
