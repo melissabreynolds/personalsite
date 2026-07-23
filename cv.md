@@ -6,42 +6,37 @@ permalink: /cv/
 
 ## Academic Appointments
 <hr>
-Assistant Professor of Early Modern European History, Texas Christian University (2024 – )
-
-Mellon Postdoctoral Fellow, Wolf Humanities Center; Instructor, History and Sociology of Science Department, University of Pennsylvania (2023 – 24)
-
-David Bartholomae Postdoctoral Fellow, Writing Program, Rutgers University (2022 – 23)
-
+Assistant Professor of Early Modern European History, Texas Christian University (2024 – )  
+Direector of Graduate Studies (2026 – )  
+Mellon Postdoctoral Fellow, Wolf Humanities Center; Instructor, History and Sociology of Science Department, University of Pennsylvania (2023 – 24)  
+David Bartholomae Postdoctoral Fellow, Writing Program, Rutgers University (2022 – 23)  
 Perkins-Cotsen Postdoctoral Fellow, Society of Fellows; Lecturer, Department of History, Princeton University (2019 – 22)
 
 ## Education
 <hr>
-2019 PhD, History, Rutgers University
-
-2011 MA, History, The University of Alabama
-
-2005 BA, English, The University of Alabama, _summa cum laude_
+2019 PhD, History, Rutgers University  
+2011 MA, History, The University of Alabama  
+2005 BA, English, The University of Alabama, with Honors _summa cum laude_
 
 ## Publications
 <hr>
 ### Academic Monographs
 [_Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_](https://press.uchicago.edu/ucp/books/book/chicago/R/bo222256991.html) (Chicago: University of Chicago Press, August 2024)  
 	* Winner, 2025 John Ben Snow Prize, North American Conference on British Studies   
-	* Shortlist, 2026 William H. Welch Medal, American Association for the History of Medicine
+	* Winner, 2026 William H. Welch Medal, American Association for the History of Medicine
 
-### Peer-Reviewed Articles
+### Articles, Essays, and Book Chapters
 “Of Plants and Providence: Assessing Drugs, Difference, and Divine Will in Timothy Bright’s _The sufficiencie of English medicines_ (1580),” _Renaissance Quarterly_ , 78, no. 4 (Winter 2025): 1027-1058. Access the article [here](https://doi.org/10.1017/rqx.2025.10307).  
+
+Co-author (with Hannah Frydman), “Introduction: Histories of Abortion Beyond Roe,” _Gender & History_ 36, no. 2 (Summer 2024): 289–294. Access the essay [here](http://doi.org/10.1111/1468-0424.12803).  
+
+"How to Cure a Horse, or, the Difference Between the Knowledge of Experience and the Experience of Knowledge," _Historical Studies in the Natural Sciences_ 52, no. 4 (2022): 547–552. Access the essay [here](/HSNS5204_03_Reynolds.pdf).  
 
 “The ‘Sururgia’ of Nicholas Neesbett: Writing Medical Authority in Later Medieval England,” _Social History of Medicine_, 35, no. 1 (February 2022): 144–169. Access the article [here](https://academic.oup.com/shm/article/35/1/144/6414565?guestAccessKey=05a89a2c-e8fd-498b-824e-7ce8a7b98e88).  
 	* Winner, 2023 J. Worth Estes Prize, American Association for the History of Medicine
 
 “‘Here is a good boke to lerne’: Practical books, the coming of the press, and the search for knowledge, ca. 1400–1560,” _Journal of British Studies_ 58, no. 2 (April 2019): 259–288. Access the article [here](https://www.cambridge.org/core/journals/journal-of-british-studies/article/here-is-a-good-boke-to-lerne-practical-books-the-coming-of-the-press-and-the-search-for-knowledge-ca-14001560/8217EBC4F6CE53F1084709587B7C2E12/share/a024150fe1501e59df5b45628147fdd3df550196).  
 	* Honorable Mention, 2020 Essay Prize, Society of Fellows in Critical Bibliography, Rare Book School
-
-### Editorially Reviewed Articles and Essays
-Co-author (with Hannah Frydman), “Introduction: Histories of Abortion Beyond Roe,” _Gender & History_ 36, no. 2 (Summer 2024): 289–294. Access the essay [here](http://doi.org/10.1111/1468-0424.12803).
-
-"How to Cure a Horse, or, the Difference Between the Knowledge of Experience and the Experience of Knowledge," _Historical Studies in the Natural Sciences_ 52, no. 4 (2022): 547–552. Access the essay [here](/HSNS5204_03_Reynolds.pdf).
 
 ### Edited Collections and Special Issues
 Co-editor (with Hannah Frydman) of a special forum of articles, “Reproductive Rights Beyond Roe,” _Gender & History_ 36, no. 2 (2024): 289–333. 
@@ -57,7 +52,6 @@ _Secrets of Craft and Nature in Renaissance France: A Digital Critical Edition a
 #### Peer-reviewed chapters
 "Media Change," a chapter for the _Handbook for How-To Studies_ (Brill), edited by Stefan Laube (Humboldt University) and Laurence Grove (Glasgow)
 
-#### Digital Editions
 [_Old Books, New Science_](https://technologies-of-history.github.io/dyngley-edition/) is an initiative to digitally reconstruct the manuscript library of Henry Dyngley, a sixteenth-century English collector of Middle English medical manuscripts in collaboration with students in TCU's Technologies of History course. The project seeks to understand why early modern readers collected medieval medical and scientific knowledge in old manuscripts, how generations of readers engaged with these manuscripts over time, and what role these older books played in the development of new epistemologies associated with the scientific revolution.
 _Old Books, New Science_ is as one of several trial projects associated with EditionCrafter, a publication tool for digital critical editions under development (2022-2024) by the [Making and Knowing Project](https://makingandknowing.org/) (M&K), [Performant Software Solutions](https://www.performantsoftware.com/), and a number of case-study collaborators.
  
@@ -65,7 +59,7 @@ _Old Books, New Science_ is as one of several trial projects associated with Edi
 <hr>
 
 ### External
-2026	Shortlist, William H. Welch Medal, American Association for the History of Medicine  
+2026	William H. Welch Medal, American Association for the History of Medicine  
 2025	John Ben Snow Prize, North American Conference on British Studies  
 2025	Short-term Fellowship, Folger Shakespeare Library  
 2024	Paul Oskar Kristeller Fellowship, Renaissance Society of America  
@@ -93,6 +87,14 @@ _Old Books, New Science_ is as one of several trial projects associated with Edi
 <hr>
 
 ### Invited Research Talks and Presentations
+Invited guest and discussant, roundtable on Reading Practice, hosted by the Rutgers University History Department and Center for British Studies; October 29, 2026  
+
+“Medieval Manuscripts and the ‘Englishing’ of Medicine,” an invited lecture for the Reynolds-Finley Medical History lecture series, University of Alabama-Birmingham; September 10, 2026  
+
+“Picturing the Future: Prognostications and their Readers in an Age of Uncertainty,” American Branch of the Richard III Society (online); August 23, 2026  
+
+“The Material Culture of Later Medieval English Medicine,” Medieval European Medical Manuscripts Working Group, Consortium for the History of Science, Technology, and Medicine, Philadelphia, PA (online); April 23, 2026  
+
 "Making their Mark: Manuscripts and Medical Authority in Later Medieval and Early Modern England," an invited talk and workshop at the Early Modern Studies Institute, Huntington Library, San Marino, CA; April 3, 2026
 
 "Bodies, Soul, and Environment: Assessing Drugs and Difference in Sixteenth-Century English Medicine," Medicine, Slavery, and Race in the Atlantic World, a conference celebrating the close of the Medicine
@@ -107,11 +109,7 @@ November 2, 2023
   
 “Plants and Providence: Pharmacology as an Expression of Divine Order and Ethnic Difference,” 
 The Anatomy of Vegetation II: Plants, Experiments and Experience in the Early Modern Period, 
-Vasile Goldiș Western University of Arad, Romania (online); March 30, 2023  
-
-“Learning to Look: Imagery Beyond Alchemy in English Manuscripts,” Through a Glass Darkly, 
-an international conference celebrating the opening of an exhibition of the Ripley Scrolls 
-at Princeton University, May 27, 2022  
+Vasile Goldiș Western University of Arad, Romania (online); March 30, 2023    
 
 “Reading _Practica_: A Material History of Ideas,” Seminar in the History of Medicine, 
 McGill University, Montreal, Quebec (online); March 23, 2022  
@@ -126,6 +124,12 @@ Workshop, Faculty of Theology and Religion at the University of Oxford (online);
 and 24, 2020  
 
 ### Campus or Departmental Talks
+“Of Plants and Providence,” Wolf Humanities Seminar on “Revolutions,” University of Pennsylvania, February 6, 2024 
+
+“Learning to Look: Imagery Beyond Alchemy in English Manuscripts,” Through a Glass Darkly, 
+an international conference celebrating the opening of an exhibition of the Ripley Scrolls 
+at Princeton University, May 27, 2022
+
 “Picturing the Natural World,” Early Modern History Workshop, Princeton University, November 17, 2021  
 
 “The Sururgia of Nicholas Neesbett,” History of Science Program Seminar, Princeton University, September 7, 2020  
@@ -137,6 +141,8 @@ Early Modern England,” Committee on the Study of Books and Media, Princeton Un
 Textuality, Materiality, and Reading Practices Working Group, Princeton University, February 6, 2020  
 
 ### Conference Sessions Organized
+Co-organizer, roundtable on “Reproduction and Regimes of Authority,” Annual Meeting of the Renaissance Society of America; Philadelphia, PA, March 2027 
+
 Organizer, “Power, Politics, Patronage: Funding Renaissance Medicine and Science,” Annual Meeting of the Renaissance Society of America; San Francisco, CA, February 2026
 
 Co-organizer, "Medicine and Science in the Early Modern Pacific I and II," Annual Meeting of the Renaissance Society of America; San Francisco, CA, February 2026
@@ -150,6 +156,8 @@ Co-organizer, The State of the Margins: Thirty Years After “Gabriel Harvey and
 Co-organizer and Chair, Vernacular Knowledge and Learned Tradition in Early Modern England: Movement, Practice, Reception, History of Science Society; Atlanta, GA, November 3–6, 2016  
 
 ### Selected Conference Presentations
+“Privateers and Peppercorns: Medicine, Commerce, and Anti-Foreign Sentiment in Elizabethan England,” Annual Meeting of the North American Conference on British Studies; Pasadena, CA, November 2026  
+
 “Between Politics and Piracy: Trading Metals, Minerals, and Exotic Materia Medica in Early Modern Europe,” Renaissance Society of America Annual Meeting; San Francisco, CA, February 2026
 
 Invited presenter, "Generation as Metaphor: Bodies, Environment, and the Individual in Late Medieval and Early Modern European Medicine," History of Science Society Annual Meeting; New Orleans, LA, November 15, 2025
@@ -236,7 +244,7 @@ Renaissance Society of America
 Society for the Study of Early Modern Women and Gender  
 American Association for the History of Medicine  
 History of Science Society  
-American Historical Association  
+North American Conference on British Studies.  
 
 
 
