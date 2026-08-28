@@ -19,7 +19,7 @@ html {
 
 body {
 	background-color: $white;
-  font: 18px/1.4 $Noto;
+  font: 18px/1.4 $georgia;
   font-weight: 300;
   color: $gray;
 }
@@ -32,7 +32,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $Noto;
+  font-family: $georgia;
   color: $darkerGray;
   font-weight: 900;
 
@@ -220,7 +220,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $Noto;
+  font-family: $georgia;
   font-weight: 900;
   font-size: 44px;
   letter-spacing: 0px;
@@ -234,7 +234,7 @@ img {
 .site-description {
   margin: -1px auto;
   color: $gray;
-  font-family: $Noto;
+  font-family: $georgia;
   font-weight: 300;
   font-size: 22px;
 
@@ -250,7 +250,7 @@ nav {
   text-align: center;
   margin-top: 20px; // @TODO: Vertically middle align
   padding: 0px 0px 20px 0px;
-  font-family: $Noto;
+  font-family: $georgia;
   width: 100%;
   display: table;
 

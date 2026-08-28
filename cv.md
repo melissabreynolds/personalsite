@@ -6,17 +6,26 @@ permalink: /cv/
 
 ## Academic Appointments
 <hr>
-Assistant Professor of Early Modern European History, Texas Christian University (2024 – )  
-Direector of Graduate Studies (2026 – )  
-Mellon Postdoctoral Fellow, Wolf Humanities Center; Instructor, History and Sociology of Science Department, University of Pennsylvania (2023 – 24)  
+Assistant Professor, Department of History, TCU (2024 – )  
+
+Director of Graduate Studies, Department of History, TCU (2026 – )  
+
+Mellon Postdoctoral Fellow, Wolf Humanities Center; Instructor, History and Sociology of Science
+
+Department, University of Pennsylvania (2023 – 24)  
+
 David Bartholomae Postdoctoral Fellow, Writing Program, Rutgers University (2022 – 23)  
+
 Perkins-Cotsen Postdoctoral Fellow, Society of Fellows; Lecturer, Department of History, Princeton University (2019 – 22)
 
 ## Education
 <hr>
-2019 PhD, History, Rutgers University  
-2011 MA, History, The University of Alabama  
-2005 BA, English, The University of Alabama, with Honors _summa cum laude_
+
+__2019__ PhD, History, Rutgers University  
+
+__2011__ MA, History, The University of Alabama  
+
+__2005__ BA, English, The University of Alabama, with Honors _summa cum laude_
 
 ## Publications
 <hr>
@@ -26,31 +35,30 @@ Perkins-Cotsen Postdoctoral Fellow, Society of Fellows; Lecturer, Department of 
 	* Winner, 2026 William H. Welch Medal, American Association for the History of Medicine
 
 ### Articles, Essays, and Book Chapters
-“Of Plants and Providence: Assessing Drugs, Difference, and Divine Will in Timothy Bright’s _The sufficiencie of English medicines_ (1580),” _Renaissance Quarterly_ , 78, no. 4 (Winter 2025): 1027-1058. Access the article [here](https://doi.org/10.1017/rqx.2025.10307).  
+__“Of Plants and Providence: Assessing Drugs, Difference, and Divine Will in Timothy Bright’s _The sufficiencie of English medicines_ (1580),”__ _Renaissance Quarterly_ , 78, no. 4 (Winter 2025): 1027-1058. Access the article [here](https://doi.org/10.1017/rqx.2025.10307).  
 
-Co-author (with Hannah Frydman), “Introduction: Histories of Abortion Beyond Roe,” _Gender & History_ 36, no. 2 (Summer 2024): 289–294. Access the essay [here](http://doi.org/10.1111/1468-0424.12803).  
+Co-author (with Hannah Frydman), __“Introduction: Histories of Abortion Beyond Roe,”__ _Gender & History_ 36, no. 2 (Summer 2024): 289–294. Access the essay [here](http://doi.org/10.1111/1468-0424.12803).  
 
-"How to Cure a Horse, or, the Difference Between the Knowledge of Experience and the Experience of Knowledge," _Historical Studies in the Natural Sciences_ 52, no. 4 (2022): 547–552. Access the essay [here](/HSNS5204_03_Reynolds.pdf).  
+__"How to Cure a Horse, or, the Difference Between the Knowledge of Experience and the Experience of Knowledge,"__ _Historical Studies in the Natural Sciences_ 52, no. 4 (2022): 547–552. Access the essay [here](/HSNS5204_03_Reynolds.pdf).  
 
-“The ‘Sururgia’ of Nicholas Neesbett: Writing Medical Authority in Later Medieval England,” _Social History of Medicine_, 35, no. 1 (February 2022): 144–169. Access the article [here](https://academic.oup.com/shm/article/35/1/144/6414565?guestAccessKey=05a89a2c-e8fd-498b-824e-7ce8a7b98e88).  
+__“The ‘Sururgia’ of Nicholas Neesbett: Writing Medical Authority in Later Medieval England,”__ _Social History of Medicine_, 35, no. 1 (February 2022): 144–169. Access the article [here](https://academic.oup.com/shm/article/35/1/144/6414565?guestAccessKey=05a89a2c-e8fd-498b-824e-7ce8a7b98e88).  
 	* Winner, 2023 J. Worth Estes Prize, American Association for the History of Medicine
 
-“‘Here is a good boke to lerne’: Practical books, the coming of the press, and the search for knowledge, ca. 1400–1560,” _Journal of British Studies_ 58, no. 2 (April 2019): 259–288. Access the article [here](https://www.cambridge.org/core/journals/journal-of-british-studies/article/here-is-a-good-boke-to-lerne-practical-books-the-coming-of-the-press-and-the-search-for-knowledge-ca-14001560/8217EBC4F6CE53F1084709587B7C2E12/share/a024150fe1501e59df5b45628147fdd3df550196).  
+__“‘Here is a good boke to lerne’: Practical books, the coming of the press, and the search for knowledge, ca. 1400–1560,”__ _Journal of British Studies_ 58, no. 2 (April 2019): 259–288. Access the article [here](https://www.cambridge.org/core/journals/journal-of-british-studies/article/here-is-a-good-boke-to-lerne-practical-books-the-coming-of-the-press-and-the-search-for-knowledge-ca-14001560/8217EBC4F6CE53F1084709587B7C2E12/share/a024150fe1501e59df5b45628147fdd3df550196).  
 	* Honorable Mention, 2020 Essay Prize, Society of Fellows in Critical Bibliography, Rare Book School
 
 ### Edited Collections and Special Issues
-Co-editor (with Hannah Frydman) of a special forum of articles, “Reproductive Rights Beyond Roe,” _Gender & History_ 36, no. 2 (2024): 289–333. 
+Co-editor (with Hannah Frydman) of a special forum of articles, __“Reproductive Rights Beyond Roe,”__ _Gender & History_ 36, no. 2 (2024): 289–333. 
 (Contributors: Bibia Pavard, Brooke Lansing Mai, Hannah Stamler) Access the special forum [here](https://onlinelibrary.wiley.com/toc/14680424/2024/36/2).
 
 ### Editions and Translations
 Pamela Smith et al., eds.,
-_Secrets of Craft and Nature in Renaissance France: A Digital Critical Edition and English Translation of Bibliothèque nationale de France MS Fr. 640_,
+___Secrets of Craft and Nature in Renaissance France: A Digital Critical Edition and English Translation of Bibliothèque nationale de France MS Fr. 640_,__
 [https://edition640.makingandknowing.org,](https://edition640.makingandknowing.org) launched February 6, 2020.  
 	* Winner, 2021 Eugene S. Ferguson Prize, Society for the History of Technology
 
 ### Works in Progress
-#### Peer-reviewed chapters
-"Media Change," a chapter for the _Handbook for How-To Studies_ (Brill), edited by Stefan Laube (Humboldt University) and Laurence Grove (Glasgow)
+__"Media Change,"__ a chapter for the _Handbook for How-To Studies_ (Brill), edited by Stefan Laube (Humboldt University) and Laurence Grove (Glasgow) (in revision)
 
 [_Old Books, New Science_](https://technologies-of-history.github.io/dyngley-edition/) is an initiative to digitally reconstruct the manuscript library of Henry Dyngley, a sixteenth-century English collector of Middle English medical manuscripts in collaboration with students in TCU's Technologies of History course. The project seeks to understand why early modern readers collected medieval medical and scientific knowledge in old manuscripts, how generations of readers engaged with these manuscripts over time, and what role these older books played in the development of new epistemologies associated with the scientific revolution.
 _Old Books, New Science_ is as one of several trial projects associated with EditionCrafter, a publication tool for digital critical editions under development (2022-2024) by the [Making and Knowing Project](https://makingandknowing.org/) (M&K), [Performant Software Solutions](https://www.performantsoftware.com/), and a number of case-study collaborators.
@@ -59,29 +67,49 @@ _Old Books, New Science_ is as one of several trial projects associated with Edi
 <hr>
 
 ### External
-2026	William H. Welch Medal, American Association for the History of Medicine  
-2025	John Ben Snow Prize, North American Conference on British Studies  
-2025	Short-term Fellowship, Folger Shakespeare Library  
-2024	Paul Oskar Kristeller Fellowship, Renaissance Society of America  
-2023  	J. Worth Estes Prize, American Association for the History of Medicine  
-2022  	Co-collaborator on EditionCrafter, National Science Foundation Grant # 2218218  
-2020	Honorable Mention, Society of Fellows in Critical Bibliography Annual Essay Prize  
-2018 	Dissertation Completion Fellowship, American Council of Learned Societies   
-2018	Grant-in-aid, Folger Shakespeare Library, Faculty Weekend Seminar  
-2017	Schallek Award, The Medieval Academy of America and the Richard III Society  
-2016	Grant-in-aid, Folger Shakespeare Library, Researching the Archive Seminar  
-2015	Director’s Scholarship, Rare Book School, The University of Virginia  
+__2026__	William H. Welch Medal, American Association for the History of Medicine  
+
+__2025__	John Ben Snow Prize, North American Conference on British Studies  
+
+__2025__	Short-term Fellowship, Folger Shakespeare Library  
+
+__2024__	Paul Oskar Kristeller Fellowship, Renaissance Society of America  
+
+__2023__  	J. Worth Estes Prize, American Association for the History of Medicine  
+
+__2022__  	Co-collaborator on EditionCrafter, National Science Foundation Grant # 2218218  
+
+__2020__	Honorable Mention, Society of Fellows in Critical Bibliography Annual Essay Prize  
+
+__2018__ 	Dissertation Completion Fellowship, American Council of Learned Societies   
+
+__2018__	Grant-in-aid, Folger Shakespeare Library, Faculty Weekend Seminar  
+
+__2017__	Schallek Award, The Medieval Academy of America and the Richard III Society  
+
+__2016__	Grant-in-aid, Folger Shakespeare Library, Researching the Archive Seminar  
+
+__2015__	Director’s Scholarship, Rare Book School, The University of Virginia  
 
 ### Internal
-2024	Clark-McClintock-Gershenson Subvention Award, Rutgers History Department  
-2020	‘New Project in the Humanities’ David A. Gardner ’69 Magic Project grant        
-2020	Research Grant, University Committee on Research in the Humanities and Social Sciences  
-2018	Mellon Dissertation Completion Fellowship, School of Arts & Sciences (Declined)  
-2017	Special Study Award for Digital Humanities, Graduate School  
-2016	Mellon Summer Dissertation Research Grant, School of Arts & Sciences  
-2016	Rutgers Teaching Assistant Professional Development Fund Research Grants  
-2012	Albert Burton Moore Memorial Award for Outstanding Graduate Work in History  
-2005	Phi Beta Kappa  
+
+__2024__	Clark-McClintock-Gershenson Subvention Award, Rutgers History Department  
+
+__2020__	‘New Project in the Humanities’ David A. Gardner ’69 Magic Project grant        
+
+__2020__	Research Grant, University Committee on Research in the Humanities and Social Sciences  
+
+__2018__	Mellon Dissertation Completion Fellowship, School of Arts & Sciences (Declined)  
+
+__2017__	Special Study Award for Digital Humanities, Graduate School  
+
+__2016__	Mellon Summer Dissertation Research Grant, School of Arts & Sciences  
+
+__2016__	Rutgers Teaching Assistant Professional Development Fund Research Grants  
+
+__2012__	Albert Burton Moore Memorial Award for Outstanding Graduate Work in History  
+
+__2005__	Phi Beta Kappa  
 
 ## Conferences, Seminars, & Invited Talks
 <hr>
@@ -236,14 +264,19 @@ Interdisciplinary Approaches to Western Culture I
 ## Languages
 <hr>
 Latin, French, Middle French, Anglo-Norman, Middle English, German (with dictionary), Spanish (with dictionary)  
+
 Medieval and Early Modern Latin, French, and English paleography
 
 ## Professional Affiliations
 <hr>
 Renaissance Society of America  
+
 Society for the Study of Early Modern Women and Gender  
+
 American Association for the History of Medicine  
+
 History of Science Society  
+
 North American Conference on British Studies.  
 
 

@@ -15,7 +15,7 @@ readers and thinkers outside academia.
 
 ## My Book
 <hr>
-My first book,[_Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_](https://press.uchicago.edu/ucp/books/book/chicago/R/bo222256991.html) (Chicago: University of Chicago Press, 2024),
+My first book, [_Reading Practice: The Pursuit of Natural Knowledge from Manuscript to Print_](https://press.uchicago.edu/ucp/books/book/chicago/R/bo222256991.html) (Chicago: University of Chicago Press, 2024),
 is available in paperback from the University of Chicago Press. Though it is an academic monograph,
 the stories it tells of readers and their books more than 500 years ago may appeal to anyone
 who has searched Dr. Google to diagnose a rash or watched a YouTube video to learn how to 
